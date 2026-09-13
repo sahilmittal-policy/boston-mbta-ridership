@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+
+# Secrets
+.env
+*.key
+secrets.json
+
+# Notebook cruft
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
