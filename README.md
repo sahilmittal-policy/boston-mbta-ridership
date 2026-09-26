@@ -1,4 +1,5 @@
-# boston-mbta-ridership
-Analysis of MBTA bus ridership and the fare-free B3 program.
+# Analysis of MBTA bus ridership
 
-Team - Esha Gupta and Sahil Mittal
+**Python Programmin II - Final Project**
+
+**Team** - Esha Gupta and Sahil Mittal
