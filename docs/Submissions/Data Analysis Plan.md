@@ -4,9 +4,19 @@
 
 ## 1. Research Question
 
+"Who rides Boston's fare-free bus routes and how did ridership and service performance on these routes change over the years, compared with similar routes that kept the normal fares?"
+
+Why this question?
+Route 28 became fare-free in 2021, and Routes 23 and 29 followed in March 2022. Together they serve Roxbury, Dorchester, Mattapan and the Blue Hill Avenue corridor. The City of Boston and the MBTA have extended the program through December 31, 2026, with no decision yet on what follows, so the question is a live one for policymakers. We break it into three parts:
+
+Ridership: Did boardings on fare-free routes grow more than on similar routes that kept fares?
+Service: Did fare-free routes become faster or more reliable, as all-door boarding would suggest?
+Equity: Who rides these routes, how do riders compare with the people who live along them, and did the rider mix change after fares were removed?
+
+This question is worth 
+
 Requirements:
 1-2 pages
-Research question
 Introduce the data
   [Dataset repository](https://drive.google.com/drive/folders/1tfGz8ECDQm7eHV_HRsDywQnInZsIgoUd?usp=sharing)
 Planned methodology
