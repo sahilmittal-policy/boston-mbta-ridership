@@ -1,5 +1,8 @@
-Python II final project data analysis plan
+# Analysis Plan: Boston's Fare-Free Bus Routes
 
+**Python Programming II · Esha Gupta and Sahil Mittal · September 2026**
+
+## 1. Research Question
 
 Requirements:
 1-2 pages
