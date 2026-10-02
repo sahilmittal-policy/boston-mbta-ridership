@@ -75,5 +75,5 @@ We draw on the sources in our Data Source Inventory, which link through GTFS rou
 ## 5. Final Deliverables
 
 - A **Jupyter notebook** with all cleaning and analysis steps, shared in our GitHub repository
-- **Cleaned datasets** for each source, saved in the repository's "data/processed" folder
+- **Cleaned datasets** for each source
 - A **report** summarizing our findings and comparing them with the City of Boston's mid-program report
