@@ -22,7 +22,7 @@ We compare the fare-free routes (**23, 28, 29**) with **Route 22**, which serves
 
 ## 2. Data
 
-We draw on the sources in our Data Source Inventory, which link through GTFS route and stop IDs and census tract `GEOID`s. Raw data files are stored in our [dataset repository](https://drive.google.com/drive/folders/1tfGz8ECDQm7eHV_HRsDywQnInZsIgoUd?usp=sharing).
+We draw on the sources in our Data Source Inventory, which link through GTFS route and stop IDs and census tract "GEOID"s. Raw data files are stored in our [dataset repository](https://drive.google.com/drive/folders/1tfGz8ECDQm7eHV_HRsDywQnInZsIgoUd?usp=sharing).
 
 - **[Bus Ridership by Trip, Season, Route/Line, and Stop](https://gis.data.mass.gov/datasets/8daf4a33925a4df59183f860826d29ee)** (MassDOT, Fall 2016–2025): average boardings at each stop, from automatic passenger counters. We use these counts because fare-free riders don't tap a fare card, so fare data can't measure them.
 - **[Bus Arrival/Departure Times](https://mbta-massdot.opendata.arcgis.com/)** (MBTA, 2020–2026): when each bus actually reached key stops compared with its schedule. We use it to calculate trip times and bunching.
@@ -75,5 +75,5 @@ We draw on the sources in our Data Source Inventory, which link through GTFS rou
 ## 5. Final Deliverables
 
 - A **Jupyter notebook** with all cleaning and analysis steps, shared in our GitHub repository
-- **Cleaned datasets** for each source, saved in the repository's `data/processed` folder
+- **Cleaned datasets** for each source, saved in the repository's "data/processed" folder
 - A **report** summarizing our findings and comparing them with the City of Boston's mid-program report
