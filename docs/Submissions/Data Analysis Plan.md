@@ -61,7 +61,7 @@ We draw on the sources in our Data Source Inventory, which link through GTFS rou
 - Weekday ridership trend, 2016–2025
 - Before-and-after ridership by route
 - Trip time distributions by route, before and after
-- Bunching by route and year
+- Grouping by route and year
 - Rider demographics by route compared with all MBTA buses (2025 survey)
 - Riders vs. nearby residents on income, race and car access
 
