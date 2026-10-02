@@ -35,17 +35,17 @@ We draw on the sources in our Data Source Inventory, which link through GTFS rou
 ---
 
 
-### 3. Exploratory Data Analysis
+## 3. Exploratory Data Analysis
 
 1. **Who is riding the buses along these routes?** Income, race and car access of riders on each route (2025 Passenger Survey)
 2. **Who lives along these routes?** Income, race and poverty in the census tracts near each route (ACS)
-3. **Ridership trends:** weekday boardings by route from 2016 to 2025, and where ridership grew most after fares were removed
-4. **Busiest stops:** the stops with the most boardings on each route, and which stops gained the most riders
-5. **Service changes (before/after):** running times, arrival times compared with schedule, and how often buses arrive bunched together
-6. **Car access:** share of households with no car in the tracts along each route
-7. **Who has a car:** how car access relates to income and race across Boston tracts
-8. **Where riders live relative to the route:** which neighborhoods sit within walking distance (a quarter mile) of each route
-9. **Commute time (before/after):** share of residents with long commutes (45+ minutes) near each route, 2015–2019 vs. 2020–2024
+3. **Ridership trends:** Weekday boardings by route from 2016 to 2025, and where ridership grew most after fares were removed
+4. **Busiest stops:** Stops with the most boardings on each route, and which stops gained the most riders
+5. **Service changes (before/after):** Running times, arrival times compared with schedule, and how often buses arrive bunched together
+6. **Car access:** Share of households with no car in the tracts along each route
+7. **Who has a car:** How car access relates to income and race across Boston tracts
+8. **Where riders live relative to the route:** Which neighborhoods sit within walking distance (a quarter mile) of each route
+9. **Commute time (before/after):** Share of residents with long commutes (45+ minutes) near each route, 2015–2019 vs. 2020–2024
 
 ---
 
