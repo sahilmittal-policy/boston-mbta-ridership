@@ -1,0 +1,2380 @@
+survey_year,route_group,measure,category,pct,n_responses
+2015-17,1,trip_purpose,work,64.9,844.0
+2015-17,4,trip_purpose,work,90.9,212.0
+2015-17,7,trip_purpose,work,92.4,654.0
+2015-17,8,trip_purpose,work,68.9,264.0
+2015-17,9,trip_purpose,work,78.5,540.0
+2015-17,11,trip_purpose,work,85.7,406.0
+2015-17,14,trip_purpose,work,,68.0
+2015-17,15,trip_purpose,work,68.0,150.0
+2015-17,16,trip_purpose,work,74.7,166.0
+2015-17,17,trip_purpose,work,,106.0
+2015-17,18,trip_purpose,work,,30.0
+2015-17,19,trip_purpose,work,75.0,184.0
+2015-17,21,trip_purpose,work,71.9,192.0
+2015-17,23,trip_purpose,work,59.5,316.0
+2015-17,26,trip_purpose,work,,92.0
+2015-17,27,trip_purpose,work,,76.0
+2015-17,28,trip_purpose,work,62.2,222.0
+2015-17,30,trip_purpose,work,,114.0
+2015-17,31,trip_purpose,work,58.3,168.0
+2015-17,32,trip_purpose,work,64.9,570.0
+2015-17,35,trip_purpose,work,61.6,156.0
+2015-17,36,trip_purpose,work,72.0,236.0
+2015-17,37,trip_purpose,work,62.9,140.0
+2015-17,38,trip_purpose,work,79.1,124.0
+2015-17,39,trip_purpose,work,70.0,714.0
+2015-17,41,trip_purpose,work,,116.0
+2015-17,43,trip_purpose,work,72.0,136.0
+2015-17,45,trip_purpose,work,55.9,136.0
+2015-17,47,trip_purpose,work,76.9,554.0
+2015-17,51,trip_purpose,work,76.9,216.0
+2015-17,52,trip_purpose,work,68.2,120.0
+2015-17,55,trip_purpose,work,78.6,148.0
+2015-17,57,trip_purpose,work,67.6,524.0
+2015-17,59,trip_purpose,work,64.7,182.0
+2015-17,60,trip_purpose,work,78.0,244.0
+2015-17,62,trip_purpose,work,71.0,318.0
+2015-17,64,trip_purpose,work,79.6,254.0
+2015-17,65,trip_purpose,work,87.6,322.0
+2015-17,66,trip_purpose,work,69.3,762.0
+2015-17,67,trip_purpose,work,84.3,234.0
+2015-17,68,trip_purpose,work,65.9,130.0
+2015-17,69,trip_purpose,work,67.3,342.0
+2015-17,71,trip_purpose,work,72.2,424.0
+2015-17,72,trip_purpose,work,73.0,406.0
+2015-17,73,trip_purpose,work,77.3,404.0
+2015-17,74,trip_purpose,work,68.0,300.0
+2015-17,75,trip_purpose,work,51.8,124.0
+2015-17,76,trip_purpose,work,88.5,264.0
+2015-17,77,trip_purpose,work,53.8,472.0
+2015-17,78,trip_purpose,work,70.5,448.0
+2015-17,79,trip_purpose,work,68.1,206.0
+2015-17,80,trip_purpose,work,73.7,410.0
+2015-17,83,trip_purpose,work,69.7,362.0
+2015-17,84,trip_purpose,work,93.8,128.0
+2015-17,85,trip_purpose,work,88.3,218.0
+2015-17,86,trip_purpose,work,74.0,392.0
+2015-17,87,trip_purpose,work,74.3,420.0
+2015-17,89,trip_purpose,work,78.7,338.0
+2015-17,91,trip_purpose,work,59.3,162.0
+2015-17,94,trip_purpose,work,72.8,286.0
+2015-17,95,trip_purpose,work,58.8,180.0
+2015-17,96,trip_purpose,work,74.3,304.0
+2015-17,97,trip_purpose,work,,84.0
+2015-17,99,trip_purpose,work,68.7,134.0
+2015-17,100,trip_purpose,work,62.0,158.0
+2015-17,101,trip_purpose,work,75.3,324.0
+2015-17,104,trip_purpose,work,84.1,176.0
+2015-17,105,trip_purpose,work,,90.0
+2015-17,106,trip_purpose,work,68.5,216.0
+2015-17,108,trip_purpose,work,62.6,214.0
+2015-17,109,trip_purpose,work,65.2,138.0
+2015-17,110,trip_purpose,work,71.5,182.0
+2015-17,111,trip_purpose,work,60.7,458.0
+2015-17,112,trip_purpose,work,54.1,126.0
+2015-17,119,trip_purpose,work,74.2,108.0
+2015-17,131,trip_purpose,work,94.2,176.0
+2015-17,132,trip_purpose,work,73.7,320.0
+2015-17,134,trip_purpose,work,59.1,166.0
+2015-17,136,trip_purpose,work,80.8,220.0
+2015-17,137,trip_purpose,work,69.0,188.0
+2015-17,170,trip_purpose,work,,26.0
+2015-17,211,trip_purpose,work,73.0,112.0
+2015-17,215,trip_purpose,work,73.4,158.0
+2015-17,222,trip_purpose,work,77.3,228.0
+2015-17,225,trip_purpose,work,78.6,262.0
+2015-17,230,trip_purpose,work,69.9,180.0
+2015-17,240,trip_purpose,work,67.3,214.0
+2015-17,325,trip_purpose,work,89.6,132.0
+2015-17,326,trip_purpose,work,91.0,240.0
+2015-17,350,trip_purpose,work,73.6,242.0
+2015-17,351,trip_purpose,work,89.9,98.0
+2015-17,352,trip_purpose,work,89.8,116.0
+2015-17,354,trip_purpose,work,89.3,172.0
+2015-17,429,trip_purpose,work,,54.0
+2015-17,439,trip_purpose,work,,24.0
+2015-17,441,trip_purpose,work,59.8,154.0
+2015-17,442,trip_purpose,work,71.3,132.0
+2015-17,501,trip_purpose,work,89.3,428.0
+2015-17,502,trip_purpose,work,95.9,338.0
+2015-17,503,trip_purpose,work,93.2,120.0
+2015-17,504,trip_purpose,work,84.3,474.0
+2015-17,505,trip_purpose,work,93.8,428.0
+2015-17,553,trip_purpose,work,80.4,204.0
+2015-17,554,trip_purpose,work,70.9,172.0
+2015-17,556,trip_purpose,work,93.2,146.0
+2015-17,558,trip_purpose,work,88.7,142.0
+2015-17,710,trip_purpose,work,,0.0
+2015-17,714,trip_purpose,work,,18.0
+2015-17,716,trip_purpose,work,,0.0
+2015-17,"114, 116, and 117",trip_purpose,work,64.9,370.0
+2015-17,120 and 121,trip_purpose,work,65.3,190.0
+2015-17,201 and 202,trip_purpose,work,74.4,204.0
+2015-17,210 and 212,trip_purpose,work,64.7,182.0
+2015-17,214 and 216,trip_purpose,work,59.8,234.0
+2015-17,217 and 245,trip_purpose,work,82.4,102.0
+2015-17,22 and 29,trip_purpose,work,57.2,318.0
+2015-17,220 and 221,trip_purpose,work,75.9,282.0
+2015-17,236 and 238,trip_purpose,work,70.1,228.0
+2015-17,24 and 33,trip_purpose,work,53.3,150.0
+2015-17,34/34E,trip_purpose,work,72.8,412.0
+2015-17,40 and 50,trip_purpose,work,67.7,242.0
+2015-17,411 and 430,trip_purpose,work,61.4,192.0
+2015-17,42 and 44,trip_purpose,work,58.6,246.0
+2015-17,"424/424W, 450, and 456",trip_purpose,work,65.2,276.0
+2015-17,426/426W and 428,trip_purpose,work,82.5,286.0
+2015-17,"434, 435, and 436",trip_purpose,work,63.2,152.0
+2015-17,448 and 449,trip_purpose,work,93.5,96.0
+2015-17,451 and 465,trip_purpose,work,,90.0
+2015-17,455 and 459,trip_purpose,work,51.7,236.0
+2015-17,5 and 10,trip_purpose,work,78.1,320.0
+2015-17,70/70A,trip_purpose,work,79.3,678.0
+2015-17,712 and 713,trip_purpose,work,,78.0
+2015-17,88 and 90,trip_purpose,work,80.5,634.0
+2015-17,92 and 93,trip_purpose,work,71.6,380.0
+2015-17,CT1,trip_purpose,work,77.2,202.0
+2015-17,CT2,trip_purpose,work,79.5,460.0
+2015-17,CT3,trip_purpose,work,80.3,122.0
+2015-17,All Bus,trip_purpose,work,69.8,33584.0
+2015-17,1,trip_purpose,school,9.5,844.0
+2015-17,4,trip_purpose,school,0.9,212.0
+2015-17,7,trip_purpose,school,0.9,654.0
+2015-17,8,trip_purpose,school,9.1,264.0
+2015-17,9,trip_purpose,school,2.2,540.0
+2015-17,11,trip_purpose,school,2.5,406.0
+2015-17,14,trip_purpose,school,,68.0
+2015-17,15,trip_purpose,school,10.7,150.0
+2015-17,16,trip_purpose,school,8.4,166.0
+2015-17,17,trip_purpose,school,,106.0
+2015-17,18,trip_purpose,school,,30.0
+2015-17,19,trip_purpose,school,13.0,184.0
+2015-17,21,trip_purpose,school,8.3,192.0
+2015-17,23,trip_purpose,school,7.0,316.0
+2015-17,26,trip_purpose,school,,92.0
+2015-17,27,trip_purpose,school,,76.0
+2015-17,28,trip_purpose,school,17.1,222.0
+2015-17,30,trip_purpose,school,,114.0
+2015-17,31,trip_purpose,school,15.5,168.0
+2015-17,32,trip_purpose,school,21.1,570.0
+2015-17,35,trip_purpose,school,14.1,156.0
+2015-17,36,trip_purpose,school,8.5,236.0
+2015-17,37,trip_purpose,school,11.5,140.0
+2015-17,38,trip_purpose,school,3.3,124.0
+2015-17,39,trip_purpose,school,6.7,714.0
+2015-17,41,trip_purpose,school,,116.0
+2015-17,43,trip_purpose,school,2.9,136.0
+2015-17,45,trip_purpose,school,8.8,136.0
+2015-17,47,trip_purpose,school,7.6,554.0
+2015-17,51,trip_purpose,school,10.2,216.0
+2015-17,52,trip_purpose,school,14.9,120.0
+2015-17,55,trip_purpose,school,2.6,148.0
+2015-17,57,trip_purpose,school,8.8,524.0
+2015-17,59,trip_purpose,school,6.6,182.0
+2015-17,60,trip_purpose,school,0.8,244.0
+2015-17,62,trip_purpose,school,5.0,318.0
+2015-17,64,trip_purpose,school,5.5,254.0
+2015-17,65,trip_purpose,school,1.2,322.0
+2015-17,66,trip_purpose,school,8.4,762.0
+2015-17,67,trip_purpose,school,4.2,234.0
+2015-17,68,trip_purpose,school,3.0,130.0
+2015-17,69,trip_purpose,school,6.4,342.0
+2015-17,71,trip_purpose,school,4.7,424.0
+2015-17,72,trip_purpose,school,4.9,406.0
+2015-17,73,trip_purpose,school,2.0,404.0
+2015-17,74,trip_purpose,school,3.3,300.0
+2015-17,75,trip_purpose,school,6.4,124.0
+2015-17,76,trip_purpose,school,3.8,264.0
+2015-17,77,trip_purpose,school,5.5,472.0
+2015-17,78,trip_purpose,school,8.1,448.0
+2015-17,79,trip_purpose,school,1.0,206.0
+2015-17,80,trip_purpose,school,6.4,410.0
+2015-17,83,trip_purpose,school,1.1,362.0
+2015-17,84,trip_purpose,school,3.1,128.0
+2015-17,85,trip_purpose,school,5.5,218.0
+2015-17,86,trip_purpose,school,5.1,392.0
+2015-17,87,trip_purpose,school,2.9,420.0
+2015-17,89,trip_purpose,school,7.1,338.0
+2015-17,91,trip_purpose,school,6.2,162.0
+2015-17,94,trip_purpose,school,6.3,286.0
+2015-17,95,trip_purpose,school,6.7,180.0
+2015-17,96,trip_purpose,school,4.6,304.0
+2015-17,97,trip_purpose,school,,84.0
+2015-17,99,trip_purpose,school,4.5,134.0
+2015-17,100,trip_purpose,school,7.6,158.0
+2015-17,101,trip_purpose,school,8.6,324.0
+2015-17,104,trip_purpose,school,6.8,176.0
+2015-17,105,trip_purpose,school,,90.0
+2015-17,106,trip_purpose,school,8.3,216.0
+2015-17,108,trip_purpose,school,14.0,214.0
+2015-17,109,trip_purpose,school,7.3,138.0
+2015-17,110,trip_purpose,school,6.6,182.0
+2015-17,111,trip_purpose,school,13.5,458.0
+2015-17,112,trip_purpose,school,15.9,126.0
+2015-17,119,trip_purpose,school,3.7,108.0
+2015-17,131,trip_purpose,school,1.2,176.0
+2015-17,132,trip_purpose,school,6.3,320.0
+2015-17,134,trip_purpose,school,14.4,166.0
+2015-17,136,trip_purpose,school,1.8,220.0
+2015-17,137,trip_purpose,school,7.5,188.0
+2015-17,170,trip_purpose,school,,26.0
+2015-17,211,trip_purpose,school,3.6,112.0
+2015-17,215,trip_purpose,school,6.4,158.0
+2015-17,222,trip_purpose,school,5.3,228.0
+2015-17,225,trip_purpose,school,4.6,262.0
+2015-17,230,trip_purpose,school,15.5,180.0
+2015-17,240,trip_purpose,school,9.3,214.0
+2015-17,325,trip_purpose,school,4.5,132.0
+2015-17,326,trip_purpose,school,0.8,240.0
+2015-17,350,trip_purpose,school,4.9,242.0
+2015-17,351,trip_purpose,school,0.0,98.0
+2015-17,352,trip_purpose,school,0.0,116.0
+2015-17,354,trip_purpose,school,5.9,172.0
+2015-17,429,trip_purpose,school,,54.0
+2015-17,439,trip_purpose,school,,24.0
+2015-17,441,trip_purpose,school,3.9,154.0
+2015-17,442,trip_purpose,school,3.0,132.0
+2015-17,501,trip_purpose,school,4.2,428.0
+2015-17,502,trip_purpose,school,1.1,338.0
+2015-17,503,trip_purpose,school,3.3,120.0
+2015-17,504,trip_purpose,school,1.7,474.0
+2015-17,505,trip_purpose,school,0.5,428.0
+2015-17,553,trip_purpose,school,2.9,204.0
+2015-17,554,trip_purpose,school,2.3,172.0
+2015-17,556,trip_purpose,school,1.4,146.0
+2015-17,558,trip_purpose,school,2.9,142.0
+2015-17,710,trip_purpose,school,,0.0
+2015-17,714,trip_purpose,school,,18.0
+2015-17,716,trip_purpose,school,,0.0
+2015-17,"114, 116, and 117",trip_purpose,school,8.6,370.0
+2015-17,120 and 121,trip_purpose,school,5.3,190.0
+2015-17,201 and 202,trip_purpose,school,4.9,204.0
+2015-17,210 and 212,trip_purpose,school,13.2,182.0
+2015-17,214 and 216,trip_purpose,school,19.6,234.0
+2015-17,217 and 245,trip_purpose,school,9.8,102.0
+2015-17,22 and 29,trip_purpose,school,13.8,318.0
+2015-17,220 and 221,trip_purpose,school,5.7,282.0
+2015-17,236 and 238,trip_purpose,school,7.9,228.0
+2015-17,24 and 33,trip_purpose,school,20.0,150.0
+2015-17,34/34E,trip_purpose,school,5.8,412.0
+2015-17,40 and 50,trip_purpose,school,13.2,242.0
+2015-17,411 and 430,trip_purpose,school,7.3,192.0
+2015-17,42 and 44,trip_purpose,school,16.3,246.0
+2015-17,"424/424W, 450, and 456",trip_purpose,school,8.0,276.0
+2015-17,426/426W and 428,trip_purpose,school,3.5,286.0
+2015-17,"434, 435, and 436",trip_purpose,school,3.9,152.0
+2015-17,448 and 449,trip_purpose,school,2.2,96.0
+2015-17,451 and 465,trip_purpose,school,,90.0
+2015-17,455 and 459,trip_purpose,school,7.6,236.0
+2015-17,5 and 10,trip_purpose,school,5.0,320.0
+2015-17,70/70A,trip_purpose,school,4.4,678.0
+2015-17,712 and 713,trip_purpose,school,,78.0
+2015-17,88 and 90,trip_purpose,school,1.6,634.0
+2015-17,92 and 93,trip_purpose,school,7.4,380.0
+2015-17,CT1,trip_purpose,school,7.9,202.0
+2015-17,CT2,trip_purpose,school,4.8,460.0
+2015-17,CT3,trip_purpose,school,1.6,122.0
+2015-17,All Bus,trip_purpose,school,8.2,33584.0
+2015-17,1,trip_purpose,social,6.6,844.0
+2015-17,4,trip_purpose,social,0.9,212.0
+2015-17,7,trip_purpose,social,0.9,654.0
+2015-17,8,trip_purpose,social,2.3,264.0
+2015-17,9,trip_purpose,social,7.8,540.0
+2015-17,11,trip_purpose,social,4.4,406.0
+2015-17,14,trip_purpose,social,,68.0
+2015-17,15,trip_purpose,social,5.3,150.0
+2015-17,16,trip_purpose,social,0.0,166.0
+2015-17,17,trip_purpose,social,,106.0
+2015-17,18,trip_purpose,social,,30.0
+2015-17,19,trip_purpose,social,0.0,184.0
+2015-17,21,trip_purpose,social,4.2,192.0
+2015-17,23,trip_purpose,social,7.6,316.0
+2015-17,26,trip_purpose,social,,92.0
+2015-17,27,trip_purpose,social,,76.0
+2015-17,28,trip_purpose,social,3.6,222.0
+2015-17,30,trip_purpose,social,,114.0
+2015-17,31,trip_purpose,social,0.0,168.0
+2015-17,32,trip_purpose,social,1.4,570.0
+2015-17,35,trip_purpose,social,2.6,156.0
+2015-17,36,trip_purpose,social,5.1,236.0
+2015-17,37,trip_purpose,social,1.4,140.0
+2015-17,38,trip_purpose,social,1.6,124.0
+2015-17,39,trip_purpose,social,6.2,714.0
+2015-17,41,trip_purpose,social,,116.0
+2015-17,43,trip_purpose,social,1.5,136.0
+2015-17,45,trip_purpose,social,0.0,136.0
+2015-17,47,trip_purpose,social,1.8,554.0
+2015-17,51,trip_purpose,social,4.6,216.0
+2015-17,52,trip_purpose,social,3.4,120.0
+2015-17,55,trip_purpose,social,4.0,148.0
+2015-17,57,trip_purpose,social,8.4,524.0
+2015-17,59,trip_purpose,social,5.5,182.0
+2015-17,60,trip_purpose,social,0.8,244.0
+2015-17,62,trip_purpose,social,6.3,318.0
+2015-17,64,trip_purpose,social,3.2,254.0
+2015-17,65,trip_purpose,social,1.2,322.0
+2015-17,66,trip_purpose,social,6.3,762.0
+2015-17,67,trip_purpose,social,2.5,234.0
+2015-17,68,trip_purpose,social,0.0,130.0
+2015-17,69,trip_purpose,social,3.5,342.0
+2015-17,71,trip_purpose,social,4.7,424.0
+2015-17,72,trip_purpose,social,5.4,406.0
+2015-17,73,trip_purpose,social,7.4,404.0
+2015-17,74,trip_purpose,social,4.0,300.0
+2015-17,75,trip_purpose,social,9.7,124.0
+2015-17,76,trip_purpose,social,0.0,264.0
+2015-17,77,trip_purpose,social,13.1,472.0
+2015-17,78,trip_purpose,social,4.0,448.0
+2015-17,79,trip_purpose,social,1.9,206.0
+2015-17,80,trip_purpose,social,5.4,410.0
+2015-17,83,trip_purpose,social,5.0,362.0
+2015-17,84,trip_purpose,social,0.0,128.0
+2015-17,85,trip_purpose,social,0.0,218.0
+2015-17,86,trip_purpose,social,8.2,392.0
+2015-17,87,trip_purpose,social,10.0,420.0
+2015-17,89,trip_purpose,social,1.2,338.0
+2015-17,91,trip_purpose,social,9.9,162.0
+2015-17,94,trip_purpose,social,5.6,286.0
+2015-17,95,trip_purpose,social,7.8,180.0
+2015-17,96,trip_purpose,social,5.9,304.0
+2015-17,97,trip_purpose,social,,84.0
+2015-17,99,trip_purpose,social,3.0,134.0
+2015-17,100,trip_purpose,social,8.9,158.0
+2015-17,101,trip_purpose,social,2.5,324.0
+2015-17,104,trip_purpose,social,1.1,176.0
+2015-17,105,trip_purpose,social,,90.0
+2015-17,106,trip_purpose,social,7.4,216.0
+2015-17,108,trip_purpose,social,1.9,214.0
+2015-17,109,trip_purpose,social,4.4,138.0
+2015-17,110,trip_purpose,social,5.5,182.0
+2015-17,111,trip_purpose,social,2.2,458.0
+2015-17,112,trip_purpose,social,3.2,126.0
+2015-17,119,trip_purpose,social,0.0,108.0
+2015-17,131,trip_purpose,social,0.0,176.0
+2015-17,132,trip_purpose,social,3.1,320.0
+2015-17,134,trip_purpose,social,6.1,166.0
+2015-17,136,trip_purpose,social,3.7,220.0
+2015-17,137,trip_purpose,social,5.4,188.0
+2015-17,170,trip_purpose,social,,26.0
+2015-17,211,trip_purpose,social,1.8,112.0
+2015-17,215,trip_purpose,social,2.5,158.0
+2015-17,222,trip_purpose,social,0.8,228.0
+2015-17,225,trip_purpose,social,3.8,262.0
+2015-17,230,trip_purpose,social,2.2,180.0
+2015-17,240,trip_purpose,social,2.8,214.0
+2015-17,325,trip_purpose,social,0.0,132.0
+2015-17,326,trip_purpose,social,0.0,240.0
+2015-17,350,trip_purpose,social,4.9,242.0
+2015-17,351,trip_purpose,social,0.0,98.0
+2015-17,352,trip_purpose,social,0.0,116.0
+2015-17,354,trip_purpose,social,0.0,172.0
+2015-17,429,trip_purpose,social,,54.0
+2015-17,439,trip_purpose,social,,24.0
+2015-17,441,trip_purpose,social,2.6,154.0
+2015-17,442,trip_purpose,social,7.6,132.0
+2015-17,501,trip_purpose,social,1.4,428.0
+2015-17,502,trip_purpose,social,0.6,338.0
+2015-17,503,trip_purpose,social,1.8,120.0
+2015-17,504,trip_purpose,social,2.5,474.0
+2015-17,505,trip_purpose,social,1.9,428.0
+2015-17,553,trip_purpose,social,2.0,204.0
+2015-17,554,trip_purpose,social,4.6,172.0
+2015-17,556,trip_purpose,social,1.4,146.0
+2015-17,558,trip_purpose,social,0.0,142.0
+2015-17,710,trip_purpose,social,,0.0
+2015-17,714,trip_purpose,social,,18.0
+2015-17,716,trip_purpose,social,,0.0
+2015-17,"114, 116, and 117",trip_purpose,social,1.6,370.0
+2015-17,120 and 121,trip_purpose,social,3.2,190.0
+2015-17,201 and 202,trip_purpose,social,3.0,204.0
+2015-17,210 and 212,trip_purpose,social,3.3,182.0
+2015-17,214 and 216,trip_purpose,social,2.6,234.0
+2015-17,217 and 245,trip_purpose,social,0.0,102.0
+2015-17,22 and 29,trip_purpose,social,1.9,318.0
+2015-17,220 and 221,trip_purpose,social,6.4,282.0
+2015-17,236 and 238,trip_purpose,social,4.4,228.0
+2015-17,24 and 33,trip_purpose,social,1.3,150.0
+2015-17,34/34E,trip_purpose,social,5.8,412.0
+2015-17,40 and 50,trip_purpose,social,1.7,242.0
+2015-17,411 and 430,trip_purpose,social,6.2,192.0
+2015-17,42 and 44,trip_purpose,social,1.6,246.0
+2015-17,"424/424W, 450, and 456",trip_purpose,social,4.3,276.0
+2015-17,426/426W and 428,trip_purpose,social,1.4,286.0
+2015-17,"434, 435, and 436",trip_purpose,social,3.9,152.0
+2015-17,448 and 449,trip_purpose,social,2.2,96.0
+2015-17,451 and 465,trip_purpose,social,,90.0
+2015-17,455 and 459,trip_purpose,social,5.1,236.0
+2015-17,5 and 10,trip_purpose,social,0.6,320.0
+2015-17,70/70A,trip_purpose,social,2.7,678.0
+2015-17,712 and 713,trip_purpose,social,,78.0
+2015-17,88 and 90,trip_purpose,social,5.1,634.0
+2015-17,92 and 93,trip_purpose,social,3.7,380.0
+2015-17,CT1,trip_purpose,social,1.0,202.0
+2015-17,CT2,trip_purpose,social,0.9,460.0
+2015-17,CT3,trip_purpose,social,0.0,122.0
+2015-17,All Bus,trip_purpose,social,4.1,33584.0
+2015-17,1,trip_purpose,other errands,8.8,844.0
+2015-17,4,trip_purpose,other errands,2.6,212.0
+2015-17,7,trip_purpose,other errands,3.9,654.0
+2015-17,8,trip_purpose,other errands,11.4,264.0
+2015-17,9,trip_purpose,other errands,10.0,540.0
+2015-17,11,trip_purpose,other errands,6.0,406.0
+2015-17,14,trip_purpose,other errands,,68.0
+2015-17,15,trip_purpose,other errands,9.4,150.0
+2015-17,16,trip_purpose,other errands,12.1,166.0
+2015-17,17,trip_purpose,other errands,,106.0
+2015-17,18,trip_purpose,other errands,,30.0
+2015-17,19,trip_purpose,other errands,5.5,184.0
+2015-17,21,trip_purpose,other errands,10.4,192.0
+2015-17,23,trip_purpose,other errands,19.0,316.0
+2015-17,26,trip_purpose,other errands,,92.0
+2015-17,27,trip_purpose,other errands,,76.0
+2015-17,28,trip_purpose,other errands,11.7,222.0
+2015-17,30,trip_purpose,other errands,,114.0
+2015-17,31,trip_purpose,other errands,11.9,168.0
+2015-17,32,trip_purpose,other errands,8.8,570.0
+2015-17,35,trip_purpose,other errands,14.1,156.0
+2015-17,36,trip_purpose,other errands,11.0,236.0
+2015-17,37,trip_purpose,other errands,15.7,140.0
+2015-17,38,trip_purpose,other errands,14.5,124.0
+2015-17,39,trip_purpose,other errands,9.3,714.0
+2015-17,41,trip_purpose,other errands,,116.0
+2015-17,43,trip_purpose,other errands,14.8,136.0
+2015-17,45,trip_purpose,other errands,20.6,136.0
+2015-17,47,trip_purpose,other errands,6.5,554.0
+2015-17,51,trip_purpose,other errands,4.7,216.0
+2015-17,52,trip_purpose,other errands,5.1,120.0
+2015-17,55,trip_purpose,other errands,9.3,148.0
+2015-17,57,trip_purpose,other errands,10.3,524.0
+2015-17,59,trip_purpose,other errands,19.9,182.0
+2015-17,60,trip_purpose,other errands,13.9,244.0
+2015-17,62,trip_purpose,other errands,16.4,318.0
+2015-17,64,trip_purpose,other errands,7.9,254.0
+2015-17,65,trip_purpose,other errands,6.8,322.0
+2015-17,66,trip_purpose,other errands,9.4,762.0
+2015-17,67,trip_purpose,other errands,6.5,234.0
+2015-17,68,trip_purpose,other errands,17.2,130.0
+2015-17,69,trip_purpose,other errands,15.8,342.0
+2015-17,71,trip_purpose,other errands,10.4,424.0
+2015-17,72,trip_purpose,other errands,14.2,406.0
+2015-17,73,trip_purpose,other errands,9.4,404.0
+2015-17,74,trip_purpose,other errands,14.7,300.0
+2015-17,75,trip_purpose,other errands,19.2,124.0
+2015-17,76,trip_purpose,other errands,3.9,264.0
+2015-17,77,trip_purpose,other errands,21.2,472.0
+2015-17,78,trip_purpose,other errands,10.7,448.0
+2015-17,79,trip_purpose,other errands,17.4,206.0
+2015-17,80,trip_purpose,other errands,8.3,410.0
+2015-17,83,trip_purpose,other errands,17.1,362.0
+2015-17,84,trip_purpose,other errands,3.1,128.0
+2015-17,85,trip_purpose,other errands,2.6,218.0
+2015-17,86,trip_purpose,other errands,9.2,392.0
+2015-17,87,trip_purpose,other errands,9.5,420.0
+2015-17,89,trip_purpose,other errands,9.5,338.0
+2015-17,91,trip_purpose,other errands,13.5,162.0
+2015-17,94,trip_purpose,other errands,7.7,286.0
+2015-17,95,trip_purpose,other errands,16.7,180.0
+2015-17,96,trip_purpose,other errands,7.3,304.0
+2015-17,97,trip_purpose,other errands,,84.0
+2015-17,99,trip_purpose,other errands,16.4,134.0
+2015-17,100,trip_purpose,other errands,12.6,158.0
+2015-17,101,trip_purpose,other errands,9.9,324.0
+2015-17,104,trip_purpose,other errands,6.8,176.0
+2015-17,105,trip_purpose,other errands,,90.0
+2015-17,106,trip_purpose,other errands,12.1,216.0
+2015-17,108,trip_purpose,other errands,14.9,214.0
+2015-17,109,trip_purpose,other errands,17.4,138.0
+2015-17,110,trip_purpose,other errands,8.8,182.0
+2015-17,111,trip_purpose,other errands,16.6,458.0
+2015-17,112,trip_purpose,other errands,23.7,126.0
+2015-17,119,trip_purpose,other errands,16.6,108.0
+2015-17,131,trip_purpose,other errands,2.3,176.0
+2015-17,132,trip_purpose,other errands,11.3,320.0
+2015-17,134,trip_purpose,other errands,14.4,166.0
+2015-17,136,trip_purpose,other errands,8.3,220.0
+2015-17,137,trip_purpose,other errands,10.7,188.0
+2015-17,170,trip_purpose,other errands,,26.0
+2015-17,211,trip_purpose,other errands,21.6,112.0
+2015-17,215,trip_purpose,other errands,15.1,158.0
+2015-17,222,trip_purpose,other errands,14.0,228.0
+2015-17,225,trip_purpose,other errands,9.9,262.0
+2015-17,230,trip_purpose,other errands,7.8,180.0
+2015-17,240,trip_purpose,other errands,18.7,214.0
+2015-17,325,trip_purpose,other errands,3.0,132.0
+2015-17,326,trip_purpose,other errands,3.2,240.0
+2015-17,350,trip_purpose,other errands,11.7,242.0
+2015-17,351,trip_purpose,other errands,6.0,98.0
+2015-17,352,trip_purpose,other errands,1.8,116.0
+2015-17,354,trip_purpose,other errands,3.6,172.0
+2015-17,429,trip_purpose,other errands,,54.0
+2015-17,439,trip_purpose,other errands,,24.0
+2015-17,441,trip_purpose,other errands,25.9,154.0
+2015-17,442,trip_purpose,other errands,12.1,132.0
+2015-17,501,trip_purpose,other errands,2.3,428.0
+2015-17,502,trip_purpose,other errands,0.6,338.0
+2015-17,503,trip_purpose,other errands,1.8,120.0
+2015-17,504,trip_purpose,other errands,5.6,474.0
+2015-17,505,trip_purpose,other errands,1.9,428.0
+2015-17,553,trip_purpose,other errands,5.9,204.0
+2015-17,554,trip_purpose,other errands,8.3,172.0
+2015-17,556,trip_purpose,other errands,2.7,146.0
+2015-17,558,trip_purpose,other errands,5.5,142.0
+2015-17,710,trip_purpose,other errands,,0.0
+2015-17,714,trip_purpose,other errands,,18.0
+2015-17,716,trip_purpose,other errands,,0.0
+2015-17,"114, 116, and 117",trip_purpose,other errands,20.0,370.0
+2015-17,120 and 121,trip_purpose,other errands,23.1,190.0
+2015-17,201 and 202,trip_purpose,other errands,11.8,204.0
+2015-17,210 and 212,trip_purpose,other errands,11.1,182.0
+2015-17,214 and 216,trip_purpose,other errands,11.1,234.0
+2015-17,217 and 245,trip_purpose,other errands,3.9,102.0
+2015-17,22 and 29,trip_purpose,other errands,18.9,318.0
+2015-17,220 and 221,trip_purpose,other errands,8.5,282.0
+2015-17,236 and 238,trip_purpose,other errands,13.2,228.0
+2015-17,24 and 33,trip_purpose,other errands,20.0,150.0
+2015-17,34/34E,trip_purpose,other errands,11.7,412.0
+2015-17,40 and 50,trip_purpose,other errands,14.1,242.0
+2015-17,411 and 430,trip_purpose,other errands,19.8,192.0
+2015-17,42 and 44,trip_purpose,other errands,17.0,246.0
+2015-17,"424/424W, 450, and 456",trip_purpose,other errands,13.7,276.0
+2015-17,426/426W and 428,trip_purpose,other errands,8.4,286.0
+2015-17,"434, 435, and 436",trip_purpose,other errands,19.8,152.0
+2015-17,448 and 449,trip_purpose,other errands,2.2,96.0
+2015-17,451 and 465,trip_purpose,other errands,,90.0
+2015-17,455 and 459,trip_purpose,other errands,23.8,236.0
+2015-17,5 and 10,trip_purpose,other errands,9.4,320.0
+2015-17,70/70A,trip_purpose,other errands,8.3,678.0
+2015-17,712 and 713,trip_purpose,other errands,,78.0
+2015-17,88 and 90,trip_purpose,other errands,8.8,634.0
+2015-17,92 and 93,trip_purpose,other errands,10.0,380.0
+2015-17,CT1,trip_purpose,other errands,6.9,202.0
+2015-17,CT2,trip_purpose,other errands,5.3,460.0
+2015-17,CT3,trip_purpose,other errands,13.1,122.0
+2015-17,All Bus,trip_purpose,other errands,12.0,33584.0
+2015-17,1,trip_purpose,not from home,10.2,844.0
+2015-17,4,trip_purpose,not from home,4.7,212.0
+2015-17,7,trip_purpose,not from home,1.8,654.0
+2015-17,8,trip_purpose,not from home,8.4,264.0
+2015-17,9,trip_purpose,not from home,1.5,540.0
+2015-17,11,trip_purpose,not from home,1.5,406.0
+2015-17,14,trip_purpose,not from home,,68.0
+2015-17,15,trip_purpose,not from home,6.7,150.0
+2015-17,16,trip_purpose,not from home,4.8,166.0
+2015-17,17,trip_purpose,not from home,,106.0
+2015-17,18,trip_purpose,not from home,,30.0
+2015-17,19,trip_purpose,not from home,6.5,184.0
+2015-17,21,trip_purpose,not from home,5.2,192.0
+2015-17,23,trip_purpose,not from home,7.0,316.0
+2015-17,26,trip_purpose,not from home,,92.0
+2015-17,27,trip_purpose,not from home,,76.0
+2015-17,28,trip_purpose,not from home,5.4,222.0
+2015-17,30,trip_purpose,not from home,,114.0
+2015-17,31,trip_purpose,not from home,14.3,168.0
+2015-17,32,trip_purpose,not from home,3.9,570.0
+2015-17,35,trip_purpose,not from home,7.7,156.0
+2015-17,36,trip_purpose,not from home,3.4,236.0
+2015-17,37,trip_purpose,not from home,8.6,140.0
+2015-17,38,trip_purpose,not from home,1.6,124.0
+2015-17,39,trip_purpose,not from home,7.8,714.0
+2015-17,41,trip_purpose,not from home,,116.0
+2015-17,43,trip_purpose,not from home,8.8,136.0
+2015-17,45,trip_purpose,not from home,14.7,136.0
+2015-17,47,trip_purpose,not from home,7.2,554.0
+2015-17,51,trip_purpose,not from home,3.7,216.0
+2015-17,52,trip_purpose,not from home,8.3,120.0
+2015-17,55,trip_purpose,not from home,5.4,148.0
+2015-17,57,trip_purpose,not from home,5.0,524.0
+2015-17,59,trip_purpose,not from home,3.3,182.0
+2015-17,60,trip_purpose,not from home,6.5,244.0
+2015-17,62,trip_purpose,not from home,1.3,318.0
+2015-17,64,trip_purpose,not from home,3.9,254.0
+2015-17,65,trip_purpose,not from home,3.1,322.0
+2015-17,66,trip_purpose,not from home,6.6,762.0
+2015-17,67,trip_purpose,not from home,2.5,234.0
+2015-17,68,trip_purpose,not from home,13.9,130.0
+2015-17,69,trip_purpose,not from home,7.0,342.0
+2015-17,71,trip_purpose,not from home,8.0,424.0
+2015-17,72,trip_purpose,not from home,2.5,406.0
+2015-17,73,trip_purpose,not from home,4.0,404.0
+2015-17,74,trip_purpose,not from home,9.9,300.0
+2015-17,75,trip_purpose,not from home,12.8,124.0
+2015-17,76,trip_purpose,not from home,3.9,264.0
+2015-17,77,trip_purpose,not from home,6.4,472.0
+2015-17,78,trip_purpose,not from home,6.7,448.0
+2015-17,79,trip_purpose,not from home,11.6,206.0
+2015-17,80,trip_purpose,not from home,6.3,410.0
+2015-17,83,trip_purpose,not from home,7.2,362.0
+2015-17,84,trip_purpose,not from home,0.0,128.0
+2015-17,85,trip_purpose,not from home,3.6,218.0
+2015-17,86,trip_purpose,not from home,3.6,392.0
+2015-17,87,trip_purpose,not from home,3.3,420.0
+2015-17,89,trip_purpose,not from home,3.6,338.0
+2015-17,91,trip_purpose,not from home,11.1,162.0
+2015-17,94,trip_purpose,not from home,7.7,286.0
+2015-17,95,trip_purpose,not from home,10.0,180.0
+2015-17,96,trip_purpose,not from home,7.9,304.0
+2015-17,97,trip_purpose,not from home,,84.0
+2015-17,99,trip_purpose,not from home,7.5,134.0
+2015-17,100,trip_purpose,not from home,8.9,158.0
+2015-17,101,trip_purpose,not from home,3.7,324.0
+2015-17,104,trip_purpose,not from home,1.1,176.0
+2015-17,105,trip_purpose,not from home,,90.0
+2015-17,106,trip_purpose,not from home,3.7,216.0
+2015-17,108,trip_purpose,not from home,6.6,214.0
+2015-17,109,trip_purpose,not from home,5.8,138.0
+2015-17,110,trip_purpose,not from home,7.7,182.0
+2015-17,111,trip_purpose,not from home,7.0,458.0
+2015-17,112,trip_purpose,not from home,3.1,126.0
+2015-17,119,trip_purpose,not from home,5.6,108.0
+2015-17,131,trip_purpose,not from home,2.3,176.0
+2015-17,132,trip_purpose,not from home,5.7,320.0
+2015-17,134,trip_purpose,not from home,6.0,166.0
+2015-17,136,trip_purpose,not from home,5.4,220.0
+2015-17,137,trip_purpose,not from home,7.5,188.0
+2015-17,170,trip_purpose,not from home,,26.0
+2015-17,211,trip_purpose,not from home,0.0,112.0
+2015-17,215,trip_purpose,not from home,2.6,158.0
+2015-17,222,trip_purpose,not from home,2.6,228.0
+2015-17,225,trip_purpose,not from home,3.1,262.0
+2015-17,230,trip_purpose,not from home,4.5,180.0
+2015-17,240,trip_purpose,not from home,1.9,214.0
+2015-17,325,trip_purpose,not from home,3.0,132.0
+2015-17,326,trip_purpose,not from home,5.0,240.0
+2015-17,350,trip_purpose,not from home,4.9,242.0
+2015-17,351,trip_purpose,not from home,4.0,98.0
+2015-17,352,trip_purpose,not from home,8.4,116.0
+2015-17,354,trip_purpose,not from home,1.2,172.0
+2015-17,429,trip_purpose,not from home,,54.0
+2015-17,439,trip_purpose,not from home,,24.0
+2015-17,441,trip_purpose,not from home,7.8,154.0
+2015-17,442,trip_purpose,not from home,6.0,132.0
+2015-17,501,trip_purpose,not from home,2.8,428.0
+2015-17,502,trip_purpose,not from home,1.8,338.0
+2015-17,503,trip_purpose,not from home,0.0,120.0
+2015-17,504,trip_purpose,not from home,5.9,474.0
+2015-17,505,trip_purpose,not from home,1.9,428.0
+2015-17,553,trip_purpose,not from home,8.8,204.0
+2015-17,554,trip_purpose,not from home,13.9,172.0
+2015-17,556,trip_purpose,not from home,1.4,146.0
+2015-17,558,trip_purpose,not from home,2.9,142.0
+2015-17,710,trip_purpose,not from home,,0.0
+2015-17,714,trip_purpose,not from home,,18.0
+2015-17,716,trip_purpose,not from home,,0.0
+2015-17,"114, 116, and 117",trip_purpose,not from home,4.9,370.0
+2015-17,120 and 121,trip_purpose,not from home,3.2,190.0
+2015-17,201 and 202,trip_purpose,not from home,5.9,204.0
+2015-17,210 and 212,trip_purpose,not from home,7.7,182.0
+2015-17,214 and 216,trip_purpose,not from home,6.8,234.0
+2015-17,217 and 245,trip_purpose,not from home,3.9,102.0
+2015-17,22 and 29,trip_purpose,not from home,8.2,318.0
+2015-17,220 and 221,trip_purpose,not from home,3.5,282.0
+2015-17,236 and 238,trip_purpose,not from home,4.4,228.0
+2015-17,24 and 33,trip_purpose,not from home,5.4,150.0
+2015-17,34/34E,trip_purpose,not from home,3.9,412.0
+2015-17,40 and 50,trip_purpose,not from home,3.3,242.0
+2015-17,411 and 430,trip_purpose,not from home,5.2,192.0
+2015-17,42 and 44,trip_purpose,not from home,6.5,246.0
+2015-17,"424/424W, 450, and 456",trip_purpose,not from home,8.7,276.0
+2015-17,426/426W and 428,trip_purpose,not from home,4.2,286.0
+2015-17,"434, 435, and 436",trip_purpose,not from home,9.2,152.0
+2015-17,448 and 449,trip_purpose,not from home,0.0,96.0
+2015-17,451 and 465,trip_purpose,not from home,,90.0
+2015-17,455 and 459,trip_purpose,not from home,11.9,236.0
+2015-17,5 and 10,trip_purpose,not from home,6.9,320.0
+2015-17,70/70A,trip_purpose,not from home,5.3,678.0
+2015-17,712 and 713,trip_purpose,not from home,,78.0
+2015-17,88 and 90,trip_purpose,not from home,4.1,634.0
+2015-17,92 and 93,trip_purpose,not from home,7.4,380.0
+2015-17,CT1,trip_purpose,not from home,6.9,202.0
+2015-17,CT2,trip_purpose,not from home,9.6,460.0
+2015-17,CT3,trip_purpose,not from home,4.9,122.0
+2015-17,All Bus,trip_purpose,not from home,5.9,33584.0
+2015-17,1,low_income,yes,33.9,732.0
+2015-17,4,low_income,yes,7.1,166.0
+2015-17,7,low_income,yes,5.7,566.0
+2015-17,8,low_income,yes,38.2,220.0
+2015-17,9,low_income,yes,15.3,470.0
+2015-17,11,low_income,yes,11.3,354.0
+2015-17,14,low_income,yes,,60.0
+2015-17,15,low_income,yes,67.2,122.0
+2015-17,16,low_income,yes,50.0,152.0
+2015-17,17,low_income,yes,68.9,90.0
+2015-17,18,low_income,yes,,26.0
+2015-17,19,low_income,yes,33.8,136.0
+2015-17,21,low_income,yes,48.2,166.0
+2015-17,23,low_income,yes,59.0,268.0
+2015-17,26,low_income,yes,66.7,72.0
+2015-17,27,low_income,yes,,70.0
+2015-17,28,low_income,yes,65.0,200.0
+2015-17,30,low_income,yes,42.6,108.0
+2015-17,31,low_income,yes,57.7,156.0
+2015-17,32,low_income,yes,42.7,450.0
+2015-17,35,low_income,yes,24.2,116.0
+2015-17,36,low_income,yes,33.0,188.0
+2015-17,37,low_income,yes,31.1,122.0
+2015-17,38,low_income,yes,24.0,108.0
+2015-17,39,low_income,yes,27.4,584.0
+2015-17,41,low_income,yes,62.7,118.0
+2015-17,43,low_income,yes,43.5,124.0
+2015-17,45,low_income,yes,69.5,118.0
+2015-17,47,low_income,yes,26.3,448.0
+2015-17,51,low_income,yes,23.5,170.0
+2015-17,52,low_income,yes,27.0,96.0
+2015-17,55,low_income,yes,23.6,144.0
+2015-17,57,low_income,yes,42.7,454.0
+2015-17,59,low_income,yes,36.0,150.0
+2015-17,60,low_income,yes,31.8,214.0
+2015-17,62,low_income,yes,26.4,242.0
+2015-17,64,low_income,yes,24.8,226.0
+2015-17,65,low_income,yes,27.8,280.0
+2015-17,66,low_income,yes,40.1,674.0
+2015-17,67,low_income,yes,10.5,170.0
+2015-17,68,low_income,yes,24.7,114.0
+2015-17,69,low_income,yes,32.1,318.0
+2015-17,71,low_income,yes,21.0,342.0
+2015-17,72,low_income,yes,16.5,364.0
+2015-17,73,low_income,yes,20.6,360.0
+2015-17,74,low_income,yes,15.4,246.0
+2015-17,75,low_income,yes,20.8,106.0
+2015-17,76,low_income,yes,9.9,200.0
+2015-17,77,low_income,yes,35.1,382.0
+2015-17,78,low_income,yes,19.9,352.0
+2015-17,79,low_income,yes,19.5,154.0
+2015-17,80,low_income,yes,24.0,350.0
+2015-17,83,low_income,yes,35.1,342.0
+2015-17,84,low_income,yes,8.4,94.0
+2015-17,85,low_income,yes,13.5,194.0
+2015-17,86,low_income,yes,35.6,348.0
+2015-17,87,low_income,yes,25.1,374.0
+2015-17,89,low_income,yes,24.0,300.0
+2015-17,91,low_income,yes,47.8,138.0
+2015-17,94,low_income,yes,29.1,254.0
+2015-17,95,low_income,yes,42.2,166.0
+2015-17,96,low_income,yes,28.0,264.0
+2015-17,97,low_income,yes,54.2,96.0
+2015-17,99,low_income,yes,36.5,126.0
+2015-17,100,low_income,yes,26.9,134.0
+2015-17,101,low_income,yes,40.4,282.0
+2015-17,104,low_income,yes,56.1,164.0
+2015-17,105,low_income,yes,45.4,110.0
+2015-17,106,low_income,yes,40.4,188.0
+2015-17,108,low_income,yes,56.6,166.0
+2015-17,109,low_income,yes,61.2,134.0
+2015-17,110,low_income,yes,43.1,158.0
+2015-17,111,low_income,yes,59.7,432.0
+2015-17,112,low_income,yes,63.8,116.0
+2015-17,119,low_income,yes,67.8,118.0
+2015-17,131,low_income,yes,9.7,124.0
+2015-17,132,low_income,yes,29.3,260.0
+2015-17,134,low_income,yes,49.3,150.0
+2015-17,136,low_income,yes,23.7,178.0
+2015-17,137,low_income,yes,38.9,144.0
+2015-17,170,low_income,yes,,26.0
+2015-17,211,low_income,yes,39.6,96.0
+2015-17,215,low_income,yes,60.2,146.0
+2015-17,222,low_income,yes,40.0,220.0
+2015-17,225,low_income,yes,41.4,246.0
+2015-17,230,low_income,yes,39.0,164.0
+2015-17,240,low_income,yes,56.5,184.0
+2015-17,325,low_income,yes,5.2,114.0
+2015-17,326,low_income,yes,2.2,184.0
+2015-17,350,low_income,yes,36.0,200.0
+2015-17,351,low_income,yes,18.5,86.0
+2015-17,352,low_income,yes,2.8,76.0
+2015-17,354,low_income,yes,9.7,144.0
+2015-17,429,low_income,yes,,52.0
+2015-17,439,low_income,yes,,18.0
+2015-17,441,low_income,yes,68.4,158.0
+2015-17,442,low_income,yes,54.3,118.0
+2015-17,501,low_income,yes,13.4,358.0
+2015-17,502,low_income,yes,10.3,272.0
+2015-17,503,low_income,yes,14.9,108.0
+2015-17,504,low_income,yes,7.0,374.0
+2015-17,505,low_income,yes,6.9,318.0
+2015-17,553,low_income,yes,24.7,170.0
+2015-17,554,low_income,yes,34.6,150.0
+2015-17,556,low_income,yes,13.4,118.0
+2015-17,558,low_income,yes,22.7,124.0
+2015-17,710,low_income,yes,,0.0
+2015-17,714,low_income,yes,,14.0
+2015-17,716,low_income,yes,,0.0
+2015-17,"114, 116, and 117",low_income,yes,55.2,344.0
+2015-17,120 and 121,low_income,yes,52.9,170.0
+2015-17,201 and 202,low_income,yes,46.6,202.0
+2015-17,210 and 212,low_income,yes,50.7,146.0
+2015-17,214 and 216,low_income,yes,39.5,228.0
+2015-17,217 and 245,low_income,yes,39.2,102.0
+2015-17,22 and 29,low_income,yes,69.7,290.0
+2015-17,220 and 221,low_income,yes,42.7,248.0
+2015-17,236 and 238,low_income,yes,35.8,190.0
+2015-17,24 and 33,low_income,yes,55.9,118.0
+2015-17,34/34E,low_income,yes,37.0,368.0
+2015-17,40 and 50,low_income,yes,32.7,202.0
+2015-17,411 and 430,low_income,yes,37.8,180.0
+2015-17,42 and 44,low_income,yes,66.0,212.0
+2015-17,"424/424W, 450, and 456",low_income,yes,58.1,272.0
+2015-17,426/426W and 428,low_income,yes,28.3,240.0
+2015-17,"434, 435, and 436",low_income,yes,65.5,116.0
+2015-17,448 and 449,low_income,yes,19.4,72.0
+2015-17,451 and 465,low_income,yes,70.4,88.0
+2015-17,455 and 459,low_income,yes,60.2,236.0
+2015-17,5 and 10,low_income,yes,25.0,264.0
+2015-17,70/70A,low_income,yes,36.0,550.0
+2015-17,712 and 713,low_income,yes,,62.0
+2015-17,88 and 90,low_income,yes,23.6,594.0
+2015-17,92 and 93,low_income,yes,30.3,330.0
+2015-17,CT1,low_income,yes,26.8,172.0
+2015-17,CT2,low_income,yes,20.7,406.0
+2015-17,CT3,low_income,yes,25.0,96.0
+2015-17,All Bus,low_income,yes,41.4,28908.0
+2015-17,1,low_income,no,66.1,732.0
+2015-17,4,low_income,no,92.9,166.0
+2015-17,7,low_income,no,94.3,566.0
+2015-17,8,low_income,no,61.8,220.0
+2015-17,9,low_income,no,84.7,470.0
+2015-17,11,low_income,no,88.7,354.0
+2015-17,14,low_income,no,,60.0
+2015-17,15,low_income,no,32.8,122.0
+2015-17,16,low_income,no,50.0,152.0
+2015-17,17,low_income,no,31.1,90.0
+2015-17,18,low_income,no,,26.0
+2015-17,19,low_income,no,66.2,136.0
+2015-17,21,low_income,no,51.8,166.0
+2015-17,23,low_income,no,41.0,268.0
+2015-17,26,low_income,no,33.3,72.0
+2015-17,27,low_income,no,,70.0
+2015-17,28,low_income,no,35.0,200.0
+2015-17,30,low_income,no,57.4,108.0
+2015-17,31,low_income,no,42.3,156.0
+2015-17,32,low_income,no,57.3,450.0
+2015-17,35,low_income,no,75.8,116.0
+2015-17,36,low_income,no,67.0,188.0
+2015-17,37,low_income,no,68.9,122.0
+2015-17,38,low_income,no,76.0,108.0
+2015-17,39,low_income,no,72.6,584.0
+2015-17,41,low_income,no,37.3,118.0
+2015-17,43,low_income,no,56.5,124.0
+2015-17,45,low_income,no,30.5,118.0
+2015-17,47,low_income,no,73.7,448.0
+2015-17,51,low_income,no,76.5,170.0
+2015-17,52,low_income,no,73.0,96.0
+2015-17,55,low_income,no,76.4,144.0
+2015-17,57,low_income,no,57.3,454.0
+2015-17,59,low_income,no,64.0,150.0
+2015-17,60,low_income,no,68.2,214.0
+2015-17,62,low_income,no,73.6,242.0
+2015-17,64,low_income,no,75.2,226.0
+2015-17,65,low_income,no,72.2,280.0
+2015-17,66,low_income,no,59.9,674.0
+2015-17,67,low_income,no,89.5,170.0
+2015-17,68,low_income,no,75.3,114.0
+2015-17,69,low_income,no,67.9,318.0
+2015-17,71,low_income,no,79.0,342.0
+2015-17,72,low_income,no,83.5,364.0
+2015-17,73,low_income,no,79.4,360.0
+2015-17,74,low_income,no,84.6,246.0
+2015-17,75,low_income,no,79.2,106.0
+2015-17,76,low_income,no,90.1,200.0
+2015-17,77,low_income,no,64.9,382.0
+2015-17,78,low_income,no,80.1,352.0
+2015-17,79,low_income,no,80.5,154.0
+2015-17,80,low_income,no,76.0,350.0
+2015-17,83,low_income,no,64.9,342.0
+2015-17,84,low_income,no,91.6,94.0
+2015-17,85,low_income,no,86.5,194.0
+2015-17,86,low_income,no,64.4,348.0
+2015-17,87,low_income,no,74.9,374.0
+2015-17,89,low_income,no,76.0,300.0
+2015-17,91,low_income,no,52.2,138.0
+2015-17,94,low_income,no,70.9,254.0
+2015-17,95,low_income,no,57.8,166.0
+2015-17,96,low_income,no,72.0,264.0
+2015-17,97,low_income,no,45.8,96.0
+2015-17,99,low_income,no,63.5,126.0
+2015-17,100,low_income,no,73.1,134.0
+2015-17,101,low_income,no,59.6,282.0
+2015-17,104,low_income,no,43.9,164.0
+2015-17,105,low_income,no,54.6,110.0
+2015-17,106,low_income,no,59.6,188.0
+2015-17,108,low_income,no,43.4,166.0
+2015-17,109,low_income,no,38.8,134.0
+2015-17,110,low_income,no,56.9,158.0
+2015-17,111,low_income,no,40.3,432.0
+2015-17,112,low_income,no,36.2,116.0
+2015-17,119,low_income,no,32.2,118.0
+2015-17,131,low_income,no,90.3,124.0
+2015-17,132,low_income,no,70.7,260.0
+2015-17,134,low_income,no,50.7,150.0
+2015-17,136,low_income,no,76.3,178.0
+2015-17,137,low_income,no,61.1,144.0
+2015-17,170,low_income,no,,26.0
+2015-17,211,low_income,no,60.4,96.0
+2015-17,215,low_income,no,39.8,146.0
+2015-17,222,low_income,no,60.0,220.0
+2015-17,225,low_income,no,58.6,246.0
+2015-17,230,low_income,no,61.0,164.0
+2015-17,240,low_income,no,43.5,184.0
+2015-17,325,low_income,no,94.8,114.0
+2015-17,326,low_income,no,97.8,184.0
+2015-17,350,low_income,no,64.0,200.0
+2015-17,351,low_income,no,81.5,86.0
+2015-17,352,low_income,no,97.2,76.0
+2015-17,354,low_income,no,90.3,144.0
+2015-17,429,low_income,no,,52.0
+2015-17,439,low_income,no,,18.0
+2015-17,441,low_income,no,31.6,158.0
+2015-17,442,low_income,no,45.7,118.0
+2015-17,501,low_income,no,86.6,358.0
+2015-17,502,low_income,no,89.7,272.0
+2015-17,503,low_income,no,85.1,108.0
+2015-17,504,low_income,no,93.0,374.0
+2015-17,505,low_income,no,93.1,318.0
+2015-17,553,low_income,no,75.3,170.0
+2015-17,554,low_income,no,65.4,150.0
+2015-17,556,low_income,no,86.6,118.0
+2015-17,558,low_income,no,77.3,124.0
+2015-17,710,low_income,no,,0.0
+2015-17,714,low_income,no,,14.0
+2015-17,716,low_income,no,,0.0
+2015-17,"114, 116, and 117",low_income,no,44.8,344.0
+2015-17,120 and 121,low_income,no,47.1,170.0
+2015-17,201 and 202,low_income,no,53.4,202.0
+2015-17,210 and 212,low_income,no,49.3,146.0
+2015-17,214 and 216,low_income,no,60.5,228.0
+2015-17,217 and 245,low_income,no,60.8,102.0
+2015-17,22 and 29,low_income,no,30.3,290.0
+2015-17,220 and 221,low_income,no,57.3,248.0
+2015-17,236 and 238,low_income,no,64.2,190.0
+2015-17,24 and 33,low_income,no,44.1,118.0
+2015-17,34/34E,low_income,no,63.0,368.0
+2015-17,40 and 50,low_income,no,67.3,202.0
+2015-17,411 and 430,low_income,no,62.2,180.0
+2015-17,42 and 44,low_income,no,34.0,212.0
+2015-17,"424/424W, 450, and 456",low_income,no,41.9,272.0
+2015-17,426/426W and 428,low_income,no,71.7,240.0
+2015-17,"434, 435, and 436",low_income,no,34.5,116.0
+2015-17,448 and 449,low_income,no,80.6,72.0
+2015-17,451 and 465,low_income,no,29.6,88.0
+2015-17,455 and 459,low_income,no,39.8,236.0
+2015-17,5 and 10,low_income,no,75.0,264.0
+2015-17,70/70A,low_income,no,64.0,550.0
+2015-17,712 and 713,low_income,no,,62.0
+2015-17,88 and 90,low_income,no,76.4,594.0
+2015-17,92 and 93,low_income,no,69.7,330.0
+2015-17,CT1,low_income,no,73.2,172.0
+2015-17,CT2,low_income,no,79.3,406.0
+2015-17,CT3,low_income,no,75.0,96.0
+2015-17,All Bus,low_income,no,58.6,28908.0
+2015-17,1,minority,yes,36.7,774.0
+2015-17,4,minority,yes,13.5,192.0
+2015-17,7,minority,yes,8.8,592.0
+2015-17,8,minority,yes,54.0,248.0
+2015-17,9,minority,yes,11.2,502.0
+2015-17,11,minority,yes,8.9,382.0
+2015-17,14,minority,yes,86.5,74.0
+2015-17,15,minority,yes,75.3,146.0
+2015-17,16,minority,yes,74.0,154.0
+2015-17,17,minority,yes,77.5,98.0
+2015-17,18,minority,yes,,32.0
+2015-17,19,minority,yes,67.0,176.0
+2015-17,21,minority,yes,87.1,186.0
+2015-17,23,minority,yes,84.9,318.0
+2015-17,26,minority,yes,86.5,74.0
+2015-17,27,minority,yes,92.5,80.0
+2015-17,28,minority,yes,92.2,232.0
+2015-17,30,minority,yes,70.1,114.0
+2015-17,31,minority,yes,92.6,162.0
+2015-17,32,minority,yes,75.5,572.0
+2015-17,35,minority,yes,33.3,132.0
+2015-17,36,minority,yes,36.7,218.0
+2015-17,37,minority,yes,32.4,142.0
+2015-17,38,minority,yes,39.0,118.0
+2015-17,39,minority,yes,36.0,678.0
+2015-17,41,minority,yes,68.3,120.0
+2015-17,43,minority,yes,51.5,132.0
+2015-17,45,minority,yes,86.6,134.0
+2015-17,47,minority,yes,32.7,496.0
+2015-17,51,minority,yes,42.0,200.0
+2015-17,52,minority,yes,35.1,114.0
+2015-17,55,minority,yes,33.8,142.0
+2015-17,57,minority,yes,28.5,492.0
+2015-17,59,minority,yes,42.0,176.0
+2015-17,60,minority,yes,43.1,246.0
+2015-17,62,minority,yes,24.7,284.0
+2015-17,64,minority,yes,29.6,230.0
+2015-17,65,minority,yes,27.8,288.0
+2015-17,66,minority,yes,39.9,706.0
+2015-17,67,minority,yes,22.5,214.0
+2015-17,68,minority,yes,35.7,112.0
+2015-17,69,minority,yes,35.7,314.0
+2015-17,71,minority,yes,24.1,382.0
+2015-17,72,minority,yes,19.6,378.0
+2015-17,73,minority,yes,19.5,370.0
+2015-17,74,minority,yes,31.9,282.0
+2015-17,75,minority,yes,31.6,114.0
+2015-17,76,minority,yes,40.0,240.0
+2015-17,77,minority,yes,24.0,408.0
+2015-17,78,minority,yes,34.0,418.0
+2015-17,79,minority,yes,22.5,178.0
+2015-17,80,minority,yes,28.3,382.0
+2015-17,83,minority,yes,29.0,338.0
+2015-17,84,minority,yes,17.1,106.0
+2015-17,85,minority,yes,33.7,214.0
+2015-17,86,minority,yes,25.7,366.0
+2015-17,87,minority,yes,22.0,382.0
+2015-17,89,minority,yes,25.2,318.0
+2015-17,91,minority,yes,32.0,144.0
+2015-17,94,minority,yes,28.0,264.0
+2015-17,95,minority,yes,40.9,186.0
+2015-17,96,minority,yes,22.9,280.0
+2015-17,97,minority,yes,,104.0
+2015-17,99,minority,yes,47.1,140.0
+2015-17,100,minority,yes,49.3,150.0
+2015-17,101,minority,yes,31.1,302.0
+2015-17,104,minority,yes,55.9,168.0
+2015-17,105,minority,yes,,120.0
+2015-17,106,minority,yes,46.1,204.0
+2015-17,108,minority,yes,44.7,188.0
+2015-17,109,minority,yes,38.5,130.0
+2015-17,110,minority,yes,50.5,186.0
+2015-17,111,minority,yes,62.6,470.0
+2015-17,112,minority,yes,46.9,128.0
+2015-17,119,minority,yes,,120.0
+2015-17,131,minority,yes,12.4,160.0
+2015-17,132,minority,yes,21.6,296.0
+2015-17,134,minority,yes,45.1,164.0
+2015-17,136,minority,yes,19.8,202.0
+2015-17,137,minority,yes,20.5,166.0
+2015-17,170,minority,yes,,26.0
+2015-17,211,minority,yes,41.0,122.0
+2015-17,215,minority,yes,45.9,148.0
+2015-17,222,minority,yes,34.3,216.0
+2015-17,225,minority,yes,47.2,246.0
+2015-17,230,minority,yes,49.5,186.0
+2015-17,240,minority,yes,71.5,232.0
+2015-17,325,minority,yes,14.6,124.0
+2015-17,326,minority,yes,16.5,218.0
+2015-17,350,minority,yes,38.1,226.0
+2015-17,351,minority,yes,47.5,80.0
+2015-17,352,minority,yes,24.9,104.0
+2015-17,354,minority,yes,17.7,158.0
+2015-17,429,minority,yes,,58.0
+2015-17,439,minority,yes,,18.0
+2015-17,441,minority,yes,47.5,160.0
+2015-17,442,minority,yes,38.4,130.0
+2015-17,501,minority,yes,21.1,408.0
+2015-17,502,minority,yes,23.3,300.0
+2015-17,503,minority,yes,27.9,122.0
+2015-17,504,minority,yes,23.3,438.0
+2015-17,505,minority,yes,23.3,378.0
+2015-17,553,minority,yes,26.4,190.0
+2015-17,554,minority,yes,38.4,156.0
+2015-17,556,minority,yes,30.9,142.0
+2015-17,558,minority,yes,37.4,134.0
+2015-17,710,minority,yes,,0.0
+2015-17,714,minority,yes,,16.0
+2015-17,716,minority,yes,,0.0
+2015-17,"114, 116, and 117",minority,yes,59.9,354.0
+2015-17,120 and 121,minority,yes,45.0,200.0
+2015-17,201 and 202,minority,yes,46.4,220.0
+2015-17,210 and 212,minority,yes,52.3,172.0
+2015-17,214 and 216,minority,yes,37.8,238.0
+2015-17,217 and 245,minority,yes,,110.0
+2015-17,22 and 29,minority,yes,90.7,322.0
+2015-17,220 and 221,minority,yes,28.4,268.0
+2015-17,236 and 238,minority,yes,44.0,218.0
+2015-17,24 and 33,minority,yes,92.2,154.0
+2015-17,34/34E,minority,yes,41.5,390.0
+2015-17,40 and 50,minority,yes,50.8,240.0
+2015-17,411 and 430,minority,yes,50.0,220.0
+2015-17,42 and 44,minority,yes,91.0,244.0
+2015-17,"424/424W, 450, and 456",minority,yes,47.9,292.0
+2015-17,426/426W and 428,minority,yes,31.9,270.0
+2015-17,"434, 435, and 436",minority,yes,44.3,140.0
+2015-17,448 and 449,minority,yes,26.7,90.0
+2015-17,451 and 465,minority,yes,18.0,78.0
+2015-17,455 and 459,minority,yes,51.8,228.0
+2015-17,5 and 10,minority,yes,32.4,284.0
+2015-17,70/70A,minority,yes,34.7,628.0
+2015-17,712 and 713,minority,yes,,72.0
+2015-17,88 and 90,minority,yes,25.4,590.0
+2015-17,92 and 93,minority,yes,23.0,366.0
+2015-17,CT1,minority,yes,28.6,196.0
+2015-17,CT2,minority,yes,33.0,424.0
+2015-17,CT3,minority,yes,44.4,126.0
+2015-17,All Bus,minority,yes,48.1,31814.0
+2015-17,1,minority,no,63.3,774.0
+2015-17,4,minority,no,86.5,192.0
+2015-17,7,minority,no,91.2,592.0
+2015-17,8,minority,no,46.0,248.0
+2015-17,9,minority,no,88.8,502.0
+2015-17,11,minority,no,91.1,382.0
+2015-17,14,minority,no,13.5,74.0
+2015-17,15,minority,no,24.7,146.0
+2015-17,16,minority,no,26.0,154.0
+2015-17,17,minority,no,22.5,98.0
+2015-17,18,minority,no,,32.0
+2015-17,19,minority,no,33.0,176.0
+2015-17,21,minority,no,12.9,186.0
+2015-17,23,minority,no,15.1,318.0
+2015-17,26,minority,no,13.5,74.0
+2015-17,27,minority,no,7.5,80.0
+2015-17,28,minority,no,7.8,232.0
+2015-17,30,minority,no,29.9,114.0
+2015-17,31,minority,no,7.4,162.0
+2015-17,32,minority,no,24.5,572.0
+2015-17,35,minority,no,66.7,132.0
+2015-17,36,minority,no,63.3,218.0
+2015-17,37,minority,no,67.6,142.0
+2015-17,38,minority,no,61.0,118.0
+2015-17,39,minority,no,64.0,678.0
+2015-17,41,minority,no,31.7,120.0
+2015-17,43,minority,no,48.5,132.0
+2015-17,45,minority,no,13.4,134.0
+2015-17,47,minority,no,67.3,496.0
+2015-17,51,minority,no,58.0,200.0
+2015-17,52,minority,no,64.9,114.0
+2015-17,55,minority,no,66.2,142.0
+2015-17,57,minority,no,71.5,492.0
+2015-17,59,minority,no,58.0,176.0
+2015-17,60,minority,no,56.9,246.0
+2015-17,62,minority,no,75.3,284.0
+2015-17,64,minority,no,70.4,230.0
+2015-17,65,minority,no,72.2,288.0
+2015-17,66,minority,no,60.1,706.0
+2015-17,67,minority,no,77.5,214.0
+2015-17,68,minority,no,64.3,112.0
+2015-17,69,minority,no,64.3,314.0
+2015-17,71,minority,no,75.9,382.0
+2015-17,72,minority,no,80.4,378.0
+2015-17,73,minority,no,80.5,370.0
+2015-17,74,minority,no,68.1,282.0
+2015-17,75,minority,no,68.4,114.0
+2015-17,76,minority,no,60.0,240.0
+2015-17,77,minority,no,76.0,408.0
+2015-17,78,minority,no,66.0,418.0
+2015-17,79,minority,no,77.5,178.0
+2015-17,80,minority,no,71.7,382.0
+2015-17,83,minority,no,71.0,338.0
+2015-17,84,minority,no,82.9,106.0
+2015-17,85,minority,no,66.3,214.0
+2015-17,86,minority,no,74.3,366.0
+2015-17,87,minority,no,78.0,382.0
+2015-17,89,minority,no,74.8,318.0
+2015-17,91,minority,no,68.0,144.0
+2015-17,94,minority,no,72.0,264.0
+2015-17,95,minority,no,59.1,186.0
+2015-17,96,minority,no,77.1,280.0
+2015-17,97,minority,no,,104.0
+2015-17,99,minority,no,52.9,140.0
+2015-17,100,minority,no,50.7,150.0
+2015-17,101,minority,no,68.9,302.0
+2015-17,104,minority,no,44.1,168.0
+2015-17,105,minority,no,,120.0
+2015-17,106,minority,no,53.9,204.0
+2015-17,108,minority,no,55.3,188.0
+2015-17,109,minority,no,61.5,130.0
+2015-17,110,minority,no,49.5,186.0
+2015-17,111,minority,no,37.4,470.0
+2015-17,112,minority,no,53.1,128.0
+2015-17,119,minority,no,,120.0
+2015-17,131,minority,no,87.6,160.0
+2015-17,132,minority,no,78.4,296.0
+2015-17,134,minority,no,54.9,164.0
+2015-17,136,minority,no,80.2,202.0
+2015-17,137,minority,no,79.5,166.0
+2015-17,170,minority,no,,26.0
+2015-17,211,minority,no,59.0,122.0
+2015-17,215,minority,no,54.1,148.0
+2015-17,222,minority,no,65.7,216.0
+2015-17,225,minority,no,52.8,246.0
+2015-17,230,minority,no,50.5,186.0
+2015-17,240,minority,no,28.5,232.0
+2015-17,325,minority,no,85.4,124.0
+2015-17,326,minority,no,83.5,218.0
+2015-17,350,minority,no,61.9,226.0
+2015-17,351,minority,no,52.5,80.0
+2015-17,352,minority,no,75.1,104.0
+2015-17,354,minority,no,82.3,158.0
+2015-17,429,minority,no,,58.0
+2015-17,439,minority,no,,18.0
+2015-17,441,minority,no,52.5,160.0
+2015-17,442,minority,no,61.6,130.0
+2015-17,501,minority,no,78.9,408.0
+2015-17,502,minority,no,76.7,300.0
+2015-17,503,minority,no,72.1,122.0
+2015-17,504,minority,no,76.7,438.0
+2015-17,505,minority,no,76.7,378.0
+2015-17,553,minority,no,73.6,190.0
+2015-17,554,minority,no,61.6,156.0
+2015-17,556,minority,no,69.1,142.0
+2015-17,558,minority,no,62.6,134.0
+2015-17,710,minority,no,,0.0
+2015-17,714,minority,no,,16.0
+2015-17,716,minority,no,,0.0
+2015-17,"114, 116, and 117",minority,no,40.1,354.0
+2015-17,120 and 121,minority,no,55.0,200.0
+2015-17,201 and 202,minority,no,53.6,220.0
+2015-17,210 and 212,minority,no,47.7,172.0
+2015-17,214 and 216,minority,no,62.2,238.0
+2015-17,217 and 245,minority,no,,110.0
+2015-17,22 and 29,minority,no,9.3,322.0
+2015-17,220 and 221,minority,no,71.6,268.0
+2015-17,236 and 238,minority,no,56.0,218.0
+2015-17,24 and 33,minority,no,7.8,154.0
+2015-17,34/34E,minority,no,58.5,390.0
+2015-17,40 and 50,minority,no,49.2,240.0
+2015-17,411 and 430,minority,no,50.0,220.0
+2015-17,42 and 44,minority,no,9.0,244.0
+2015-17,"424/424W, 450, and 456",minority,no,52.1,292.0
+2015-17,426/426W and 428,minority,no,68.1,270.0
+2015-17,"434, 435, and 436",minority,no,55.7,140.0
+2015-17,448 and 449,minority,no,73.3,90.0
+2015-17,451 and 465,minority,no,82.0,78.0
+2015-17,455 and 459,minority,no,48.2,228.0
+2015-17,5 and 10,minority,no,67.6,284.0
+2015-17,70/70A,minority,no,65.3,628.0
+2015-17,712 and 713,minority,no,,72.0
+2015-17,88 and 90,minority,no,74.6,590.0
+2015-17,92 and 93,minority,no,77.0,366.0
+2015-17,CT1,minority,no,71.4,196.0
+2015-17,CT2,minority,no,67.0,424.0
+2015-17,CT3,minority,no,55.6,126.0
+2015-17,All Bus,minority,no,51.9,31814.0
+2015-17,1,vehicles,0,48.0,850.0
+2015-17,4,vehicles,0,14.2,226.0
+2015-17,7,vehicles,0,19.3,662.0
+2015-17,8,vehicles,0,38.9,278.0
+2015-17,9,vehicles,0,27.5,546.0
+2015-17,11,vehicles,0,30.4,408.0
+2015-17,14,vehicles,0,,82.0
+2015-17,15,vehicles,0,50.0,164.0
+2015-17,16,vehicles,0,51.1,180.0
+2015-17,17,vehicles,0,52.5,118.0
+2015-17,18,vehicles,0,,36.0
+2015-17,19,vehicles,0,39.6,182.0
+2015-17,21,vehicles,0,44.5,220.0
+2015-17,23,vehicles,0,47.1,348.0
+2015-17,26,vehicles,0,,94.0
+2015-17,27,vehicles,0,,80.0
+2015-17,28,vehicles,0,53.6,250.0
+2015-17,30,vehicles,0,27.0,126.0
+2015-17,31,vehicles,0,44.7,188.0
+2015-17,32,vehicles,0,27.5,626.0
+2015-17,35,vehicles,0,22.8,158.0
+2015-17,36,vehicles,0,30.2,238.0
+2015-17,37,vehicles,0,28.6,154.0
+2015-17,38,vehicles,0,21.4,140.0
+2015-17,39,vehicles,0,39.5,730.0
+2015-17,41,vehicles,0,51.5,128.0
+2015-17,43,vehicles,0,42.7,150.0
+2015-17,45,vehicles,0,61.4,150.0
+2015-17,47,vehicles,0,39.4,564.0
+2015-17,51,vehicles,0,22.2,216.0
+2015-17,52,vehicles,0,29.2,130.0
+2015-17,55,vehicles,0,59.8,154.0
+2015-17,57,vehicles,0,38.9,524.0
+2015-17,59,vehicles,0,34.4,192.0
+2015-17,60,vehicles,0,39.1,266.0
+2015-17,62,vehicles,0,22.5,328.0
+2015-17,64,vehicles,0,36.4,258.0
+2015-17,65,vehicles,0,38.6,326.0
+2015-17,66,vehicles,0,55.4,780.0
+2015-17,67,vehicles,0,8.3,242.0
+2015-17,68,vehicles,0,45.6,136.0
+2015-17,69,vehicles,0,48.9,368.0
+2015-17,71,vehicles,0,24.1,432.0
+2015-17,72,vehicles,0,29.2,432.0
+2015-17,73,vehicles,0,24.6,414.0
+2015-17,74,vehicles,0,24.5,318.0
+2015-17,75,vehicles,0,19.6,142.0
+2015-17,76,vehicles,0,21.2,274.0
+2015-17,77,vehicles,0,31.6,488.0
+2015-17,78,vehicles,0,24.1,474.0
+2015-17,79,vehicles,0,20.6,204.0
+2015-17,80,vehicles,0,36.6,426.0
+2015-17,83,vehicles,0,42.3,378.0
+2015-17,84,vehicles,0,3.2,124.0
+2015-17,85,vehicles,0,46.4,224.0
+2015-17,86,vehicles,0,47.2,394.0
+2015-17,87,vehicles,0,35.0,434.0
+2015-17,89,vehicles,0,41.2,350.0
+2015-17,91,vehicles,0,51.8,162.0
+2015-17,94,vehicles,0,31.4,306.0
+2015-17,95,vehicles,0,31.7,202.0
+2015-17,96,vehicles,0,33.6,310.0
+2015-17,97,vehicles,0,50.0,116.0
+2015-17,99,vehicles,0,31.1,148.0
+2015-17,100,vehicles,0,22.1,172.0
+2015-17,101,vehicles,0,30.5,334.0
+2015-17,104,vehicles,0,37.6,186.0
+2015-17,105,vehicles,0,40.0,130.0
+2015-17,106,vehicles,0,27.7,238.0
+2015-17,108,vehicles,0,32.7,220.0
+2015-17,109,vehicles,0,56.8,148.0
+2015-17,110,vehicles,0,27.7,202.0
+2015-17,111,vehicles,0,46.1,512.0
+2015-17,112,vehicles,0,45.7,140.0
+2015-17,119,vehicles,0,60.3,136.0
+2015-17,131,vehicles,0,7.7,182.0
+2015-17,132,vehicles,0,13.1,336.0
+2015-17,134,vehicles,0,33.7,184.0
+2015-17,136,vehicles,0,16.2,234.0
+2015-17,137,vehicles,0,32.3,192.0
+2015-17,170,vehicles,0,,26.0
+2015-17,211,vehicles,0,32.9,140.0
+2015-17,215,vehicles,0,42.3,170.0
+2015-17,222,vehicles,0,27.9,244.0
+2015-17,225,vehicles,0,41.5,284.0
+2015-17,230,vehicles,0,28.2,206.0
+2015-17,240,vehicles,0,27.9,258.0
+2015-17,325,vehicles,0,5.6,140.0
+2015-17,326,vehicles,0,8.3,242.0
+2015-17,350,vehicles,0,34.4,256.0
+2015-17,351,vehicles,0,61.4,104.0
+2015-17,352,vehicles,0,1.7,120.0
+2015-17,354,vehicles,0,11.6,172.0
+2015-17,429,vehicles,0,,68.0
+2015-17,439,vehicles,0,,24.0
+2015-17,441,vehicles,0,42.4,184.0
+2015-17,442,vehicles,0,32.0,150.0
+2015-17,501,vehicles,0,12.1,430.0
+2015-17,502,vehicles,0,17.2,338.0
+2015-17,503,vehicles,0,9.4,126.0
+2015-17,504,vehicles,0,10.2,492.0
+2015-17,505,vehicles,0,4.1,438.0
+2015-17,553,vehicles,0,23.0,218.0
+2015-17,554,vehicles,0,31.0,174.0
+2015-17,556,vehicles,0,13.4,150.0
+2015-17,558,vehicles,0,23.6,144.0
+2015-17,710,vehicles,0,,0.0
+2015-17,714,vehicles,0,,18.0
+2015-17,716,vehicles,0,,0.0
+2015-17,"114, 116, and 117",vehicles,0,44.1,390.0
+2015-17,120 and 121,vehicles,0,52.9,208.0
+2015-17,201 and 202,vehicles,0,45.3,234.0
+2015-17,210 and 212,vehicles,0,40.0,200.0
+2015-17,214 and 216,vehicles,0,32.8,274.0
+2015-17,217 and 245,vehicles,0,30.8,130.0
+2015-17,22 and 29,vehicles,0,53.8,342.0
+2015-17,220 and 221,vehicles,0,33.8,308.0
+2015-17,236 and 238,vehicles,0,34.4,250.0
+2015-17,24 and 33,vehicles,0,36.9,168.0
+2015-17,34/34E,vehicles,0,30.6,438.0
+2015-17,40 and 50,vehicles,0,26.2,260.0
+2015-17,411 and 430,vehicles,0,42.0,262.0
+2015-17,42 and 44,vehicles,0,52.9,272.0
+2015-17,"424/424W, 450, and 456",vehicles,0,42.2,322.0
+2015-17,426/426W and 428,vehicles,0,18.3,306.0
+2015-17,"434, 435, and 436",vehicles,0,40.7,162.0
+2015-17,448 and 449,vehicles,0,18.1,100.0
+2015-17,451 and 465,vehicles,0,60.7,102.0
+2015-17,455 and 459,vehicles,0,44.2,276.0
+2015-17,5 and 10,vehicles,0,37.0,330.0
+2015-17,70/70A,vehicles,0,44.3,700.0
+2015-17,712 and 713,vehicles,0,,78.0
+2015-17,88 and 90,vehicles,0,40.6,646.0
+2015-17,92 and 93,vehicles,0,32.2,410.0
+2015-17,CT1,vehicles,0,34.0,206.0
+2015-17,CT2,vehicles,0,41.2,476.0
+2015-17,CT3,vehicles,0,20.6,136.0
+2015-17,All Bus,vehicles,0,39.0,35596.0
+2015-17,1,vehicles,1,40.2,850.0
+2015-17,4,vehicles,1,34.4,226.0
+2015-17,7,vehicles,1,60.1,662.0
+2015-17,8,vehicles,1,36.7,278.0
+2015-17,9,vehicles,1,55.7,546.0
+2015-17,11,vehicles,1,47.6,408.0
+2015-17,14,vehicles,1,,82.0
+2015-17,15,vehicles,1,35.4,164.0
+2015-17,16,vehicles,1,36.7,180.0
+2015-17,17,vehicles,1,30.5,118.0
+2015-17,18,vehicles,1,,36.0
+2015-17,19,vehicles,1,31.9,182.0
+2015-17,21,vehicles,1,36.4,220.0
+2015-17,23,vehicles,1,33.3,348.0
+2015-17,26,vehicles,1,,94.0
+2015-17,27,vehicles,1,,80.0
+2015-17,28,vehicles,1,34.4,250.0
+2015-17,30,vehicles,1,38.1,126.0
+2015-17,31,vehicles,1,26.6,188.0
+2015-17,32,vehicles,1,41.5,626.0
+2015-17,35,vehicles,1,49.4,158.0
+2015-17,36,vehicles,1,45.4,238.0
+2015-17,37,vehicles,1,45.5,154.0
+2015-17,38,vehicles,1,55.7,140.0
+2015-17,39,vehicles,1,40.5,730.0
+2015-17,41,vehicles,1,29.7,128.0
+2015-17,43,vehicles,1,36.0,150.0
+2015-17,45,vehicles,1,28.0,150.0
+2015-17,47,vehicles,1,41.1,564.0
+2015-17,51,vehicles,1,51.9,216.0
+2015-17,52,vehicles,1,41.6,130.0
+2015-17,55,vehicles,1,31.1,154.0
+2015-17,57,vehicles,1,43.1,524.0
+2015-17,59,vehicles,1,40.6,192.0
+2015-17,60,vehicles,1,47.4,266.0
+2015-17,62,vehicles,1,35.4,328.0
+2015-17,64,vehicles,1,43.4,258.0
+2015-17,65,vehicles,1,39.9,326.0
+2015-17,66,vehicles,1,33.3,780.0
+2015-17,67,vehicles,1,51.3,242.0
+2015-17,68,vehicles,1,46.9,136.0
+2015-17,69,vehicles,1,31.5,368.0
+2015-17,71,vehicles,1,49.1,432.0
+2015-17,72,vehicles,1,54.6,432.0
+2015-17,73,vehicles,1,51.2,414.0
+2015-17,74,vehicles,1,49.7,318.0
+2015-17,75,vehicles,1,50.8,142.0
+2015-17,76,vehicles,1,31.4,274.0
+2015-17,77,vehicles,1,48.8,488.0
+2015-17,78,vehicles,1,54.0,474.0
+2015-17,79,vehicles,1,55.9,204.0
+2015-17,80,vehicles,1,48.8,426.0
+2015-17,83,vehicles,1,48.1,378.0
+2015-17,84,vehicles,1,42.0,124.0
+2015-17,85,vehicles,1,45.6,224.0
+2015-17,86,vehicles,1,39.1,394.0
+2015-17,87,vehicles,1,48.8,434.0
+2015-17,89,vehicles,1,41.7,350.0
+2015-17,91,vehicles,1,40.8,162.0
+2015-17,94,vehicles,1,47.1,306.0
+2015-17,95,vehicles,1,45.6,202.0
+2015-17,96,vehicles,1,46.4,310.0
+2015-17,97,vehicles,1,25.9,116.0
+2015-17,99,vehicles,1,44.6,148.0
+2015-17,100,vehicles,1,49.9,172.0
+2015-17,101,vehicles,1,44.9,334.0
+2015-17,104,vehicles,1,47.3,186.0
+2015-17,105,vehicles,1,44.6,130.0
+2015-17,106,vehicles,1,43.7,238.0
+2015-17,108,vehicles,1,46.4,220.0
+2015-17,109,vehicles,1,28.4,148.0
+2015-17,110,vehicles,1,44.6,202.0
+2015-17,111,vehicles,1,35.5,512.0
+2015-17,112,vehicles,1,41.4,140.0
+2015-17,119,vehicles,1,22.0,136.0
+2015-17,131,vehicles,1,49.4,182.0
+2015-17,132,vehicles,1,54.7,336.0
+2015-17,134,vehicles,1,42.4,184.0
+2015-17,136,vehicles,1,46.1,234.0
+2015-17,137,vehicles,1,39.6,192.0
+2015-17,170,vehicles,1,,26.0
+2015-17,211,vehicles,1,34.3,140.0
+2015-17,215,vehicles,1,38.8,170.0
+2015-17,222,vehicles,1,46.7,244.0
+2015-17,225,vehicles,1,36.6,284.0
+2015-17,230,vehicles,1,35.0,206.0
+2015-17,240,vehicles,1,40.3,258.0
+2015-17,325,vehicles,1,27.2,140.0
+2015-17,326,vehicles,1,40.5,242.0
+2015-17,350,vehicles,1,38.3,256.0
+2015-17,351,vehicles,1,34.8,104.0
+2015-17,352,vehicles,1,21.6,120.0
+2015-17,354,vehicles,1,37.2,172.0
+2015-17,429,vehicles,1,,68.0
+2015-17,439,vehicles,1,,24.0
+2015-17,441,vehicles,1,43.5,184.0
+2015-17,442,vehicles,1,45.3,150.0
+2015-17,501,vehicles,1,54.9,430.0
+2015-17,502,vehicles,1,49.0,338.0
+2015-17,503,vehicles,1,58.7,126.0
+2015-17,504,vehicles,1,44.3,492.0
+2015-17,505,vehicles,1,31.9,438.0
+2015-17,553,vehicles,1,36.7,218.0
+2015-17,554,vehicles,1,39.0,174.0
+2015-17,556,vehicles,1,46.7,150.0
+2015-17,558,vehicles,1,41.6,144.0
+2015-17,710,vehicles,1,,0.0
+2015-17,714,vehicles,1,,18.0
+2015-17,716,vehicles,1,,0.0
+2015-17,"114, 116, and 117",vehicles,1,35.4,390.0
+2015-17,120 and 121,vehicles,1,34.6,208.0
+2015-17,201 and 202,vehicles,1,36.7,234.0
+2015-17,210 and 212,vehicles,1,41.0,200.0
+2015-17,214 and 216,vehicles,1,48.2,274.0
+2015-17,217 and 245,vehicles,1,37.0,130.0
+2015-17,22 and 29,vehicles,1,33.3,342.0
+2015-17,220 and 221,vehicles,1,42.2,308.0
+2015-17,236 and 238,vehicles,1,44.0,250.0
+2015-17,24 and 33,vehicles,1,39.3,168.0
+2015-17,34/34E,vehicles,1,44.7,438.0
+2015-17,40 and 50,vehicles,1,51.5,260.0
+2015-17,411 and 430,vehicles,1,38.2,262.0
+2015-17,42 and 44,vehicles,1,29.4,272.0
+2015-17,"424/424W, 450, and 456",vehicles,1,38.5,322.0
+2015-17,426/426W and 428,vehicles,1,34.6,306.0
+2015-17,"434, 435, and 436",vehicles,1,42.0,162.0
+2015-17,448 and 449,vehicles,1,48.1,100.0
+2015-17,451 and 465,vehicles,1,27.5,102.0
+2015-17,455 and 459,vehicles,1,39.9,276.0
+2015-17,5 and 10,vehicles,1,41.2,330.0
+2015-17,70/70A,vehicles,1,40.3,700.0
+2015-17,712 and 713,vehicles,1,,78.0
+2015-17,88 and 90,vehicles,1,45.8,646.0
+2015-17,92 and 93,vehicles,1,49.3,410.0
+2015-17,CT1,vehicles,1,51.5,206.0
+2015-17,CT2,vehicles,1,44.5,476.0
+2015-17,CT3,vehicles,1,44.1,136.0
+2015-17,All Bus,vehicles,1,40.5,35596.0
+2015-17,1,vehicles,2,8.9,850.0
+2015-17,4,vehicles,2,36.3,226.0
+2015-17,7,vehicles,2,18.1,662.0
+2015-17,8,vehicles,2,20.1,278.0
+2015-17,9,vehicles,2,13.9,546.0
+2015-17,11,vehicles,2,17.1,408.0
+2015-17,14,vehicles,2,,82.0
+2015-17,15,vehicles,2,12.2,164.0
+2015-17,16,vehicles,2,12.2,180.0
+2015-17,17,vehicles,2,11.9,118.0
+2015-17,18,vehicles,2,,36.0
+2015-17,19,vehicles,2,22.0,182.0
+2015-17,21,vehicles,2,12.7,220.0
+2015-17,23,vehicles,2,14.4,348.0
+2015-17,26,vehicles,2,,94.0
+2015-17,27,vehicles,2,,80.0
+2015-17,28,vehicles,2,9.6,250.0
+2015-17,30,vehicles,2,27.0,126.0
+2015-17,31,vehicles,2,23.4,188.0
+2015-17,32,vehicles,2,24.0,626.0
+2015-17,35,vehicles,2,22.8,158.0
+2015-17,36,vehicles,2,21.9,238.0
+2015-17,37,vehicles,2,24.7,154.0
+2015-17,38,vehicles,2,20.0,140.0
+2015-17,39,vehicles,2,15.6,730.0
+2015-17,41,vehicles,2,15.6,128.0
+2015-17,43,vehicles,2,16.0,150.0
+2015-17,45,vehicles,2,8.0,150.0
+2015-17,47,vehicles,2,17.0,564.0
+2015-17,51,vehicles,2,20.4,216.0
+2015-17,52,vehicles,2,23.1,130.0
+2015-17,55,vehicles,2,7.7,154.0
+2015-17,57,vehicles,2,13.0,524.0
+2015-17,59,vehicles,2,21.9,192.0
+2015-17,60,vehicles,2,12.0,266.0
+2015-17,62,vehicles,2,37.2,328.0
+2015-17,64,vehicles,2,17.8,258.0
+2015-17,65,vehicles,2,17.2,326.0
+2015-17,66,vehicles,2,9.2,780.0
+2015-17,67,vehicles,2,37.1,242.0
+2015-17,68,vehicles,2,5.8,136.0
+2015-17,69,vehicles,2,15.2,368.0
+2015-17,71,vehicles,2,24.5,432.0
+2015-17,72,vehicles,2,16.2,432.0
+2015-17,73,vehicles,2,19.8,414.0
+2015-17,74,vehicles,2,20.8,318.0
+2015-17,75,vehicles,2,28.1,142.0
+2015-17,76,vehicles,2,37.9,274.0
+2015-17,77,vehicles,2,17.6,488.0
+2015-17,78,vehicles,2,18.1,474.0
+2015-17,79,vehicles,2,20.6,204.0
+2015-17,80,vehicles,2,11.7,426.0
+2015-17,83,vehicles,2,7.9,378.0
+2015-17,84,vehicles,2,46.8,124.0
+2015-17,85,vehicles,2,7.2,224.0
+2015-17,86,vehicles,2,12.2,394.0
+2015-17,87,vehicles,2,14.3,434.0
+2015-17,89,vehicles,2,13.1,350.0
+2015-17,91,vehicles,2,4.9,162.0
+2015-17,94,vehicles,2,17.6,306.0
+2015-17,95,vehicles,2,22.8,202.0
+2015-17,96,vehicles,2,14.9,310.0
+2015-17,97,vehicles,2,20.7,116.0
+2015-17,99,vehicles,2,20.3,148.0
+2015-17,100,vehicles,2,18.6,172.0
+2015-17,101,vehicles,2,18.6,334.0
+2015-17,104,vehicles,2,9.7,186.0
+2015-17,105,vehicles,2,12.3,130.0
+2015-17,106,vehicles,2,16.8,238.0
+2015-17,108,vehicles,2,14.5,220.0
+2015-17,109,vehicles,2,14.9,148.0
+2015-17,110,vehicles,2,18.8,202.0
+2015-17,111,vehicles,2,15.2,512.0
+2015-17,112,vehicles,2,12.9,140.0
+2015-17,119,vehicles,2,13.2,136.0
+2015-17,131,vehicles,2,32.9,182.0
+2015-17,132,vehicles,2,26.8,336.0
+2015-17,134,vehicles,2,14.1,184.0
+2015-17,136,vehicles,2,29.9,234.0
+2015-17,137,vehicles,2,24.0,192.0
+2015-17,170,vehicles,2,,26.0
+2015-17,211,vehicles,2,21.4,140.0
+2015-17,215,vehicles,2,12.9,170.0
+2015-17,222,vehicles,2,20.5,244.0
+2015-17,225,vehicles,2,19.0,284.0
+2015-17,230,vehicles,2,24.3,206.0
+2015-17,240,vehicles,2,21.7,258.0
+2015-17,325,vehicles,2,41.5,140.0
+2015-17,326,vehicles,2,38.8,242.0
+2015-17,350,vehicles,2,21.1,256.0
+2015-17,351,vehicles,2,3.8,104.0
+2015-17,352,vehicles,2,53.4,120.0
+2015-17,354,vehicles,2,34.9,172.0
+2015-17,429,vehicles,2,,68.0
+2015-17,439,vehicles,2,,24.0
+2015-17,441,vehicles,2,10.8,184.0
+2015-17,442,vehicles,2,16.0,150.0
+2015-17,501,vehicles,2,21.9,430.0
+2015-17,502,vehicles,2,29.0,338.0
+2015-17,503,vehicles,2,27.1,126.0
+2015-17,504,vehicles,2,37.8,492.0
+2015-17,505,vehicles,2,52.1,438.0
+2015-17,553,vehicles,2,33.9,218.0
+2015-17,554,vehicles,2,23.0,174.0
+2015-17,556,vehicles,2,33.3,150.0
+2015-17,558,vehicles,2,31.9,144.0
+2015-17,710,vehicles,2,,0.0
+2015-17,714,vehicles,2,,18.0
+2015-17,716,vehicles,2,,0.0
+2015-17,"114, 116, and 117",vehicles,2,13.8,390.0
+2015-17,120 and 121,vehicles,2,9.6,208.0
+2015-17,201 and 202,vehicles,2,13.7,234.0
+2015-17,210 and 212,vehicles,2,13.0,200.0
+2015-17,214 and 216,vehicles,2,15.3,274.0
+2015-17,217 and 245,vehicles,2,20.0,130.0
+2015-17,22 and 29,vehicles,2,10.5,342.0
+2015-17,220 and 221,vehicles,2,16.9,308.0
+2015-17,236 and 238,vehicles,2,18.4,250.0
+2015-17,24 and 33,vehicles,2,20.2,168.0
+2015-17,34/34E,vehicles,2,17.8,438.0
+2015-17,40 and 50,vehicles,2,15.4,260.0
+2015-17,411 and 430,vehicles,2,14.5,262.0
+2015-17,42 and 44,vehicles,2,14.0,272.0
+2015-17,"424/424W, 450, and 456",vehicles,2,16.8,322.0
+2015-17,426/426W and 428,vehicles,2,35.3,306.0
+2015-17,"434, 435, and 436",vehicles,2,8.7,162.0
+2015-17,448 and 449,vehicles,2,27.9,100.0
+2015-17,451 and 465,vehicles,2,7.9,102.0
+2015-17,455 and 459,vehicles,2,10.1,276.0
+2015-17,5 and 10,vehicles,2,15.7,330.0
+2015-17,70/70A,vehicles,2,12.0,700.0
+2015-17,712 and 713,vehicles,2,,78.0
+2015-17,88 and 90,vehicles,2,11.8,646.0
+2015-17,92 and 93,vehicles,2,15.1,410.0
+2015-17,CT1,vehicles,2,9.7,206.0
+2015-17,CT2,vehicles,2,10.5,476.0
+2015-17,CT3,vehicles,2,25.0,136.0
+2015-17,All Bus,vehicles,2,16.1,35596.0
+2015-17,1,vehicles,3+,2.8,850.0
+2015-17,4,vehicles,3+,15.0,226.0
+2015-17,7,vehicles,3+,2.4,662.0
+2015-17,8,vehicles,3+,4.3,278.0
+2015-17,9,vehicles,3+,2.9,546.0
+2015-17,11,vehicles,3+,4.9,408.0
+2015-17,14,vehicles,3+,,82.0
+2015-17,15,vehicles,3+,2.4,164.0
+2015-17,16,vehicles,3+,0.0,180.0
+2015-17,17,vehicles,3+,5.1,118.0
+2015-17,18,vehicles,3+,,36.0
+2015-17,19,vehicles,3+,6.6,182.0
+2015-17,21,vehicles,3+,6.4,220.0
+2015-17,23,vehicles,3+,5.2,348.0
+2015-17,26,vehicles,3+,,94.0
+2015-17,27,vehicles,3+,,80.0
+2015-17,28,vehicles,3+,2.4,250.0
+2015-17,30,vehicles,3+,7.9,126.0
+2015-17,31,vehicles,3+,5.3,188.0
+2015-17,32,vehicles,3+,7.0,626.0
+2015-17,35,vehicles,3+,5.1,158.0
+2015-17,36,vehicles,3+,2.5,238.0
+2015-17,37,vehicles,3+,1.3,154.0
+2015-17,38,vehicles,3+,2.9,140.0
+2015-17,39,vehicles,3+,4.4,730.0
+2015-17,41,vehicles,3+,3.1,128.0
+2015-17,43,vehicles,3+,5.3,150.0
+2015-17,45,vehicles,3+,2.7,150.0
+2015-17,47,vehicles,3+,2.5,564.0
+2015-17,51,vehicles,3+,5.6,216.0
+2015-17,52,vehicles,3+,6.1,130.0
+2015-17,55,vehicles,3+,1.3,154.0
+2015-17,57,vehicles,3+,5.0,524.0
+2015-17,59,vehicles,3+,3.1,192.0
+2015-17,60,vehicles,3+,1.5,266.0
+2015-17,62,vehicles,3+,4.9,328.0
+2015-17,64,vehicles,3+,2.3,258.0
+2015-17,65,vehicles,3+,4.3,326.0
+2015-17,66,vehicles,3+,2.1,780.0
+2015-17,67,vehicles,3+,3.3,242.0
+2015-17,68,vehicles,3+,1.6,136.0
+2015-17,69,vehicles,3+,4.4,368.0
+2015-17,71,vehicles,3+,2.3,432.0
+2015-17,72,vehicles,3+,0.0,432.0
+2015-17,73,vehicles,3+,4.3,414.0
+2015-17,74,vehicles,3+,5.1,318.0
+2015-17,75,vehicles,3+,1.4,142.0
+2015-17,76,vehicles,3+,9.5,274.0
+2015-17,77,vehicles,3+,2.1,488.0
+2015-17,78,vehicles,3+,3.8,474.0
+2015-17,79,vehicles,3+,3.0,204.0
+2015-17,80,vehicles,3+,2.8,426.0
+2015-17,83,vehicles,3+,1.6,378.0
+2015-17,84,vehicles,3+,8.0,124.0
+2015-17,85,vehicles,3+,0.8,224.0
+2015-17,86,vehicles,3+,1.5,394.0
+2015-17,87,vehicles,3+,1.8,434.0
+2015-17,89,vehicles,3+,4.0,350.0
+2015-17,91,vehicles,3+,2.5,162.0
+2015-17,94,vehicles,3+,3.9,306.0
+2015-17,95,vehicles,3+,0.0,202.0
+2015-17,96,vehicles,3+,5.2,310.0
+2015-17,97,vehicles,3+,3.5,116.0
+2015-17,99,vehicles,3+,4.1,148.0
+2015-17,100,vehicles,3+,9.4,172.0
+2015-17,101,vehicles,3+,6.0,334.0
+2015-17,104,vehicles,3+,5.4,186.0
+2015-17,105,vehicles,3+,3.0,130.0
+2015-17,106,vehicles,3+,11.8,238.0
+2015-17,108,vehicles,3+,6.4,220.0
+2015-17,109,vehicles,3+,0.0,148.0
+2015-17,110,vehicles,3+,8.9,202.0
+2015-17,111,vehicles,3+,3.1,512.0
+2015-17,112,vehicles,3+,0.0,140.0
+2015-17,119,vehicles,3+,4.4,136.0
+2015-17,131,vehicles,3+,9.9,182.0
+2015-17,132,vehicles,3+,5.4,336.0
+2015-17,134,vehicles,3+,9.8,184.0
+2015-17,136,vehicles,3+,7.7,234.0
+2015-17,137,vehicles,3+,4.2,192.0
+2015-17,170,vehicles,3+,,26.0
+2015-17,211,vehicles,3+,11.4,140.0
+2015-17,215,vehicles,3+,5.9,170.0
+2015-17,222,vehicles,3+,4.9,244.0
+2015-17,225,vehicles,3+,2.8,284.0
+2015-17,230,vehicles,3+,12.6,206.0
+2015-17,240,vehicles,3+,10.1,258.0
+2015-17,325,vehicles,3+,25.8,140.0
+2015-17,326,vehicles,3+,12.4,242.0
+2015-17,350,vehicles,3+,6.2,256.0
+2015-17,351,vehicles,3+,0.0,104.0
+2015-17,352,vehicles,3+,23.3,120.0
+2015-17,354,vehicles,3+,16.3,172.0
+2015-17,429,vehicles,3+,,68.0
+2015-17,439,vehicles,3+,,24.0
+2015-17,441,vehicles,3+,3.3,184.0
+2015-17,442,vehicles,3+,6.6,150.0
+2015-17,501,vehicles,3+,11.1,430.0
+2015-17,502,vehicles,3+,4.8,338.0
+2015-17,503,vehicles,3+,4.8,126.0
+2015-17,504,vehicles,3+,7.7,492.0
+2015-17,505,vehicles,3+,11.9,438.0
+2015-17,553,vehicles,3+,6.4,218.0
+2015-17,554,vehicles,3+,7.0,174.0
+2015-17,556,vehicles,3+,6.6,150.0
+2015-17,558,vehicles,3+,2.9,144.0
+2015-17,710,vehicles,3+,,0.0
+2015-17,714,vehicles,3+,,18.0
+2015-17,716,vehicles,3+,,0.0
+2015-17,"114, 116, and 117",vehicles,3+,6.7,390.0
+2015-17,120 and 121,vehicles,3+,2.9,208.0
+2015-17,201 and 202,vehicles,3+,4.3,234.0
+2015-17,210 and 212,vehicles,3+,6.0,200.0
+2015-17,214 and 216,vehicles,3+,3.6,274.0
+2015-17,217 and 245,vehicles,3+,12.3,130.0
+2015-17,22 and 29,vehicles,3+,2.3,342.0
+2015-17,220 and 221,vehicles,3+,7.1,308.0
+2015-17,236 and 238,vehicles,3+,3.2,250.0
+2015-17,24 and 33,vehicles,3+,3.6,168.0
+2015-17,34/34E,vehicles,3+,6.9,438.0
+2015-17,40 and 50,vehicles,3+,6.9,260.0
+2015-17,411 and 430,vehicles,3+,5.4,262.0
+2015-17,42 and 44,vehicles,3+,3.7,272.0
+2015-17,"424/424W, 450, and 456",vehicles,3+,2.5,322.0
+2015-17,426/426W and 428,vehicles,3+,11.8,306.0
+2015-17,"434, 435, and 436",vehicles,3+,8.7,162.0
+2015-17,448 and 449,vehicles,3+,5.9,100.0
+2015-17,451 and 465,vehicles,3+,3.9,102.0
+2015-17,455 and 459,vehicles,3+,5.8,276.0
+2015-17,5 and 10,vehicles,3+,6.1,330.0
+2015-17,70/70A,vehicles,3+,3.4,700.0
+2015-17,712 and 713,vehicles,3+,,78.0
+2015-17,88 and 90,vehicles,3+,1.9,646.0
+2015-17,92 and 93,vehicles,3+,3.4,410.0
+2015-17,CT1,vehicles,3+,4.8,206.0
+2015-17,CT2,vehicles,3+,3.8,476.0
+2015-17,CT3,vehicles,3+,10.3,136.0
+2015-17,All Bus,vehicles,3+,4.4,35596.0
+2025,10,minority,yes,51.6,572.0
+2025,10,minority,no,48.4,572.0
+2025,10,trip_purpose,work,34.9,572.0
+2025,10,trip_purpose,school,8.0,572.0
+2025,10,trip_purpose,social,16.5,572.0
+2025,10,trip_purpose,other errands,26.4,572.0
+2025,10,trip_purpose,not from home,14.1,572.0
+2025,10,vehicles,0,40.1,572.0
+2025,10,vehicles,1,44.0,572.0
+2025,10,vehicles,2,13.2,572.0
+2025,10,vehicles,3+,2.7,572.0
+2025,10,low_income,yes,67.9,572.0
+2025,10,low_income,no,32.1,572.0
+2025,104,low_income,yes,88.4,756.0
+2025,104,low_income,no,11.6,756.0
+2025,104,minority,yes,71.0,756.0
+2025,104,minority,no,29.0,756.0
+2025,104,trip_purpose,work,51.0,756.0
+2025,104,trip_purpose,school,3.8,756.0
+2025,104,trip_purpose,social,17.7,756.0
+2025,104,trip_purpose,other errands,19.1,756.0
+2025,104,trip_purpose,not from home,8.4,756.0
+2025,104,vehicles,0,42.2,756.0
+2025,104,vehicles,1,50.5,756.0
+2025,104,vehicles,2,6.4,756.0
+2025,104,vehicles,3+,1.0,756.0
+2025,1,trip_purpose,work,42.9,1846.0
+2025,1,trip_purpose,school,8.9,1846.0
+2025,1,trip_purpose,social,9.5,1846.0
+2025,1,trip_purpose,other errands,17.6,1846.0
+2025,1,trip_purpose,not from home,21.1,1846.0
+2025,1,vehicles,0,54.6,1846.0
+2025,1,vehicles,1,37.7,1846.0
+2025,1,vehicles,2,6.7,1846.0
+2025,1,vehicles,3+,1.0,1846.0
+2025,1,low_income,yes,64.6,1846.0
+2025,1,low_income,no,35.4,1846.0
+2025,1,minority,yes,69.3,1846.0
+2025,1,minority,no,30.7,1846.0
+2025,"114, 116, & 117",low_income,yes,82.7,1264.0
+2025,"114, 116, & 117",low_income,no,17.3,1264.0
+2025,111,low_income,yes,79.4,932.0
+2025,111,low_income,no,20.6,932.0
+2025,111,minority,yes,80.2,932.0
+2025,111,minority,no,19.8,932.0
+2025,111,trip_purpose,work,52.6,932.0
+2025,111,trip_purpose,school,5.9,932.0
+2025,111,trip_purpose,social,6.1,932.0
+2025,111,trip_purpose,other errands,17.1,932.0
+2025,111,trip_purpose,not from home,18.3,932.0
+2025,111,vehicles,0,55.2,932.0
+2025,111,vehicles,1,38.6,932.0
+2025,111,vehicles,2,5.3,932.0
+2025,111,vehicles,3+,0.9,932.0
+2025,15,low_income,yes,88.1,708.0
+2025,"114, 116, & 117",minority,yes,75.3,1264.0
+2025,"114, 116, & 117",minority,no,24.7,1264.0
+2025,"114, 116, & 117",trip_purpose,work,48.4,1264.0
+2025,"114, 116, & 117",trip_purpose,school,5.0,1264.0
+2025,"114, 116, & 117",trip_purpose,social,16.7,1264.0
+2025,"114, 116, & 117",trip_purpose,other errands,24.9,1264.0
+2025,"114, 116, & 117",trip_purpose,not from home,5.0,1264.0
+2025,"114, 116, & 117",vehicles,0,52.6,1264.0
+2025,"114, 116, & 117",vehicles,1,41.2,1264.0
+2025,"114, 116, & 117",vehicles,2,4.9,1264.0
+2025,"114, 116, & 117",vehicles,3+,1.2,1264.0
+2025,15,low_income,no,11.9,708.0
+2025,15,minority,yes,80.8,708.0
+2025,15,minority,no,19.2,708.0
+2025,11,low_income,yes,64.5,358.0
+2025,11,low_income,no,35.5,358.0
+2025,11,minority,yes,49.5,358.0
+2025,11,minority,no,50.5,358.0
+2025,11,trip_purpose,work,52.4,358.0
+2025,11,trip_purpose,school,5.6,358.0
+2025,11,trip_purpose,social,14.9,358.0
+2025,11,trip_purpose,other errands,19.2,358.0
+2025,11,trip_purpose,not from home,7.9,358.0
+2025,11,vehicles,0,41.3,358.0
+2025,11,vehicles,1,43.7,358.0
+2025,11,vehicles,2,14.8,358.0
+2025,11,vehicles,3+,0.2,358.0
+2025,21,minority,yes,88.0,812.0
+2025,21,minority,no,12.0,812.0
+2025,21,trip_purpose,work,51.0,812.0
+2025,21,trip_purpose,school,14.2,812.0
+2025,21,trip_purpose,social,8.7,812.0
+2025,21,trip_purpose,other errands,21.8,812.0
+2025,21,trip_purpose,not from home,4.3,812.0
+2025,22,low_income,yes,79.7,997.0
+2025,22,low_income,no,20.3,997.0
+2025,22,minority,yes,88.3,997.0
+2025,22,minority,no,11.7,997.0
+2025,16,minority,yes,77.8,799.0
+2025,16,minority,no,22.2,799.0
+2025,16,trip_purpose,work,43.4,799.0
+2025,16,trip_purpose,school,12.6,799.0
+2025,16,trip_purpose,social,13.5,799.0
+2025,16,trip_purpose,other errands,18.5,799.0
+2025,15,trip_purpose,work,47.0,708.0
+2025,16,trip_purpose,not from home,12.1,799.0
+2025,15,trip_purpose,school,7.8,708.0
+2025,15,trip_purpose,social,16.3,708.0
+2025,15,trip_purpose,other errands,20.3,708.0
+2025,15,trip_purpose,not from home,8.6,708.0
+2025,21,vehicles,0,45.7,812.0
+2025,21,vehicles,1,46.1,812.0
+2025,16,vehicles,0,52.6,799.0
+2025,21,vehicles,2,6.7,812.0
+2025,16,vehicles,1,36.9,799.0
+2025,21,vehicles,3+,1.4,812.0
+2025,16,vehicles,2,9.1,799.0
+2025,16,vehicles,3+,1.4,799.0
+2025,15,vehicles,0,38.1,708.0
+2025,15,vehicles,1,47.8,708.0
+2025,22,trip_purpose,work,43.4,997.0
+2025,22,trip_purpose,school,12.7,997.0
+2025,21,low_income,yes,89.8,812.0
+2025,22,trip_purpose,social,14.6,997.0
+2025,21,low_income,no,10.2,812.0
+2025,22,trip_purpose,other errands,21.3,997.0
+2025,22,trip_purpose,not from home,8.0,997.0
+2025,15,vehicles,2,11.1,708.0
+2025,15,vehicles,3+,3.0,708.0
+2025,22,vehicles,0,56.1,997.0
+2025,22,vehicles,1,33.5,997.0
+2025,22,vehicles,2,9.5,997.0
+2025,22,vehicles,3+,0.9,997.0
+2025,16,low_income,yes,75.9,799.0
+2025,16,low_income,no,24.1,799.0
+2025,28 & 29,trip_purpose,social,14.2,1230.0
+2025,28 & 29,trip_purpose,other errands,18.7,1230.0
+2025,28 & 29,trip_purpose,not from home,13.2,1230.0
+2025,28 & 29,vehicles,0,57.8,1230.0
+2025,28 & 29,vehicles,1,34.7,1230.0
+2025,28 & 29,vehicles,2,6.5,1230.0
+2025,28 & 29,vehicles,3+,0.9,1230.0
+2025,28 & 29,low_income,no,25.4,1230.0
+2025,23,minority,yes,86.9,1370.0
+2025,23,minority,no,13.1,1370.0
+2025,32,low_income,yes,87.9,980.0
+2025,32,low_income,no,12.1,980.0
+2025,23,low_income,yes,83.9,1370.0
+2025,23,low_income,no,16.1,1370.0
+2025,32,minority,yes,78.3,980.0
+2025,32,minority,no,21.7,980.0
+2025,23,trip_purpose,work,39.0,1370.0
+2025,28 & 29,minority,yes,88.4,1230.0
+2025,23,trip_purpose,school,14.7,1370.0
+2025,28 & 29,minority,no,11.6,1230.0
+2025,23,trip_purpose,social,17.5,1370.0
+2025,23,trip_purpose,other errands,20.5,1370.0
+2025,23,trip_purpose,not from home,8.2,1370.0
+2025,28 & 29,low_income,yes,74.6,1230.0
+2025,23,vehicles,0,57.6,1370.0
+2025,23,vehicles,1,35.4,1370.0
+2025,23,vehicles,2,6.0,1370.0
+2025,23,vehicles,3+,0.9,1370.0
+2025,32,trip_purpose,work,38.3,980.0
+2025,32,trip_purpose,school,15.8,980.0
+2025,32,trip_purpose,social,16.1,980.0
+2025,32,trip_purpose,other errands,19.6,980.0
+2025,32,trip_purpose,not from home,10.2,980.0
+2025,34 & 34E,low_income,yes,83.7,762.0
+2025,34 & 34E,low_income,no,16.3,762.0
+2025,28 & 29,trip_purpose,work,41.3,1230.0
+2025,28 & 29,trip_purpose,school,12.6,1230.0
+2025,32,vehicles,0,45.6,980.0
+2025,32,vehicles,1,42.2,980.0
+2025,32,vehicles,2,8.6,980.0
+2025,32,vehicles,3+,3.6,980.0
+2025,34 & 34E,minority,yes,72.5,762.0
+2025,34 & 34E,minority,no,27.5,762.0
+2025,34 & 34E,trip_purpose,work,44.6,762.0
+2025,34 & 34E,trip_purpose,school,7.4,762.0
+2025,34 & 34E,trip_purpose,social,9.8,762.0
+2025,34 & 34E,trip_purpose,other errands,14.6,762.0
+2025,34 & 34E,trip_purpose,not from home,23.6,762.0
+2025,34 & 34E,vehicles,0,44.1,762.0
+2025,34 & 34E,vehicles,1,41.2,762.0
+2025,39,trip_purpose,work,45.4,1360.0
+2025,39,trip_purpose,school,10.6,1360.0
+2025,39,trip_purpose,social,14.5,1360.0
+2025,39,trip_purpose,other errands,14.7,1360.0
+2025,39,trip_purpose,not from home,14.7,1360.0
+2025,39,vehicles,0,46.3,1360.0
+2025,39,vehicles,1,40.8,1360.0
+2025,39,vehicles,2,12.2,1360.0
+2025,39,vehicles,3+,0.7,1360.0
+2025,39,low_income,yes,72.2,1360.0
+2025,39,low_income,no,27.8,1360.0
+2025,43 & SL5,minority,yes,69.1,924.0
+2025,43 & SL5,minority,no,30.9,924.0
+2025,43 & SL5,trip_purpose,work,50.4,924.0
+2025,43 & SL5,trip_purpose,school,6.6,924.0
+2025,43 & SL5,trip_purpose,social,13.0,924.0
+2025,43 & SL5,trip_purpose,other errands,23.1,924.0
+2025,43 & SL5,trip_purpose,not from home,6.9,924.0
+2025,43 & SL5,vehicles,0,49.7,924.0
+2025,43 & SL5,vehicles,1,45.0,924.0
+2025,43 & SL5,vehicles,2,4.8,924.0
+2025,43 & SL5,vehicles,3+,0.5,924.0
+2025,43 & SL5,low_income,yes,81.0,924.0
+2025,43 & SL5,low_income,no,19.0,924.0
+2025,47,minority,yes,64.6,1258.0
+2025,47,minority,no,35.4,1258.0
+2025,39,minority,yes,60.8,1360.0
+2025,39,minority,no,39.2,1360.0
+2025,47,low_income,yes,76.7,1258.0
+2025,47,low_income,no,23.3,1258.0
+2025,47,trip_purpose,work,57.4,1258.0
+2025,47,trip_purpose,school,10.2,1258.0
+2025,47,trip_purpose,social,8.7,1258.0
+2025,47,trip_purpose,other errands,15.0,1258.0
+2025,47,trip_purpose,not from home,8.6,1258.0
+2025,34 & 34E,vehicles,2,11.9,762.0
+2025,34 & 34E,vehicles,3+,2.7,762.0
+2025,61 & 70,trip_purpose,other errands,17.7,1065.0
+2025,61 & 70,low_income,yes,79.7,1065.0
+2025,61 & 70,trip_purpose,not from home,9.0,1065.0
+2025,61 & 70,low_income,no,20.3,1065.0
+2025,61 & 70,vehicles,0,47.0,1065.0
+2025,61 & 70,vehicles,1,44.6,1065.0
+2025,61 & 70,vehicles,2,7.0,1065.0
+2025,61 & 70,vehicles,3+,1.4,1065.0
+2025,61 & 70,minority,yes,66.2,1065.0
+2025,61 & 70,minority,no,33.8,1065.0
+2025,61 & 70,trip_purpose,work,53.9,1065.0
+2025,61 & 70,trip_purpose,school,4.9,1065.0
+2025,61 & 70,trip_purpose,social,14.5,1065.0
+2025,47,vehicles,0,50.6,1258.0
+2025,47,vehicles,1,39.9,1258.0
+2025,47,vehicles,2,6.5,1258.0
+2025,47,vehicles,3+,3.0,1258.0
+2025,4 & 7,trip_purpose,work,47.6,574.0
+2025,4 & 7,trip_purpose,school,2.4,574.0
+2025,4 & 7,trip_purpose,social,11.5,574.0
+2025,4 & 7,trip_purpose,other errands,22.9,574.0
+2025,4 & 7,trip_purpose,not from home,15.6,574.0
+2025,57,minority,yes,52.7,895.0
+2025,57,minority,no,47.3,895.0
+2025,4 & 7,low_income,yes,48.0,574.0
+2025,4 & 7,low_income,no,52.0,574.0
+2025,4 & 7,vehicles,0,42.6,574.0
+2025,4 & 7,vehicles,1,40.6,574.0
+2025,4 & 7,vehicles,2,13.6,574.0
+2025,4 & 7,vehicles,3+,3.2,574.0
+2025,57,trip_purpose,work,49.5,895.0
+2025,57,trip_purpose,school,14.5,895.0
+2025,57,trip_purpose,social,16.0,895.0
+2025,57,trip_purpose,other errands,12.5,895.0
+2025,57,low_income,yes,72.2,895.0
+2025,57,trip_purpose,not from home,7.6,895.0
+2025,57,low_income,no,27.8,895.0
+2025,57,vehicles,0,43.4,895.0
+2025,57,vehicles,1,41.6,895.0
+2025,57,vehicles,2,13.4,895.0
+2025,57,vehicles,3+,1.6,895.0
+2025,4 & 7,minority,yes,44.0,574.0
+2025,4 & 7,minority,no,56.0,574.0
+2025,71,trip_purpose,not from home,21.5,416.0
+2025,71,vehicles,0,45.0,416.0
+2025,71,vehicles,1,45.8,416.0
+2025,71,vehicles,2,7.4,416.0
+2025,71,vehicles,3+,1.7,416.0
+2025,71,low_income,yes,76.6,416.0
+2025,66,minority,yes,62.9,1353.0
+2025,66,minority,no,37.1,1353.0
+2025,71,low_income,no,23.4,416.0
+2025,66,trip_purpose,work,47.6,1353.0
+2025,66,trip_purpose,school,15.2,1353.0
+2025,66,trip_purpose,social,12.0,1353.0
+2025,66,trip_purpose,other errands,15.8,1353.0
+2025,66,trip_purpose,not from home,9.4,1353.0
+2025,66,vehicles,0,50.0,1353.0
+2025,66,vehicles,1,38.4,1353.0
+2025,66,vehicles,2,10.5,1353.0
+2025,66,vehicles,3+,1.0,1353.0
+2025,67 & 77,minority,yes,50.8,742.0
+2025,73,low_income,yes,71.5,442.0
+2025,67 & 77,minority,no,49.2,742.0
+2025,73,low_income,no,28.5,442.0
+2025,66,low_income,yes,79.1,1353.0
+2025,66,low_income,no,20.9,1353.0
+2025,67 & 77,trip_purpose,work,32.9,742.0
+2025,67 & 77,trip_purpose,school,5.3,742.0
+2025,67 & 77,trip_purpose,social,18.0,742.0
+2025,67 & 77,trip_purpose,other errands,22.5,742.0
+2025,67 & 77,trip_purpose,not from home,21.3,742.0
+2025,71,minority,yes,57.8,416.0
+2025,71,minority,no,42.2,416.0
+2025,67 & 77,low_income,yes,69.3,742.0
+2025,67 & 77,low_income,no,30.7,742.0
+2025,67 & 77,vehicles,0,39.0,742.0
+2025,67 & 77,vehicles,1,47.3,742.0
+2025,67 & 77,vehicles,2,10.1,742.0
+2025,67 & 77,vehicles,3+,3.6,742.0
+2025,71,trip_purpose,work,49.3,416.0
+2025,71,trip_purpose,school,3.5,416.0
+2025,71,trip_purpose,social,13.5,416.0
+2025,71,trip_purpose,other errands,12.3,416.0
+2025,"8, 55 & CT3",low_income,yes,60.4,1046.0
+2025,"8, 55 & CT3",low_income,no,39.6,1046.0
+2025,86,trip_purpose,school,8.1,816.0
+2025,86,trip_purpose,social,22.8,816.0
+2025,9,low_income,yes,66.6,846.0
+2025,9,low_income,no,33.4,846.0
+2025,73,minority,yes,52.5,442.0
+2025,86,trip_purpose,other errands,11.4,816.0
+2025,73,minority,no,47.5,442.0
+2025,86,low_income,yes,73.1,816.0
+2025,86,trip_purpose,not from home,7.5,816.0
+2025,86,low_income,no,26.9,816.0
+2025,9,minority,yes,44.3,846.0
+2025,9,minority,no,55.7,846.0
+2025,"8, 55 & CT3",minority,yes,61.5,1046.0
+2025,"8, 55 & CT3",minority,no,38.5,1046.0
+2025,"8, 55 & CT3",trip_purpose,work,55.6,1046.0
+2025,"8, 55 & CT3",trip_purpose,school,8.8,1046.0
+2025,"8, 55 & CT3",trip_purpose,social,5.8,1046.0
+2025,"8, 55 & CT3",trip_purpose,other errands,18.7,1046.0
+2025,"8, 55 & CT3",trip_purpose,not from home,11.1,1046.0
+2025,"8, 55 & CT3",vehicles,0,40.1,1046.0
+2025,"8, 55 & CT3",vehicles,1,47.1,1046.0
+2025,"8, 55 & CT3",vehicles,2,10.5,1046.0
+2025,"8, 55 & CT3",vehicles,3+,2.3,1046.0
+2025,86,vehicles,0,41.6,816.0
+2025,86,vehicles,1,46.0,816.0
+2025,73,trip_purpose,work,50.1,442.0
+2025,86,vehicles,2,9.1,816.0
+2025,73,trip_purpose,school,9.3,442.0
+2025,86,vehicles,3+,3.2,816.0
+2025,73,trip_purpose,social,11.9,442.0
+2025,73,trip_purpose,other errands,19.5,442.0
+2025,73,trip_purpose,not from home,9.2,442.0
+2025,9,trip_purpose,work,50.3,846.0
+2025,9,trip_purpose,school,9.0,846.0
+2025,9,trip_purpose,social,18.7,846.0
+2025,9,trip_purpose,other errands,10.7,846.0
+2025,9,trip_purpose,not from home,11.3,846.0
+2025,9,vehicles,0,46.2,846.0
+2025,9,vehicles,1,38.5,846.0
+2025,9,vehicles,2,13.3,846.0
+2025,9,vehicles,3+,2.0,846.0
+2025,73,vehicles,0,42.1,442.0
+2025,73,vehicles,1,36.3,442.0
+2025,73,vehicles,2,19.0,442.0
+2025,73,vehicles,3+,2.5,442.0
+2025,86,minority,yes,59.6,816.0
+2025,86,minority,no,40.4,816.0
+2025,86,trip_purpose,work,50.1,816.0
+2025,Cambridge/Arlington - Alewife,low_income,yes,73.4,705.0
+2025,Cambridge/Arlington - Alewife,low_income,no,26.6,705.0
+2025,Brighton/Allston/Watertown - Boston,vehicles,1,42.9,978.0
+2025,Brighton/Allston/Watertown - Other Suburb,trip_purpose,work,51.5,520.0
+2025,Brighton/Allston/Watertown - Boston,vehicles,2,13.0,978.0
+2025,Brighton/Allston/Watertown - Other Suburb,trip_purpose,school,3.5,520.0
+2025,Brighton/Allston/Watertown - Boston,vehicles,3+,1.6,978.0
+2025,Cambridge/Arlington - Alewife,minority,yes,57.6,705.0
+2025,Cambridge/Arlington - Alewife,minority,no,42.4,705.0
+2025,Cambridge/Arlington - Alewife,trip_purpose,work,50.6,705.0
+2025,Cambridge/Arlington - Alewife,trip_purpose,school,5.2,705.0
+2025,Cambridge/Arlington - Alewife,trip_purpose,social,17.1,705.0
+2025,Cambridge/Arlington - Alewife,trip_purpose,other errands,20.1,705.0
+2025,Cambridge/Arlington - Alewife,trip_purpose,not from home,7.0,705.0
+2025,Cambridge/Arlington - Alewife,vehicles,0,37.7,705.0
+2025,Cambridge/Arlington - Alewife,vehicles,1,44.2,705.0
+2025,Cambridge/Arlington - Alewife,vehicles,2,15.2,705.0
+2025,Cambridge/Arlington - Alewife,vehicles,3+,2.9,705.0
+2025,Brighton/Allston/Watertown - Other Suburb,trip_purpose,social,16.5,520.0
+2025,Brighton/Allston/Watertown - Other Suburb,trip_purpose,other errands,19.1,520.0
+2025,Brighton/Allston/Watertown - Other Suburb,trip_purpose,not from home,9.3,520.0
+2025,Brighton/Allston/Watertown - Other Suburb,low_income,yes,67.4,520.0
+2025,Brighton/Allston/Watertown - Other Suburb,low_income,no,32.6,520.0
+2025,Brighton/Allston/Watertown - Other Suburb,vehicles,0,47.1,520.0
+2025,Brighton/Allston/Watertown - Other Suburb,vehicles,1,35.8,520.0
+2025,Brighton/Allston/Watertown - Other Suburb,vehicles,2,15.0,520.0
+2025,Brighton/Allston/Watertown - Other Suburb,vehicles,3+,2.1,520.0
+2025,Brighton/Allston/Watertown - Boston,minority,yes,56.5,978.0
+2025,Brighton/Allston/Watertown - Boston,low_income,yes,56.1,978.0
+2025,Brighton/Allston/Watertown - Boston,low_income,no,43.9,978.0
+2025,Brighton/Allston/Watertown - Boston,minority,no,43.5,978.0
+2025,Brighton/Allston/Watertown - Boston,trip_purpose,work,52.3,978.0
+2025,Brighton/Allston/Watertown - Boston,trip_purpose,school,7.4,978.0
+2025,Brighton/Allston/Watertown - Boston,trip_purpose,social,5.2,978.0
+2025,Brighton/Allston/Watertown - Boston,trip_purpose,other errands,17.3,978.0
+2025,Brighton/Allston/Watertown - Boston,trip_purpose,not from home,17.8,978.0
+2025,Brighton/Allston/Watertown - Other Suburb,minority,yes,55.8,520.0
+2025,Brighton/Allston/Watertown - Other Suburb,minority,no,44.2,520.0
+2025,Cambridge/Arlington - Harvard,low_income,yes,62.6,834.0
+2025,Brighton/Allston/Watertown - Boston,vehicles,0,42.6,978.0
+2025,Cambridge/Arlington - Harvard,low_income,no,37.4,834.0
+2025,Jamaica Plain/Roslindale/Hyde Park,low_income,yes,84.1,1140.0
+2025,Jamaica Plain/Roslindale/Hyde Park,low_income,no,15.9,1140.0
+2025,Chelsea/East Boston/Lynn/Revere - North Shore,low_income,yes,76.4,1478.0
+2025,Chelsea/East Boston/Lynn/Revere - North Shore,low_income,no,23.6,1478.0
+2025,Chelsea/East Boston/Lynn/Revere - North Shore,minority,yes,62.5,1478.0
+2025,Chelsea/East Boston/Lynn/Revere - North Shore,minority,no,37.5,1478.0
+2025,Chelsea/East Boston/Lynn/Revere - North Shore,trip_purpose,work,53.1,1478.0
+2025,Chelsea/East Boston/Lynn/Revere - North Shore,trip_purpose,school,6.3,1478.0
+2025,Chelsea/East Boston/Lynn/Revere - North Shore,trip_purpose,social,15.0,1478.0
+2025,Chelsea/East Boston/Lynn/Revere - North Shore,trip_purpose,other errands,17.7,1478.0
+2025,Chelsea/East Boston/Lynn/Revere - North Shore,trip_purpose,not from home,7.9,1478.0
+2025,Chelsea/East Boston/Lynn/Revere - North Shore,vehicles,0,47.0,1478.0
+2025,Chelsea/East Boston/Lynn/Revere - North Shore,vehicles,1,42.5,1478.0
+2025,Chelsea/East Boston/Lynn/Revere - North Shore,vehicles,2,9.4,1478.0
+2025,Chelsea/East Boston/Lynn/Revere - North Shore,vehicles,3+,1.1,1478.0
+2025,Chelsea/East Boston/Lynn/Revere - Core,low_income,yes,83.6,1098.0
+2025,Cambridge/Arlington - Harvard,minority,yes,56.0,834.0
+2025,Cambridge/Arlington - Harvard,minority,no,44.0,834.0
+2025,Cambridge/Arlington - Harvard,trip_purpose,work,44.7,834.0
+2025,Cambridge/Arlington - Harvard,trip_purpose,school,10.0,834.0
+2025,Cambridge/Arlington - Harvard,trip_purpose,social,8.0,834.0
+2025,Cambridge/Arlington - Harvard,trip_purpose,other errands,22.8,834.0
+2025,Cambridge/Arlington - Harvard,trip_purpose,not from home,14.5,834.0
+2025,Cambridge/Arlington - Harvard,vehicles,0,53.6,834.0
+2025,Cambridge/Arlington - Harvard,vehicles,1,33.5,834.0
+2025,Cambridge/Arlington - Harvard,vehicles,2,8.7,834.0
+2025,Cambridge/Arlington - Harvard,vehicles,3+,4.2,834.0
+2025,Chelsea/East Boston/Lynn/Revere - Core,low_income,no,16.4,1098.0
+2025,Chelsea/East Boston/Lynn/Revere - Core,trip_purpose,work,44.8,1098.0
+2025,Chelsea/East Boston/Lynn/Revere - Core,trip_purpose,school,6.7,1098.0
+2025,Chelsea/East Boston/Lynn/Revere - Core,trip_purpose,social,13.0,1098.0
+2025,Chelsea/East Boston/Lynn/Revere - Core,trip_purpose,other errands,29.1,1098.0
+2025,Chelsea/East Boston/Lynn/Revere - Core,trip_purpose,not from home,6.5,1098.0
+2025,Chelsea/East Boston/Lynn/Revere - Core,vehicles,0,47.5,1098.0
+2025,Chelsea/East Boston/Lynn/Revere - Core,vehicles,1,44.4,1098.0
+2025,Chelsea/East Boston/Lynn/Revere - Core,vehicles,2,6.6,1098.0
+2025,Chelsea/East Boston/Lynn/Revere - Core,vehicles,3+,1.4,1098.0
+2025,Jamaica Plain/Roslindale/Hyde Park,minority,yes,63.6,1140.0
+2025,Jamaica Plain/Roslindale/Hyde Park,minority,no,36.4,1140.0
+2025,Jamaica Plain/Roslindale/Hyde Park,trip_purpose,work,50.6,1140.0
+2025,Jamaica Plain/Roslindale/Hyde Park,trip_purpose,school,8.7,1140.0
+2025,Chelsea/East Boston/Lynn/Revere - Core,minority,yes,68.3,1098.0
+2025,Chelsea/East Boston/Lynn/Revere - Core,minority,no,31.7,1098.0
+2025,Malden/Everett - South,low_income,yes,88.5,1432.0
+2025,Malden/Everett - South,low_income,no,11.5,1432.0
+2025,Jamaica Plain/Roslindale/Hyde Park,trip_purpose,social,11.7,1140.0
+2025,Jamaica Plain/Roslindale/Hyde Park,trip_purpose,other errands,23.6,1140.0
+2025,Malden/Everett - North,minority,yes,69.7,948.0
+2025,Malden/Everett - South,vehicles,0,50.8,1432.0
+2025,Jamaica Plain/Roslindale/Hyde Park,trip_purpose,not from home,5.4,1140.0
+2025,Malden/Everett - North,minority,no,30.3,948.0
+2025,Malden/Everett - South,vehicles,1,43.9,1432.0
+2025,Malden/Everett - South,vehicles,2,4.7,1432.0
+2025,Malden/Everett - South,vehicles,3+,0.6,1432.0
+2025,Quincy - East,trip_purpose,work,46.4,706.0
+2025,Quincy - East,trip_purpose,school,15.0,706.0
+2025,Quincy - East,trip_purpose,social,12.1,706.0
+2025,Quincy - East,low_income,yes,76.2,706.0
+2025,Quincy - East,low_income,no,23.8,706.0
+2025,Quincy - East,trip_purpose,other errands,21.8,706.0
+2025,Jamaica Plain/Roslindale/Hyde Park,vehicles,0,41.1,1140.0
+2025,Quincy - East,trip_purpose,not from home,4.8,706.0
+2025,Jamaica Plain/Roslindale/Hyde Park,vehicles,1,47.1,1140.0
+2025,Jamaica Plain/Roslindale/Hyde Park,vehicles,2,9.6,1140.0
+2025,Malden/Everett - North,trip_purpose,work,46.3,948.0
+2025,Malden/Everett - North,trip_purpose,school,3.8,948.0
+2025,Malden/Everett - North,trip_purpose,social,19.6,948.0
+2025,Malden/Everett - North,trip_purpose,other errands,18.3,948.0
+2025,Malden/Everett - North,trip_purpose,not from home,12.0,948.0
+2025,Malden/Everett - North,vehicles,0,45.6,948.0
+2025,Malden/Everett - North,vehicles,1,45.9,948.0
+2025,Malden/Everett - North,vehicles,2,6.9,948.0
+2025,Malden/Everett - North,vehicles,3+,1.6,948.0
+2025,Jamaica Plain/Roslindale/Hyde Park,vehicles,3+,2.3,1140.0
+2025,Malden/Everett - South,minority,yes,68.6,1432.0
+2025,Malden/Everett - South,minority,no,31.4,1432.0
+2025,Quincy - East,minority,yes,58.4,706.0
+2025,Quincy - East,minority,no,41.6,706.0
+2025,Quincy - East,vehicles,0,41.9,706.0
+2025,Malden/Everett - North,low_income,yes,76.9,948.0
+2025,Quincy - East,vehicles,1,44.9,706.0
+2025,Quincy - East,vehicles,2,11.5,706.0
+2025,Quincy - East,vehicles,3+,1.6,706.0
+2025,Malden/Everett - North,low_income,no,23.1,948.0
+2025,Malden/Everett - South,trip_purpose,work,51.0,1432.0
+2025,Malden/Everett - South,trip_purpose,school,3.2,1432.0
+2025,Malden/Everett - South,trip_purpose,social,17.6,1432.0
+2025,Malden/Everett - South,trip_purpose,other errands,18.6,1432.0
+2025,Malden/Everett - South,trip_purpose,not from home,9.5,1432.0
+2025,Quincy - West,minority,yes,65.1,1154.0
+2025,Quincy - West,minority,no,34.9,1154.0
+2025,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,minority,no,12.8,1789.0
+2025,Quincy - West,trip_purpose,work,43.8,1154.0
+2025,Quincy - West,trip_purpose,school,9.5,1154.0
+2025,Quincy - West,trip_purpose,social,19.4,1154.0
+2025,Quincy - West,trip_purpose,other errands,17.9,1154.0
+2025,Quincy - West,trip_purpose,not from home,9.4,1154.0
+2025,Quincy - West,vehicles,0,46.3,1154.0
+2025,Quincy - West,vehicles,1,43.2,1154.0
+2025,Quincy - West,vehicles,2,9.7,1154.0
+2025,Quincy - West,vehicles,3+,0.8,1154.0
+2025,Roxbury/Dorchester/Mattapan/South End - East,vehicles,0,48.1,1072.0
+2025,Roxbury/Dorchester/Mattapan/South End - East,vehicles,1,39.0,1072.0
+2025,Roxbury/Dorchester/Mattapan/South End - East,vehicles,2,11.3,1072.0
+2025,Roxbury/Dorchester/Mattapan/South End - East,vehicles,3+,1.6,1072.0
+2025,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,trip_purpose,work,48.6,1789.0
+2025,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,trip_purpose,school,12.5,1789.0
+2025,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,trip_purpose,social,9.7,1789.0
+2025,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,trip_purpose,other errands,21.5,1789.0
+2025,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,low_income,yes,82.1,1789.0
+2025,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,trip_purpose,not from home,7.7,1789.0
+2025,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,low_income,no,17.9,1789.0
+2025,Roxbury/Dorchester/Mattapan/South End - East,low_income,yes,79.4,1072.0
+2025,Roxbury/Dorchester/Mattapan/South End - East,low_income,no,20.6,1072.0
+2025,Roxbury/Dorchester/Mattapan/South End - West,low_income,yes,84.7,1193.0
+2025,Roxbury/Dorchester/Mattapan/South End - West,low_income,no,15.3,1193.0
+2025,Quincy - West,low_income,yes,85.9,1154.0
+2025,Quincy - West,low_income,no,14.1,1154.0
+2025,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,vehicles,0,52.8,1789.0
+2025,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,vehicles,1,35.9,1789.0
+2025,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,vehicles,2,9.5,1789.0
+2025,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,vehicles,3+,1.9,1789.0
+2025,Roxbury/Dorchester/Mattapan/South End - East,minority,yes,77.3,1072.0
+2025,Roxbury/Dorchester/Mattapan/South End - East,minority,no,22.7,1072.0
+2025,Roxbury/Dorchester/Mattapan/South End - East,trip_purpose,work,40.9,1072.0
+2025,Roxbury/Dorchester/Mattapan/South End - East,trip_purpose,school,9.3,1072.0
+2025,Roxbury/Dorchester/Mattapan/South End - East,trip_purpose,social,14.2,1072.0
+2025,Roxbury/Dorchester/Mattapan/South End - East,trip_purpose,other errands,22.6,1072.0
+2025,Roxbury/Dorchester/Mattapan/South End - East,trip_purpose,not from home,13.0,1072.0
+2025,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,minority,yes,87.2,1789.0
+2025,SL4,trip_purpose,work,59.7,863.0
+2025,SL4,trip_purpose,school,6.6,863.0
+2025,SL4,trip_purpose,social,6.1,863.0
+2025,SL4,low_income,yes,68.5,863.0
+2025,SL4,low_income,no,31.5,863.0
+2025,SL4,trip_purpose,other errands,15.1,863.0
+2025,SL4,trip_purpose,not from home,12.5,863.0
+2025,Somerville/Medford/Charlestown - East,minority,yes,62.4,1022.0
+2025,Somerville/Medford/Charlestown - East,minority,no,37.6,1022.0
+2025,Somerville/Medford/Charlestown - East,trip_purpose,work,45.3,1022.0
+2025,Somerville/Medford/Charlestown - East,trip_purpose,school,4.9,1022.0
+2025,Somerville/Medford/Charlestown - East,trip_purpose,social,19.8,1022.0
+2025,Somerville/Medford/Charlestown - East,trip_purpose,other errands,19.0,1022.0
+2025,Somerville/Medford/Charlestown - East,trip_purpose,not from home,10.9,1022.0
+2025,Somerville/Medford/Charlestown - East,vehicles,0,42.9,1022.0
+2025,Somerville/Medford/Charlestown - East,vehicles,1,47.2,1022.0
+2025,Somerville/Medford/Charlestown - East,vehicles,2,8.7,1022.0
+2025,Somerville/Medford/Charlestown - East,vehicles,3+,1.2,1022.0
+2025,SL4,vehicles,0,46.9,863.0
+2025,Somerville/Medford/Charlestown - West,minority,yes,56.9,1964.0
+2025,Somerville/Medford/Charlestown - West,minority,no,43.1,1964.0
+2025,Somerville/Medford/Charlestown - West,trip_purpose,work,53.1,1964.0
+2025,Somerville/Medford/Charlestown - West,trip_purpose,school,5.4,1964.0
+2025,Somerville/Medford/Charlestown - West,trip_purpose,social,12.5,1964.0
+2025,Somerville/Medford/Charlestown - West,trip_purpose,other errands,18.3,1964.0
+2025,Somerville/Medford/Charlestown - West,trip_purpose,not from home,10.8,1964.0
+2025,SL4,vehicles,1,46.1,863.0
+2025,SL4,vehicles,2,6.8,863.0
+2025,SL4,vehicles,3+,0.3,863.0
+2025,Somerville/Medford/Charlestown - West,low_income,yes,77.8,1964.0
+2025,Somerville/Medford/Charlestown - West,low_income,no,22.2,1964.0
+2025,Roxbury/Dorchester/Mattapan/South End - West,minority,yes,82.0,1193.0
+2025,Roxbury/Dorchester/Mattapan/South End - West,minority,no,18.0,1193.0
+2025,Somerville/Medford/Charlestown - East,low_income,yes,78.5,1022.0
+2025,Somerville/Medford/Charlestown - East,low_income,no,21.5,1022.0
+2025,SL4,minority,yes,66.2,863.0
+2025,SL4,minority,no,33.8,863.0
+2025,Roxbury/Dorchester/Mattapan/South End - West,trip_purpose,work,45.4,1193.0
+2025,Roxbury/Dorchester/Mattapan/South End - West,trip_purpose,school,13.9,1193.0
+2025,Roxbury/Dorchester/Mattapan/South End - West,trip_purpose,social,14.5,1193.0
+2025,Roxbury/Dorchester/Mattapan/South End - West,trip_purpose,other errands,11.7,1193.0
+2025,Roxbury/Dorchester/Mattapan/South End - West,trip_purpose,not from home,14.6,1193.0
+2025,Roxbury/Dorchester/Mattapan/South End - West,vehicles,0,51.6,1193.0
+2025,Roxbury/Dorchester/Mattapan/South End - West,vehicles,1,34.2,1193.0
+2025,Roxbury/Dorchester/Mattapan/South End - West,vehicles,2,12.6,1193.0
+2025,Roxbury/Dorchester/Mattapan/South End - West,vehicles,3+,1.7,1193.0
+2025,Somerville/Medford/Charlestown - West,vehicles,0,47.5,1964.0
+2025,Somerville/Medford/Charlestown - West,vehicles,1,41.6,1964.0
+2025,Somerville/Medford/Charlestown - West,vehicles,2,8.6,1964.0
+2025,Somerville/Medford/Charlestown - West,vehicles,3+,2.2,1964.0
+2025,All Bus,minority,no,30.6,44019.0
+2025,All Bus,minority,yes,69.4,44019.0
+2025,All Bus,vehicles,0,48.6,44019.0
+2025,All Bus,vehicles,1,41.0,44019.0
+2025,All Bus,vehicles,2,8.8,44019.0
+2025,All Bus,vehicles,3+,1.6,44019.0
+2025,All Bus,low_income,yes,77.6,44019.0
+2025,All Bus,low_income,no,22.4,44019.0
+2025,All Bus,trip_purpose,work,47.3,44019.0
+2025,All Bus,trip_purpose,school,9.0,44019.0
+2025,All Bus,trip_purpose,social,13.8,44019.0
+2025,All Bus,trip_purpose,other errands,18.9,44019.0
+2025,All Bus,trip_purpose,not from home,11.0,44019.0
