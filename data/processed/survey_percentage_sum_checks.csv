@@ -1,0 +1,727 @@
+survey_period,route,characteristic,percent_sum,check_status
+2015-2017,1,Household income,1.0,pass
+2015-2017,1,Low-income status,1.0,pass
+2015-2017,1,Hispanic or Latine ethnicity,0.9999999999999999,pass
+2015-2017,1,Usable household vehicles,1.0,pass
+2015-2017,1,Vehicles per capita,1.0,pass
+2015-2017,1,Trip frequency,0.9999999999999999,pass
+2015-2017,1,Trip purpose,1.0,pass
+2015-2017,1,Access to first MBTA service,1.0,pass
+2015-2017,1,Age,0.9999999999999999,pass
+2015-2017,1,Gender,1.0,pass
+2015-2017,1,Fare product,1.0,pass
+2015-2017,1,Alternative mode use,1.0,pass
+2015-2017,1,English comprehension,1.0,pass
+2015-2017,1,Valid driver's license,1.0,pass
+2015-2017,1,Previous transit mode,1.0000000000000002,pass
+2015-2017,1,Monthly pass type,1.0,pass
+2015-2017,1,Pay-per-ride type,1.0,pass
+2015-2017,1,Title VI minority status,1.0,pass
+2015-2017,104,Household income,1.0,pass
+2015-2017,104,Low-income status,1.0,pass
+2015-2017,104,Hispanic or Latine ethnicity,0.9999999999999999,pass
+2015-2017,104,Usable household vehicles,1.0,pass
+2015-2017,104,Vehicles per capita,1.0,pass
+2015-2017,104,Trip frequency,1.0,pass
+2015-2017,104,Trip purpose,1.0,pass
+2015-2017,104,Access to first MBTA service,1.0,pass
+2015-2017,104,Age,1.0,pass
+2015-2017,104,Gender,1.0,pass
+2015-2017,104,Fare product,1.0,pass
+2015-2017,104,Alternative mode use,1.0,pass
+2015-2017,104,English comprehension,0.9999999999999999,pass
+2015-2017,104,Valid driver's license,1.0,pass
+2015-2017,104,Previous transit mode,1.0,pass
+2015-2017,104,Monthly pass type,1.0,pass
+2015-2017,104,Pay-per-ride type,1.0,pass
+2015-2017,104,Title VI minority status,1.0,pass
+2015-2017,11,Household income,1.0,pass
+2015-2017,11,Low-income status,1.0,pass
+2015-2017,11,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,11,Usable household vehicles,1.0000000000000002,pass
+2015-2017,11,Vehicles per capita,1.0,pass
+2015-2017,11,Trip frequency,0.9999999999999999,pass
+2015-2017,11,Trip purpose,1.0,pass
+2015-2017,11,Access to first MBTA service,0.9999999999999999,pass
+2015-2017,11,Age,1.0,pass
+2015-2017,11,Gender,1.0,pass
+2015-2017,11,Fare product,1.0,pass
+2015-2017,11,Alternative mode use,1.0,pass
+2015-2017,11,English comprehension,1.0,pass
+2015-2017,11,Valid driver's license,1.0,pass
+2015-2017,11,Previous transit mode,1.0,pass
+2015-2017,11,Monthly pass type,1.0,pass
+2015-2017,11,Pay-per-ride type,1.0,pass
+2015-2017,11,Title VI minority status,1.0,pass
+2015-2017,111,Household income,1.0,pass
+2015-2017,111,Low-income status,1.0,pass
+2015-2017,111,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,111,Usable household vehicles,1.0000000000000002,pass
+2015-2017,111,Vehicles per capita,1.0,pass
+2015-2017,111,Trip frequency,1.0,pass
+2015-2017,111,Trip purpose,1.0,pass
+2015-2017,111,Access to first MBTA service,1.0,pass
+2015-2017,111,Age,1.0,pass
+2015-2017,111,Gender,0.9999999999999999,pass
+2015-2017,111,Fare product,1.0,pass
+2015-2017,111,Alternative mode use,1.0,pass
+2015-2017,111,English comprehension,1.0,pass
+2015-2017,111,Valid driver's license,1.0,pass
+2015-2017,111,Previous transit mode,1.0,pass
+2015-2017,111,Monthly pass type,1.0,pass
+2015-2017,111,Pay-per-ride type,1.0,pass
+2015-2017,111,Title VI minority status,1.0,pass
+2015-2017,114 & 116 & 117,Household income,1.0,pass
+2015-2017,114 & 116 & 117,Low-income status,1.0,pass
+2015-2017,114 & 116 & 117,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,114 & 116 & 117,Usable household vehicles,0.9999999999999999,pass
+2015-2017,114 & 116 & 117,Vehicles per capita,1.0,pass
+2015-2017,114 & 116 & 117,Trip frequency,1.0,pass
+2015-2017,114 & 116 & 117,Trip purpose,0.9999999999999999,pass
+2015-2017,114 & 116 & 117,Access to first MBTA service,1.0,pass
+2015-2017,114 & 116 & 117,Age,1.0,pass
+2015-2017,114 & 116 & 117,Gender,1.0,pass
+2015-2017,114 & 116 & 117,Fare product,1.0,pass
+2015-2017,114 & 116 & 117,Alternative mode use,1.0,pass
+2015-2017,114 & 116 & 117,English comprehension,1.0,pass
+2015-2017,114 & 116 & 117,Valid driver's license,1.0,pass
+2015-2017,114 & 116 & 117,Previous transit mode,1.0,pass
+2015-2017,114 & 116 & 117,Monthly pass type,0.9999999999999999,pass
+2015-2017,114 & 116 & 117,Pay-per-ride type,1.0,pass
+2015-2017,114 & 116 & 117,Title VI minority status,1.0,pass
+2015-2017,15,Household income,1.0,pass
+2015-2017,15,Low-income status,1.0,pass
+2015-2017,15,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,15,Usable household vehicles,1.0,pass
+2015-2017,15,Vehicles per capita,1.0,pass
+2015-2017,15,Trip frequency,0.9999999999999999,pass
+2015-2017,15,Trip purpose,1.0,pass
+2015-2017,15,Access to first MBTA service,1.0,pass
+2015-2017,15,Age,1.0,pass
+2015-2017,15,Gender,0.9999999999999999,pass
+2015-2017,15,Fare product,1.0,pass
+2015-2017,15,Alternative mode use,1.0,pass
+2015-2017,15,English comprehension,1.0,pass
+2015-2017,15,Valid driver's license,1.0,pass
+2015-2017,15,Previous transit mode,1.0,pass
+2015-2017,15,Monthly pass type,1.0,pass
+2015-2017,15,Pay-per-ride type,1.0,pass
+2015-2017,15,Title VI minority status,1.0,pass
+2015-2017,16,Household income,0.9999999999999999,pass
+2015-2017,16,Low-income status,1.0,pass
+2015-2017,16,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,16,Usable household vehicles,1.0,pass
+2015-2017,16,Vehicles per capita,1.0,pass
+2015-2017,16,Trip frequency,1.0,pass
+2015-2017,16,Trip purpose,1.0000000000000002,pass
+2015-2017,16,Access to first MBTA service,1.0,pass
+2015-2017,16,Age,1.0,pass
+2015-2017,16,Gender,1.0,pass
+2015-2017,16,Fare product,1.0,pass
+2015-2017,16,Alternative mode use,1.0,pass
+2015-2017,16,English comprehension,1.0,pass
+2015-2017,16,Valid driver's license,1.0,pass
+2015-2017,16,Previous transit mode,1.0,pass
+2015-2017,16,Monthly pass type,1.0,pass
+2015-2017,16,Pay-per-ride type,1.0,pass
+2015-2017,16,Title VI minority status,1.0,pass
+2015-2017,21,Household income,1.0,pass
+2015-2017,21,Low-income status,1.0,pass
+2015-2017,21,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,21,Usable household vehicles,1.0,pass
+2015-2017,21,Vehicles per capita,1.0,pass
+2015-2017,21,Trip frequency,1.0,pass
+2015-2017,21,Trip purpose,1.0,pass
+2015-2017,21,Access to first MBTA service,1.0,pass
+2015-2017,21,Age,1.0,pass
+2015-2017,21,Gender,1.0,pass
+2015-2017,21,Fare product,1.0,pass
+2015-2017,21,Alternative mode use,1.0,pass
+2015-2017,21,English comprehension,0.9999999999999999,pass
+2015-2017,21,Valid driver's license,1.0,pass
+2015-2017,21,Previous transit mode,1.0,pass
+2015-2017,21,Monthly pass type,1.0,pass
+2015-2017,21,Pay-per-ride type,1.0,pass
+2015-2017,21,Title VI minority status,1.0,pass
+2015-2017,23,Household income,1.0,pass
+2015-2017,23,Low-income status,1.0,pass
+2015-2017,23,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,23,Usable household vehicles,0.9999999999999999,pass
+2015-2017,23,Vehicles per capita,1.0,pass
+2015-2017,23,Trip frequency,1.0,pass
+2015-2017,23,Trip purpose,0.9999999999999998,pass
+2015-2017,23,Access to first MBTA service,1.0,pass
+2015-2017,23,Age,1.0,pass
+2015-2017,23,Gender,1.0,pass
+2015-2017,23,Fare product,0.9999999999999999,pass
+2015-2017,23,Alternative mode use,1.0,pass
+2015-2017,23,English comprehension,1.0,pass
+2015-2017,23,Valid driver's license,1.0,pass
+2015-2017,23,Previous transit mode,1.0,pass
+2015-2017,23,Monthly pass type,1.0,pass
+2015-2017,23,Pay-per-ride type,1.0,pass
+2015-2017,23,Title VI minority status,1.0,pass
+2015-2017,32,Household income,0.9999999999999999,pass
+2015-2017,32,Low-income status,1.0,pass
+2015-2017,32,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,32,Usable household vehicles,1.0,pass
+2015-2017,32,Vehicles per capita,1.0,pass
+2015-2017,32,Trip frequency,1.0,pass
+2015-2017,32,Trip purpose,1.0,pass
+2015-2017,32,Access to first MBTA service,0.9999999999999999,pass
+2015-2017,32,Age,1.0,pass
+2015-2017,32,Gender,1.0,pass
+2015-2017,32,Fare product,1.0,pass
+2015-2017,32,Alternative mode use,1.0,pass
+2015-2017,32,English comprehension,1.0,pass
+2015-2017,32,Valid driver's license,1.0,pass
+2015-2017,32,Previous transit mode,1.0,pass
+2015-2017,32,Monthly pass type,1.0,pass
+2015-2017,32,Pay-per-ride type,1.0,pass
+2015-2017,32,Title VI minority status,1.0,pass
+2015-2017,34 & 34E,Household income,1.0,pass
+2015-2017,34 & 34E,Low-income status,1.0,pass
+2015-2017,34 & 34E,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,34 & 34E,Usable household vehicles,1.0,pass
+2015-2017,34 & 34E,Vehicles per capita,1.0,pass
+2015-2017,34 & 34E,Trip frequency,1.0,pass
+2015-2017,34 & 34E,Trip purpose,1.0,pass
+2015-2017,34 & 34E,Access to first MBTA service,1.0,pass
+2015-2017,34 & 34E,Age,1.0,pass
+2015-2017,34 & 34E,Gender,1.0,pass
+2015-2017,34 & 34E,Fare product,0.9999999999999999,pass
+2015-2017,34 & 34E,Alternative mode use,1.0,pass
+2015-2017,34 & 34E,English comprehension,1.0,pass
+2015-2017,34 & 34E,Valid driver's license,1.0,pass
+2015-2017,34 & 34E,Previous transit mode,1.0,pass
+2015-2017,34 & 34E,Monthly pass type,1.0,pass
+2015-2017,34 & 34E,Pay-per-ride type,1.0,pass
+2015-2017,34 & 34E,Title VI minority status,1.0,pass
+2015-2017,39,Household income,1.0,pass
+2015-2017,39,Low-income status,1.0,pass
+2015-2017,39,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,39,Usable household vehicles,1.0,pass
+2015-2017,39,Vehicles per capita,1.0,pass
+2015-2017,39,Trip frequency,1.0,pass
+2015-2017,39,Trip purpose,0.9999999999999999,pass
+2015-2017,39,Access to first MBTA service,1.0,pass
+2015-2017,39,Age,1.0,pass
+2015-2017,39,Gender,1.0,pass
+2015-2017,39,Fare product,1.0,pass
+2015-2017,39,Alternative mode use,1.0,pass
+2015-2017,39,English comprehension,1.0,pass
+2015-2017,39,Valid driver's license,1.0,pass
+2015-2017,39,Previous transit mode,1.0,pass
+2015-2017,39,Monthly pass type,1.0,pass
+2015-2017,39,Pay-per-ride type,1.0,pass
+2015-2017,39,Title VI minority status,1.0,pass
+2015-2017,4 & 7,Household income,1.0,pass
+2015-2017,4 & 7,Low-income status,1.0,pass
+2015-2017,4 & 7,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,4 & 7,Usable household vehicles,1.0,pass
+2015-2017,4 & 7,Vehicles per capita,1.0,pass
+2015-2017,4 & 7,Trip frequency,0.9999999999999999,pass
+2015-2017,4 & 7,Trip purpose,0.9999999999999999,pass
+2015-2017,4 & 7,Access to first MBTA service,1.0,pass
+2015-2017,4 & 7,Age,1.0,pass
+2015-2017,4 & 7,Gender,0.9999999999999999,pass
+2015-2017,4 & 7,Fare product,1.0,pass
+2015-2017,4 & 7,Alternative mode use,1.0,pass
+2015-2017,4 & 7,English comprehension,1.0,pass
+2015-2017,4 & 7,Valid driver's license,1.0,pass
+2015-2017,4 & 7,Previous transit mode,0.9999999999999999,pass
+2015-2017,4 & 7,Monthly pass type,1.0,pass
+2015-2017,4 & 7,Pay-per-ride type,1.0,pass
+2015-2017,4 & 7,Title VI minority status,1.0,pass
+2015-2017,47,Household income,0.9999999999999999,pass
+2015-2017,47,Low-income status,1.0,pass
+2015-2017,47,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,47,Usable household vehicles,1.0,pass
+2015-2017,47,Vehicles per capita,1.0,pass
+2015-2017,47,Trip frequency,1.0,pass
+2015-2017,47,Trip purpose,0.9999999999999999,pass
+2015-2017,47,Access to first MBTA service,0.9999999999999999,pass
+2015-2017,47,Age,1.0,pass
+2015-2017,47,Gender,1.0,pass
+2015-2017,47,Fare product,1.0,pass
+2015-2017,47,Alternative mode use,1.0,pass
+2015-2017,47,English comprehension,1.0,pass
+2015-2017,47,Valid driver's license,1.0,pass
+2015-2017,47,Previous transit mode,1.0,pass
+2015-2017,47,Monthly pass type,1.0,pass
+2015-2017,47,Pay-per-ride type,1.0,pass
+2015-2017,47,Title VI minority status,1.0,pass
+2015-2017,57,Household income,1.0,pass
+2015-2017,57,Low-income status,1.0,pass
+2015-2017,57,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,57,Usable household vehicles,0.9999999999999999,pass
+2015-2017,57,Vehicles per capita,1.0,pass
+2015-2017,57,Trip frequency,0.9999999999999999,pass
+2015-2017,57,Trip purpose,1.0,pass
+2015-2017,57,Access to first MBTA service,1.0,pass
+2015-2017,57,Age,1.0,pass
+2015-2017,57,Gender,1.0,pass
+2015-2017,57,Fare product,1.0,pass
+2015-2017,57,Alternative mode use,1.0,pass
+2015-2017,57,English comprehension,1.0,pass
+2015-2017,57,Valid driver's license,1.0,pass
+2015-2017,57,Previous transit mode,1.0,pass
+2015-2017,57,Monthly pass type,1.0,pass
+2015-2017,57,Pay-per-ride type,1.0,pass
+2015-2017,57,Title VI minority status,1.0,pass
+2015-2017,66,Household income,1.0,pass
+2015-2017,66,Low-income status,1.0,pass
+2015-2017,66,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,66,Usable household vehicles,0.9999999999999999,pass
+2015-2017,66,Vehicles per capita,1.0,pass
+2015-2017,66,Trip frequency,1.0,pass
+2015-2017,66,Trip purpose,1.0,pass
+2015-2017,66,Access to first MBTA service,1.0,pass
+2015-2017,66,Age,1.0,pass
+2015-2017,66,Gender,1.0000000000000002,pass
+2015-2017,66,Fare product,1.0,pass
+2015-2017,66,Alternative mode use,1.0,pass
+2015-2017,66,English comprehension,0.9999999999999999,pass
+2015-2017,66,Valid driver's license,1.0,pass
+2015-2017,66,Previous transit mode,1.0,pass
+2015-2017,66,Monthly pass type,0.9999999999999999,pass
+2015-2017,66,Pay-per-ride type,1.0,pass
+2015-2017,66,Title VI minority status,1.0,pass
+2015-2017,67 & 77,Household income,1.0,pass
+2015-2017,67 & 77,Low-income status,1.0,pass
+2015-2017,67 & 77,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,67 & 77,Usable household vehicles,0.9999999999999999,pass
+2015-2017,67 & 77,Vehicles per capita,1.0,pass
+2015-2017,67 & 77,Trip frequency,1.0,pass
+2015-2017,67 & 77,Trip purpose,0.9999999999999999,pass
+2015-2017,67 & 77,Access to first MBTA service,0.9999999999999999,pass
+2015-2017,67 & 77,Age,1.0,pass
+2015-2017,67 & 77,Gender,1.0,pass
+2015-2017,67 & 77,Fare product,0.9999999999999999,pass
+2015-2017,67 & 77,Alternative mode use,1.0,pass
+2015-2017,67 & 77,English comprehension,1.0,pass
+2015-2017,67 & 77,Valid driver's license,1.0,pass
+2015-2017,67 & 77,Previous transit mode,1.0,pass
+2015-2017,67 & 77,Monthly pass type,1.0,pass
+2015-2017,67 & 77,Pay-per-ride type,1.0,pass
+2015-2017,67 & 77,Title VI minority status,1.0,pass
+2015-2017,71,Household income,1.0,pass
+2015-2017,71,Low-income status,1.0,pass
+2015-2017,71,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,71,Usable household vehicles,1.0,pass
+2015-2017,71,Vehicles per capita,1.0,pass
+2015-2017,71,Trip frequency,1.0,pass
+2015-2017,71,Trip purpose,1.0000000000000002,pass
+2015-2017,71,Access to first MBTA service,1.0,pass
+2015-2017,71,Age,0.9999999999999999,pass
+2015-2017,71,Gender,1.0,pass
+2015-2017,71,Fare product,1.0,pass
+2015-2017,71,Alternative mode use,1.0,pass
+2015-2017,71,English comprehension,1.0,pass
+2015-2017,71,Valid driver's license,1.0,pass
+2015-2017,71,Previous transit mode,1.0,pass
+2015-2017,71,Monthly pass type,1.0,pass
+2015-2017,71,Pay-per-ride type,1.0,pass
+2015-2017,71,Title VI minority status,1.0,pass
+2015-2017,73,Household income,0.9999999999999999,pass
+2015-2017,73,Low-income status,1.0,pass
+2015-2017,73,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,73,Usable household vehicles,1.0,pass
+2015-2017,73,Vehicles per capita,1.0,pass
+2015-2017,73,Trip frequency,1.0000000000000002,pass
+2015-2017,73,Trip purpose,1.0,pass
+2015-2017,73,Access to first MBTA service,1.0,pass
+2015-2017,73,Age,0.9999999999999999,pass
+2015-2017,73,Gender,1.0,pass
+2015-2017,73,Fare product,1.0,pass
+2015-2017,73,Alternative mode use,1.0,pass
+2015-2017,73,English comprehension,1.0,pass
+2015-2017,73,Valid driver's license,1.0,pass
+2015-2017,73,Previous transit mode,1.0,pass
+2015-2017,73,Monthly pass type,1.0,pass
+2015-2017,73,Pay-per-ride type,1.0,pass
+2015-2017,73,Title VI minority status,1.0,pass
+2015-2017,8 & 55 & CT3,Household income,1.0,pass
+2015-2017,8 & 55 & CT3,Low-income status,1.0,pass
+2015-2017,8 & 55 & CT3,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,8 & 55 & CT3,Usable household vehicles,1.0,pass
+2015-2017,8 & 55 & CT3,Vehicles per capita,1.0,pass
+2015-2017,8 & 55 & CT3,Trip frequency,1.0000000000000002,pass
+2015-2017,8 & 55 & CT3,Trip purpose,1.0,pass
+2015-2017,8 & 55 & CT3,Access to first MBTA service,1.0,pass
+2015-2017,8 & 55 & CT3,Age,1.0,pass
+2015-2017,8 & 55 & CT3,Gender,1.0,pass
+2015-2017,8 & 55 & CT3,Fare product,1.0,pass
+2015-2017,8 & 55 & CT3,Alternative mode use,1.0,pass
+2015-2017,8 & 55 & CT3,English comprehension,1.0,pass
+2015-2017,8 & 55 & CT3,Valid driver's license,1.0,pass
+2015-2017,8 & 55 & CT3,Previous transit mode,1.0,pass
+2015-2017,8 & 55 & CT3,Monthly pass type,1.0,pass
+2015-2017,8 & 55 & CT3,Pay-per-ride type,1.0,pass
+2015-2017,8 & 55 & CT3,Title VI minority status,1.0,pass
+2015-2017,86,Household income,1.0,pass
+2015-2017,86,Low-income status,1.0,pass
+2015-2017,86,Hispanic or Latine ethnicity,0.9999999999999999,pass
+2015-2017,86,Usable household vehicles,1.0,pass
+2015-2017,86,Vehicles per capita,1.0,pass
+2015-2017,86,Trip frequency,1.0000000000000002,pass
+2015-2017,86,Trip purpose,1.0,pass
+2015-2017,86,Access to first MBTA service,1.0000000000000002,pass
+2015-2017,86,Age,1.0,pass
+2015-2017,86,Gender,1.0,pass
+2015-2017,86,Fare product,1.0,pass
+2015-2017,86,Alternative mode use,1.0,pass
+2015-2017,86,English comprehension,1.0,pass
+2015-2017,86,Valid driver's license,1.0,pass
+2015-2017,86,Previous transit mode,1.0,pass
+2015-2017,86,Monthly pass type,1.0,pass
+2015-2017,86,Pay-per-ride type,1.0,pass
+2015-2017,86,Title VI minority status,1.0,pass
+2015-2017,9,Household income,1.0,pass
+2015-2017,9,Low-income status,1.0,pass
+2015-2017,9,Hispanic or Latine ethnicity,1.0,pass
+2015-2017,9,Usable household vehicles,1.0,pass
+2015-2017,9,Vehicles per capita,1.0,pass
+2015-2017,9,Trip frequency,1.0,pass
+2015-2017,9,Trip purpose,1.0,pass
+2015-2017,9,Access to first MBTA service,1.0,pass
+2015-2017,9,Age,0.9999999999999999,pass
+2015-2017,9,Gender,1.0,pass
+2015-2017,9,Fare product,1.0,pass
+2015-2017,9,Alternative mode use,1.0,pass
+2015-2017,9,English comprehension,1.0,pass
+2015-2017,9,Valid driver's license,1.0,pass
+2015-2017,9,Previous transit mode,1.0,pass
+2015-2017,9,Monthly pass type,0.9999999999999999,pass
+2015-2017,9,Pay-per-ride type,1.0,pass
+2015-2017,9,Title VI minority status,1.0,pass
+2025,1,Household income,1.0000007614893514,pass
+2025,1,Low-income status,0.999999238510648,pass
+2025,1,Hispanic or Latine ethnicity,1.0000007614893511,pass
+2025,1,Usable household vehicles,1.0000007614893516,pass
+2025,1,Vehicles per capita,1.0000000000000004,pass
+2025,1,Trip frequency,1.0000007614893511,pass
+2025,1,Trip purpose,0.999999999999999,pass
+2025,1,Access to first MBTA service,1.0,pass
+2025,1,Age,1.0000007614893518,pass
+2025,1,Gender,0.9999992385106481,pass
+2025,1,Fare product,0.9999999999999997,pass
+2025,1,Alternative mode use,0.999999999999999,pass
+2025,1,English comprehension,0.9999992385106486,pass
+2025,1,Title VI minority status,0.999999999999999,pass
+2025,1,Smartphone availability,0.9999992385106491,pass
+2025,104,Household income,1.000001834431546,pass
+2025,104,Low-income status,0.9999999999999998,pass
+2025,104,Hispanic or Latine ethnicity,0.9999981655684533,pass
+2025,104,Usable household vehicles,0.9999981655684543,pass
+2025,104,Vehicles per capita,1.0000018344315464,pass
+2025,104,Trip frequency,1.0000000000000007,pass
+2025,104,Trip purpose,0.9999999999999998,pass
+2025,104,Access to first MBTA service,0.9999999999999996,pass
+2025,104,Age,0.9999963311369067,pass
+2025,104,Gender,1.0,pass
+2025,104,Fare product,0.9999999999999992,pass
+2025,104,Alternative mode use,0.999998165568454,pass
+2025,104,English comprehension,0.9999999999999994,pass
+2025,104,Title VI minority status,0.999998165568453,pass
+2025,104,Smartphone availability,0.999998165568454,pass
+2025,11,Household income,0.9999947875944747,pass
+2025,11,Low-income status,1.0000000000000004,pass
+2025,11,Hispanic or Latine ethnicity,0.9999947875944748,pass
+2025,11,Usable household vehicles,0.9999895751889496,pass
+2025,11,Vehicles per capita,0.9999947875944746,pass
+2025,11,Trip frequency,0.9999999999999999,pass
+2025,11,Trip purpose,1.000005212405524,pass
+2025,11,Access to first MBTA service,0.9999999999999997,pass
+2025,11,Age,1.0000052124055252,pass
+2025,11,Gender,0.9999947875944746,pass
+2025,11,Fare product,1.0000000000000002,pass
+2025,11,Alternative mode use,0.9999999999999998,pass
+2025,11,English comprehension,1.0000000000000002,pass
+2025,11,Title VI minority status,1.0000000000000007,pass
+2025,11,Smartphone availability,0.9999947875944745,pass
+2025,111,Household income,0.9999999999999994,pass
+2025,111,Low-income status,1.0,pass
+2025,111,Hispanic or Latine ethnicity,1.000000971914584,pass
+2025,111,Usable household vehicles,0.9999990280854156,pass
+2025,111,Vehicles per capita,1.0,pass
+2025,111,Trip frequency,1.0000000000000004,pass
+2025,111,Trip purpose,0.9999999999999998,pass
+2025,111,Access to first MBTA service,0.9999999999999997,pass
+2025,111,Age,0.9999999999999996,pass
+2025,111,Gender,1.0000009719145835,pass
+2025,111,Fare product,1.0000000000000002,pass
+2025,111,Alternative mode use,1.0000000000000009,pass
+2025,111,English comprehension,0.9999990280854165,pass
+2025,111,Title VI minority status,1.0,pass
+2025,111,Smartphone availability,1.0000000000000002,pass
+2025,114 & 116 & 117,Household income,1.0000008169814494,pass
+2025,114 & 116 & 117,Low-income status,1.0000000000000002,pass
+2025,114 & 116 & 117,Hispanic or Latine ethnicity,0.999999999999999,pass
+2025,114 & 116 & 117,Usable household vehicles,0.9999991830185502,pass
+2025,114 & 116 & 117,Vehicles per capita,0.9999999999999993,pass
+2025,114 & 116 & 117,Trip frequency,0.999999999999999,pass
+2025,114 & 116 & 117,Trip purpose,0.9999999999999998,pass
+2025,114 & 116 & 117,Access to first MBTA service,0.9999999999999993,pass
+2025,114 & 116 & 117,Age,0.999999183018551,pass
+2025,114 & 116 & 117,Gender,1.0,pass
+2025,114 & 116 & 117,Fare product,0.9999982853840996,pass
+2025,114 & 116 & 117,Alternative mode use,0.9999999999999998,pass
+2025,114 & 116 & 117,English comprehension,0.9999999999999993,pass
+2025,114 & 116 & 117,Title VI minority status,0.999999183018551,pass
+2025,114 & 116 & 117,Smartphone availability,0.9999991830185504,pass
+2025,15,Household income,1.0000000000000007,pass
+2025,15,Low-income status,1.0000017302534818,pass
+2025,15,Hispanic or Latine ethnicity,1.0000000000000002,pass
+2025,15,Usable household vehicles,1.000001730253483,pass
+2025,15,Vehicles per capita,1.0000017302534825,pass
+2025,15,Trip frequency,1.0,pass
+2025,15,Trip purpose,1.0,pass
+2025,15,Access to first MBTA service,0.9999999999999997,pass
+2025,15,Age,1.0,pass
+2025,15,Gender,0.999999999999999,pass
+2025,15,Fare product,0.9999999999999993,pass
+2025,15,Alternative mode use,1.0,pass
+2025,15,English comprehension,1.000001730253482,pass
+2025,15,Title VI minority status,1.0000017302534823,pass
+2025,15,Smartphone availability,1.0,pass
+2025,16,Household income,1.0000015403905818,pass
+2025,16,Low-income status,1.000001540390581,pass
+2025,16,Hispanic or Latine ethnicity,1.000001540390581,pass
+2025,16,Usable household vehicles,1.0000015403905809,pass
+2025,16,Vehicles per capita,1.0000030807811626,pass
+2025,16,Trip frequency,1.0000015403905822,pass
+2025,16,Trip purpose,0.9999999999999996,pass
+2025,16,Access to first MBTA service,0.9999999999999998,pass
+2025,16,Age,1.0000015403905809,pass
+2025,16,Gender,1.0000015403905818,pass
+2025,16,Fare product,1.0000000000000004,pass
+2025,16,Alternative mode use,1.000001540390581,pass
+2025,16,English comprehension,0.9999999999999997,pass
+2025,16,Title VI minority status,1.0,pass
+2025,16,Smartphone availability,1.000001540390581,pass
+2025,21,Household income,1.0000000000000002,pass
+2025,21,Low-income status,1.0000000000000009,pass
+2025,21,Hispanic or Latine ethnicity,0.9999977957983505,pass
+2025,21,Usable household vehicles,1.0000000000000004,pass
+2025,21,Vehicles per capita,1.0000022042016492,pass
+2025,21,Trip frequency,0.9999977957983514,pass
+2025,21,Trip purpose,0.9999999999999999,pass
+2025,21,Access to first MBTA service,0.9999963163652836,pass
+2025,21,Age,1.0000000000000002,pass
+2025,21,Gender,0.9999999999999999,pass
+2025,21,Fare product,0.9999999999999998,pass
+2025,21,Alternative mode use,1.0000000000000004,pass
+2025,21,English comprehension,0.9999999999999997,pass
+2025,21,Title VI minority status,0.999997795798351,pass
+2025,21,Smartphone availability,1.0000000000000002,pass
+2025,23,Household income,0.9999999999999997,pass
+2025,23,Low-income status,0.9999999999999994,pass
+2025,23,Hispanic or Latine ethnicity,0.9999999999999997,pass
+2025,23,Usable household vehicles,1.0000000000000007,pass
+2025,23,Vehicles per capita,0.9999992574557014,pass
+2025,23,Trip frequency,0.9999992574557022,pass
+2025,23,Trip purpose,0.9999992574557012,pass
+2025,23,Access to first MBTA service,0.9999988435308846,pass
+2025,23,Age,0.9999999999999996,pass
+2025,23,Gender,0.9999999999999997,pass
+2025,23,Fare product,0.9999999999999998,pass
+2025,23,Alternative mode use,1.0,pass
+2025,23,English comprehension,1.0000007425442985,pass
+2025,23,Title VI minority status,1.0000000000000004,pass
+2025,23,Smartphone availability,1.0000000000000002,pass
+2025,32,Household income,1.0000013824566252,pass
+2025,32,Low-income status,1.000001382456626,pass
+2025,32,Hispanic or Latine ethnicity,1.0000013824566254,pass
+2025,32,Usable household vehicles,1.0000000000000004,pass
+2025,32,Vehicles per capita,1.0,pass
+2025,32,Trip frequency,1.0000027649132504,pass
+2025,32,Trip purpose,1.0000000000000002,pass
+2025,32,Access to first MBTA service,1.0000020584645082,pass
+2025,32,Age,0.9999999999999994,pass
+2025,32,Gender,1.0000013824566263,pass
+2025,32,Fare product,0.9999999999999997,pass
+2025,32,Alternative mode use,1.0000013824566252,pass
+2025,32,English comprehension,0.9999999999999994,pass
+2025,32,Title VI minority status,1.000001382456625,pass
+2025,32,Smartphone availability,1.0000000000000002,pass
+2025,34 & 34E,Household income,0.9999981502103219,pass
+2025,34 & 34E,Low-income status,0.9999981502103213,pass
+2025,34 & 34E,Hispanic or Latine ethnicity,1.0,pass
+2025,34 & 34E,Usable household vehicles,0.9999981502103208,pass
+2025,34 & 34E,Vehicles per capita,0.9999981502103209,pass
+2025,34 & 34E,Trip frequency,0.9999981502103207,pass
+2025,34 & 34E,Trip purpose,0.9999981502103211,pass
+2025,34 & 34E,Access to first MBTA service,0.9999974678287644,pass
+2025,34 & 34E,Age,0.9999999999999996,pass
+2025,34 & 34E,Gender,0.9999981502103215,pass
+2025,34 & 34E,Fare product,0.9999999999999996,pass
+2025,34 & 34E,Alternative mode use,0.9999999999999996,pass
+2025,34 & 34E,English comprehension,1.0000000000000002,pass
+2025,34 & 34E,Title VI minority status,1.0,pass
+2025,34 & 34E,Smartphone availability,1.0,pass
+2025,39,Household income,1.000001118652068,pass
+2025,39,Low-income status,1.0000000000000009,pass
+2025,39,Hispanic or Latine ethnicity,1.000001118652069,pass
+2025,39,Usable household vehicles,0.9999999999999998,pass
+2025,39,Vehicles per capita,1.0000011186520696,pass
+2025,39,Trip frequency,1.0000022373041386,pass
+2025,39,Trip purpose,1.0000011186520694,pass
+2025,39,Access to first MBTA service,0.9999986220125227,pass
+2025,39,Age,1.0000000000000002,pass
+2025,39,Gender,1.0000011186520692,pass
+2025,39,Fare product,0.999997664939889,pass
+2025,39,Alternative mode use,1.0000000000000002,pass
+2025,39,English comprehension,1.0,pass
+2025,39,Title VI minority status,1.0,pass
+2025,39,Smartphone availability,0.9999999999999999,pass
+2025,4 & 7,Household income,1.0000064396061532,pass
+2025,4 & 7,Low-income status,0.9999967801969231,pass
+2025,4 & 7,Hispanic or Latine ethnicity,0.9999999999999999,pass
+2025,4 & 7,Usable household vehicles,0.9999999999999999,pass
+2025,4 & 7,Vehicles per capita,0.9999967801969243,pass
+2025,4 & 7,Trip frequency,1.0000000000000004,pass
+2025,4 & 7,Trip purpose,1.000003219803076,pass
+2025,4 & 7,Access to first MBTA service,0.9999963575435271,pass
+2025,4 & 7,Age,0.9999967801969238,pass
+2025,4 & 7,Gender,0.9999999999999998,pass
+2025,4 & 7,Fare product,1.0000000000000002,pass
+2025,4 & 7,Alternative mode use,0.9999967801969225,pass
+2025,4 & 7,English comprehension,0.9999967801969228,pass
+2025,4 & 7,Title VI minority status,0.9999999999999999,pass
+2025,4 & 7,Smartphone availability,0.9999999999999998,pass
+2025,47,Household income,1.0000018071940775,pass
+2025,47,Low-income status,0.9999981928059214,pass
+2025,47,Hispanic or Latine ethnicity,1.0000000000000002,pass
+2025,47,Usable household vehicles,0.9999999999999999,pass
+2025,47,Vehicles per capita,1.0000018071940775,pass
+2025,47,Trip frequency,0.9999981928059216,pass
+2025,47,Trip purpose,1.0000000000000002,pass
+2025,47,Access to first MBTA service,0.9999975066758747,pass
+2025,47,Age,0.9999981928059211,pass
+2025,47,Gender,0.9999999999999997,pass
+2025,47,Fare product,0.9999980538954195,pass
+2025,47,Alternative mode use,1.0000000000000009,pass
+2025,47,English comprehension,1.0000018071940786,pass
+2025,47,Title VI minority status,1.0000000000000002,pass
+2025,47,Smartphone availability,0.9999981928059224,pass
+2025,57,Household income,0.9999999999999994,pass
+2025,57,Low-income status,1.000001504496941,pass
+2025,57,Hispanic or Latine ethnicity,1.0000000000000002,pass
+2025,57,Usable household vehicles,1.0000015044969413,pass
+2025,57,Vehicles per capita,0.9999999999999991,pass
+2025,57,Trip frequency,0.9999999999999999,pass
+2025,57,Trip purpose,0.9999984955030594,pass
+2025,57,Access to first MBTA service,0.9999999999999996,pass
+2025,57,Age,0.9999999999999994,pass
+2025,57,Gender,1.0000015044969417,pass
+2025,57,Fare product,1.000001539233523,pass
+2025,57,Alternative mode use,1.0000015044969408,pass
+2025,57,English comprehension,0.9999999999999998,pass
+2025,57,Title VI minority status,0.9999999999999999,pass
+2025,57,Smartphone availability,1.0000015044969413,pass
+2025,66,Household income,0.9999999999999998,pass
+2025,66,Low-income status,0.999999151769621,pass
+2025,66,Hispanic or Latine ethnicity,0.9999991517696211,pass
+2025,66,Usable household vehicles,0.9999999999999992,pass
+2025,66,Vehicles per capita,0.9999991517696208,pass
+2025,66,Trip frequency,1.0000008482303802,pass
+2025,66,Trip purpose,1.0000000000000004,pass
+2025,66,Access to first MBTA service,0.9999976594773612,pass
+2025,66,Age,1.0000000000000002,pass
+2025,66,Gender,1.0,pass
+2025,66,Fare product,0.9999991100946416,pass
+2025,66,Alternative mode use,1.0000008482303797,pass
+2025,66,English comprehension,1.0000008482303795,pass
+2025,66,Title VI minority status,1.0,pass
+2025,66,Smartphone availability,0.9999999999999998,pass
+2025,67 & 77,Household income,0.9999999999999994,pass
+2025,67 & 77,Low-income status,1.0000000000000002,pass
+2025,67 & 77,Hispanic or Latine ethnicity,1.0,pass
+2025,67 & 77,Usable household vehicles,1.0000022862786695,pass
+2025,67 & 77,Vehicles per capita,0.9999977137213298,pass
+2025,67 & 77,Trip frequency,0.9999977137213307,pass
+2025,67 & 77,Trip purpose,1.0000000000000007,pass
+2025,67 & 77,Access to first MBTA service,0.9999971502420867,pass
+2025,67 & 77,Age,0.9999999999999996,pass
+2025,67 & 77,Gender,1.0000022862786697,pass
+2025,67 & 77,Fare product,1.0000024989504408,pass
+2025,67 & 77,Alternative mode use,1.0000000000000009,pass
+2025,67 & 77,English comprehension,0.9999999999999998,pass
+2025,67 & 77,Title VI minority status,0.9999999999999998,pass
+2025,67 & 77,Smartphone availability,1.0,pass
+2025,71,Household income,0.9999951622110635,pass
+2025,71,Low-income status,0.9999999999999991,pass
+2025,71,Hispanic or Latine ethnicity,0.9999951622110638,pass
+2025,71,Usable household vehicles,1.0000000000000007,pass
+2025,71,Vehicles per capita,1.0000000000000002,pass
+2025,71,Trip frequency,1.0000048377889366,pass
+2025,71,Trip purpose,1.0000048377889366,pass
+2025,71,Access to first MBTA service,0.9999933576443546,pass
+2025,71,Age,0.9999951622110627,pass
+2025,71,Gender,1.0000000000000002,pass
+2025,71,Fare product,0.9999999999999999,pass
+2025,71,Alternative mode use,1.0,pass
+2025,71,English comprehension,0.9999999999999999,pass
+2025,71,Title VI minority status,1.0000000000000002,pass
+2025,71,Smartphone availability,1.0,pass
+2025,73,Household income,0.9999999999999992,pass
+2025,73,Low-income status,0.999996117846647,pass
+2025,73,Hispanic or Latine ethnicity,0.9999999999999991,pass
+2025,73,Usable household vehicles,1.0000000000000004,pass
+2025,73,Vehicles per capita,1.0000038821533526,pass
+2025,73,Trip frequency,0.9999961178466474,pass
+2025,73,Trip purpose,0.9999999999999999,pass
+2025,73,Access to first MBTA service,1.0000055095204508,pass
+2025,73,Age,0.9999961178466475,pass
+2025,73,Gender,1.0,pass
+2025,73,Fare product,0.9999959610483498,pass
+2025,73,Alternative mode use,1.000003882153353,pass
+2025,73,English comprehension,0.9999961178466467,pass
+2025,73,Title VI minority status,1.0000038821533537,pass
+2025,73,Smartphone availability,1.0000000000000004,pass
+2025,8 & 55 & CT3,Household income,1.000000000000001,pass
+2025,8 & 55 & CT3,Low-income status,0.9999999999999999,pass
+2025,8 & 55 & CT3,Hispanic or Latine ethnicity,1.0000000000000002,pass
+2025,8 & 55 & CT3,Usable household vehicles,0.9999999999999991,pass
+2025,8 & 55 & CT3,Vehicles per capita,1.0000024049792682,pass
+2025,8 & 55 & CT3,Trip frequency,1.0000024049792686,pass
+2025,8 & 55 & CT3,Trip purpose,0.9999999999999993,pass
+2025,8 & 55 & CT3,Access to first MBTA service,0.9999999999999999,pass
+2025,8 & 55 & CT3,Age,0.9999999999999998,pass
+2025,8 & 55 & CT3,Gender,1.0000024049792695,pass
+2025,8 & 55 & CT3,Fare product,1.0000025491800566,pass
+2025,8 & 55 & CT3,Alternative mode use,1.0,pass
+2025,8 & 55 & CT3,English comprehension,1.0000048099585384,pass
+2025,8 & 55 & CT3,Title VI minority status,1.0000000000000007,pass
+2025,8 & 55 & CT3,Smartphone availability,1.0000024049792693,pass
+2025,86,Household income,1.000002364927184,pass
+2025,86,Low-income status,1.0,pass
+2025,86,Hispanic or Latine ethnicity,1.0000000000000004,pass
+2025,86,Usable household vehicles,1.0000000000000007,pass
+2025,86,Vehicles per capita,1.0000000000000004,pass
+2025,86,Trip frequency,0.9999999999999999,pass
+2025,86,Trip purpose,0.9999976350728159,pass
+2025,86,Access to first MBTA service,1.0,pass
+2025,86,Age,1.000000000000001,pass
+2025,86,Gender,1.0000000000000007,pass
+2025,86,Fare product,0.9999975062157566,pass
+2025,86,Alternative mode use,0.9999999999999993,pass
+2025,86,English comprehension,1.000002364927184,pass
+2025,86,Title VI minority status,1.0000000000000002,pass
+2025,86,Smartphone availability,1.0000023649271836,pass
+2025,9,Household income,0.9999999999999991,pass
+2025,9,Low-income status,1.0,pass
+2025,9,Hispanic or Latine ethnicity,1.0000000000000004,pass
+2025,9,Usable household vehicles,0.9999999999999992,pass
+2025,9,Vehicles per capita,0.9999999999999997,pass
+2025,9,Trip frequency,1.0000000000000004,pass
+2025,9,Trip purpose,1.0000018299935953,pass
+2025,9,Access to first MBTA service,1.0000023126146185,pass
+2025,9,Age,1.0000000000000007,pass
+2025,9,Gender,0.9999999999999998,pass
+2025,9,Fare product,0.9999999999999996,pass
+2025,9,Alternative mode use,0.9999981700064039,pass
+2025,9,English comprehension,1.0000000000000002,pass
+2025,9,Title VI minority status,1.0000000000000007,pass
+2025,9,Smartphone availability,0.9999981700064051,pass

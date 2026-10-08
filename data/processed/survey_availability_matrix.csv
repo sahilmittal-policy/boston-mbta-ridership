@@ -1,0 +1,485 @@
+route,reporting_group_2015_17,reporting_group_2025,characteristic,available_2015_17,available_2025,available_both,focal_route,fare_free_route
+1,1,1,Household income,True,True,True,0,0
+1,1,1,Low-income status,True,True,True,0,0
+1,1,1,Race,True,True,True,0,0
+1,1,1,Hispanic or Latine ethnicity,True,True,True,0,0
+1,1,1,Usable household vehicles,True,True,True,0,0
+1,1,1,Vehicles per capita,True,True,True,0,0
+1,1,1,Trip frequency,True,True,True,0,0
+1,1,1,Trip purpose,True,True,True,0,0
+1,1,1,Access to first MBTA service,True,True,True,0,0
+1,1,1,Age,True,True,True,0,0
+1,1,1,Employment/student status,False,False,False,0,0
+1,1,1,Gender,True,True,True,0,0
+1,1,1,Fare product,True,True,True,0,0
+1,1,1,Alternative mode use,True,True,True,0,0
+1,1,1,Alternative modes,True,True,True,0,0
+1,1,1,English comprehension,True,True,True,0,0
+1,1,1,Valid driver's license,True,False,False,0,0
+1,1,1,Previous transit mode,True,False,False,0,0
+1,1,1,Monthly pass type,True,False,False,0,0
+1,1,1,Pay-per-ride type,True,False,False,0,0
+1,1,1,Title VI minority status,True,True,True,0,0
+1,1,1,Smartphone availability,False,True,False,0,0
+104,104,104,Household income,True,True,True,0,0
+104,104,104,Low-income status,True,True,True,0,0
+104,104,104,Race,True,True,True,0,0
+104,104,104,Hispanic or Latine ethnicity,True,True,True,0,0
+104,104,104,Usable household vehicles,True,True,True,0,0
+104,104,104,Vehicles per capita,True,True,True,0,0
+104,104,104,Trip frequency,True,True,True,0,0
+104,104,104,Trip purpose,True,True,True,0,0
+104,104,104,Access to first MBTA service,True,True,True,0,0
+104,104,104,Age,True,True,True,0,0
+104,104,104,Employment/student status,False,False,False,0,0
+104,104,104,Gender,True,True,True,0,0
+104,104,104,Fare product,True,True,True,0,0
+104,104,104,Alternative mode use,True,True,True,0,0
+104,104,104,Alternative modes,True,True,True,0,0
+104,104,104,English comprehension,True,True,True,0,0
+104,104,104,Valid driver's license,True,False,False,0,0
+104,104,104,Previous transit mode,True,False,False,0,0
+104,104,104,Monthly pass type,True,False,False,0,0
+104,104,104,Pay-per-ride type,True,False,False,0,0
+104,104,104,Title VI minority status,True,True,True,0,0
+104,104,104,Smartphone availability,False,True,False,0,0
+11,11,11,Household income,True,True,True,0,0
+11,11,11,Low-income status,True,True,True,0,0
+11,11,11,Race,True,True,True,0,0
+11,11,11,Hispanic or Latine ethnicity,True,True,True,0,0
+11,11,11,Usable household vehicles,True,True,True,0,0
+11,11,11,Vehicles per capita,True,True,True,0,0
+11,11,11,Trip frequency,True,True,True,0,0
+11,11,11,Trip purpose,True,True,True,0,0
+11,11,11,Access to first MBTA service,True,True,True,0,0
+11,11,11,Age,True,True,True,0,0
+11,11,11,Employment/student status,False,False,False,0,0
+11,11,11,Gender,True,True,True,0,0
+11,11,11,Fare product,True,True,True,0,0
+11,11,11,Alternative mode use,True,True,True,0,0
+11,11,11,Alternative modes,True,True,True,0,0
+11,11,11,English comprehension,True,True,True,0,0
+11,11,11,Valid driver's license,True,False,False,0,0
+11,11,11,Previous transit mode,True,False,False,0,0
+11,11,11,Monthly pass type,True,False,False,0,0
+11,11,11,Pay-per-ride type,True,False,False,0,0
+11,11,11,Title VI minority status,True,True,True,0,0
+11,11,11,Smartphone availability,False,True,False,0,0
+111,111,111,Household income,True,True,True,0,0
+111,111,111,Low-income status,True,True,True,0,0
+111,111,111,Race,True,True,True,0,0
+111,111,111,Hispanic or Latine ethnicity,True,True,True,0,0
+111,111,111,Usable household vehicles,True,True,True,0,0
+111,111,111,Vehicles per capita,True,True,True,0,0
+111,111,111,Trip frequency,True,True,True,0,0
+111,111,111,Trip purpose,True,True,True,0,0
+111,111,111,Access to first MBTA service,True,True,True,0,0
+111,111,111,Age,True,True,True,0,0
+111,111,111,Employment/student status,False,False,False,0,0
+111,111,111,Gender,True,True,True,0,0
+111,111,111,Fare product,True,True,True,0,0
+111,111,111,Alternative mode use,True,True,True,0,0
+111,111,111,Alternative modes,True,True,True,0,0
+111,111,111,English comprehension,True,True,True,0,0
+111,111,111,Valid driver's license,True,False,False,0,0
+111,111,111,Previous transit mode,True,False,False,0,0
+111,111,111,Monthly pass type,True,False,False,0,0
+111,111,111,Pay-per-ride type,True,False,False,0,0
+111,111,111,Title VI minority status,True,True,True,0,0
+111,111,111,Smartphone availability,False,True,False,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Household income,True,True,True,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Low-income status,True,True,True,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Race,True,True,True,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Hispanic or Latine ethnicity,True,True,True,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Usable household vehicles,True,True,True,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Vehicles per capita,True,True,True,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Trip frequency,True,True,True,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Trip purpose,True,True,True,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Access to first MBTA service,True,True,True,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Age,True,True,True,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Employment/student status,False,False,False,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Gender,True,True,True,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Fare product,True,True,True,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Alternative mode use,True,True,True,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Alternative modes,True,True,True,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",English comprehension,True,True,True,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Valid driver's license,True,False,False,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Previous transit mode,True,False,False,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Monthly pass type,True,False,False,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Pay-per-ride type,True,False,False,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Title VI minority status,True,True,True,0,0
+114 & 116 & 117,"114, 116, and 117","114, 116, & 117",Smartphone availability,False,True,False,0,0
+15,15,15,Household income,True,True,True,0,0
+15,15,15,Low-income status,True,True,True,0,0
+15,15,15,Race,True,True,True,0,0
+15,15,15,Hispanic or Latine ethnicity,True,True,True,0,0
+15,15,15,Usable household vehicles,True,True,True,0,0
+15,15,15,Vehicles per capita,True,True,True,0,0
+15,15,15,Trip frequency,True,True,True,0,0
+15,15,15,Trip purpose,True,True,True,0,0
+15,15,15,Access to first MBTA service,True,True,True,0,0
+15,15,15,Age,True,True,True,0,0
+15,15,15,Employment/student status,False,False,False,0,0
+15,15,15,Gender,True,True,True,0,0
+15,15,15,Fare product,True,True,True,0,0
+15,15,15,Alternative mode use,True,True,True,0,0
+15,15,15,Alternative modes,True,True,True,0,0
+15,15,15,English comprehension,True,True,True,0,0
+15,15,15,Valid driver's license,True,False,False,0,0
+15,15,15,Previous transit mode,True,False,False,0,0
+15,15,15,Monthly pass type,True,False,False,0,0
+15,15,15,Pay-per-ride type,True,False,False,0,0
+15,15,15,Title VI minority status,True,True,True,0,0
+15,15,15,Smartphone availability,False,True,False,0,0
+16,16,16,Household income,True,True,True,0,0
+16,16,16,Low-income status,True,True,True,0,0
+16,16,16,Race,True,True,True,0,0
+16,16,16,Hispanic or Latine ethnicity,True,True,True,0,0
+16,16,16,Usable household vehicles,True,True,True,0,0
+16,16,16,Vehicles per capita,True,True,True,0,0
+16,16,16,Trip frequency,True,True,True,0,0
+16,16,16,Trip purpose,True,True,True,0,0
+16,16,16,Access to first MBTA service,True,True,True,0,0
+16,16,16,Age,True,True,True,0,0
+16,16,16,Employment/student status,False,False,False,0,0
+16,16,16,Gender,True,True,True,0,0
+16,16,16,Fare product,True,True,True,0,0
+16,16,16,Alternative mode use,True,True,True,0,0
+16,16,16,Alternative modes,True,True,True,0,0
+16,16,16,English comprehension,True,True,True,0,0
+16,16,16,Valid driver's license,True,False,False,0,0
+16,16,16,Previous transit mode,True,False,False,0,0
+16,16,16,Monthly pass type,True,False,False,0,0
+16,16,16,Pay-per-ride type,True,False,False,0,0
+16,16,16,Title VI minority status,True,True,True,0,0
+16,16,16,Smartphone availability,False,True,False,0,0
+21,21,21,Household income,True,True,True,0,0
+21,21,21,Low-income status,True,True,True,0,0
+21,21,21,Race,True,True,True,0,0
+21,21,21,Hispanic or Latine ethnicity,True,True,True,0,0
+21,21,21,Usable household vehicles,True,True,True,0,0
+21,21,21,Vehicles per capita,True,True,True,0,0
+21,21,21,Trip frequency,True,True,True,0,0
+21,21,21,Trip purpose,True,True,True,0,0
+21,21,21,Access to first MBTA service,True,True,True,0,0
+21,21,21,Age,True,True,True,0,0
+21,21,21,Employment/student status,False,False,False,0,0
+21,21,21,Gender,True,True,True,0,0
+21,21,21,Fare product,True,True,True,0,0
+21,21,21,Alternative mode use,True,True,True,0,0
+21,21,21,Alternative modes,True,True,True,0,0
+21,21,21,English comprehension,True,True,True,0,0
+21,21,21,Valid driver's license,True,False,False,0,0
+21,21,21,Previous transit mode,True,False,False,0,0
+21,21,21,Monthly pass type,True,False,False,0,0
+21,21,21,Pay-per-ride type,True,False,False,0,0
+21,21,21,Title VI minority status,True,True,True,0,0
+21,21,21,Smartphone availability,False,True,False,0,0
+23,23,23,Household income,True,True,True,1,1
+23,23,23,Low-income status,True,True,True,1,1
+23,23,23,Race,True,True,True,1,1
+23,23,23,Hispanic or Latine ethnicity,True,True,True,1,1
+23,23,23,Usable household vehicles,True,True,True,1,1
+23,23,23,Vehicles per capita,True,True,True,1,1
+23,23,23,Trip frequency,True,True,True,1,1
+23,23,23,Trip purpose,True,True,True,1,1
+23,23,23,Access to first MBTA service,True,True,True,1,1
+23,23,23,Age,True,True,True,1,1
+23,23,23,Employment/student status,False,False,False,1,1
+23,23,23,Gender,True,True,True,1,1
+23,23,23,Fare product,True,True,True,1,1
+23,23,23,Alternative mode use,True,True,True,1,1
+23,23,23,Alternative modes,True,True,True,1,1
+23,23,23,English comprehension,True,True,True,1,1
+23,23,23,Valid driver's license,True,False,False,1,1
+23,23,23,Previous transit mode,True,False,False,1,1
+23,23,23,Monthly pass type,True,False,False,1,1
+23,23,23,Pay-per-ride type,True,False,False,1,1
+23,23,23,Title VI minority status,True,True,True,1,1
+23,23,23,Smartphone availability,False,True,False,1,1
+32,32,32,Household income,True,True,True,0,0
+32,32,32,Low-income status,True,True,True,0,0
+32,32,32,Race,True,True,True,0,0
+32,32,32,Hispanic or Latine ethnicity,True,True,True,0,0
+32,32,32,Usable household vehicles,True,True,True,0,0
+32,32,32,Vehicles per capita,True,True,True,0,0
+32,32,32,Trip frequency,True,True,True,0,0
+32,32,32,Trip purpose,True,True,True,0,0
+32,32,32,Access to first MBTA service,True,True,True,0,0
+32,32,32,Age,True,True,True,0,0
+32,32,32,Employment/student status,False,False,False,0,0
+32,32,32,Gender,True,True,True,0,0
+32,32,32,Fare product,True,True,True,0,0
+32,32,32,Alternative mode use,True,True,True,0,0
+32,32,32,Alternative modes,True,True,True,0,0
+32,32,32,English comprehension,True,True,True,0,0
+32,32,32,Valid driver's license,True,False,False,0,0
+32,32,32,Previous transit mode,True,False,False,0,0
+32,32,32,Monthly pass type,True,False,False,0,0
+32,32,32,Pay-per-ride type,True,False,False,0,0
+32,32,32,Title VI minority status,True,True,True,0,0
+32,32,32,Smartphone availability,False,True,False,0,0
+34 & 34E,34/34E,34 & 34E,Household income,True,True,True,0,0
+34 & 34E,34/34E,34 & 34E,Low-income status,True,True,True,0,0
+34 & 34E,34/34E,34 & 34E,Race,True,True,True,0,0
+34 & 34E,34/34E,34 & 34E,Hispanic or Latine ethnicity,True,True,True,0,0
+34 & 34E,34/34E,34 & 34E,Usable household vehicles,True,True,True,0,0
+34 & 34E,34/34E,34 & 34E,Vehicles per capita,True,True,True,0,0
+34 & 34E,34/34E,34 & 34E,Trip frequency,True,True,True,0,0
+34 & 34E,34/34E,34 & 34E,Trip purpose,True,True,True,0,0
+34 & 34E,34/34E,34 & 34E,Access to first MBTA service,True,True,True,0,0
+34 & 34E,34/34E,34 & 34E,Age,True,True,True,0,0
+34 & 34E,34/34E,34 & 34E,Employment/student status,False,False,False,0,0
+34 & 34E,34/34E,34 & 34E,Gender,True,True,True,0,0
+34 & 34E,34/34E,34 & 34E,Fare product,True,True,True,0,0
+34 & 34E,34/34E,34 & 34E,Alternative mode use,True,True,True,0,0
+34 & 34E,34/34E,34 & 34E,Alternative modes,True,True,True,0,0
+34 & 34E,34/34E,34 & 34E,English comprehension,True,True,True,0,0
+34 & 34E,34/34E,34 & 34E,Valid driver's license,True,False,False,0,0
+34 & 34E,34/34E,34 & 34E,Previous transit mode,True,False,False,0,0
+34 & 34E,34/34E,34 & 34E,Monthly pass type,True,False,False,0,0
+34 & 34E,34/34E,34 & 34E,Pay-per-ride type,True,False,False,0,0
+34 & 34E,34/34E,34 & 34E,Title VI minority status,True,True,True,0,0
+34 & 34E,34/34E,34 & 34E,Smartphone availability,False,True,False,0,0
+39,39,39,Household income,True,True,True,0,0
+39,39,39,Low-income status,True,True,True,0,0
+39,39,39,Race,True,True,True,0,0
+39,39,39,Hispanic or Latine ethnicity,True,True,True,0,0
+39,39,39,Usable household vehicles,True,True,True,0,0
+39,39,39,Vehicles per capita,True,True,True,0,0
+39,39,39,Trip frequency,True,True,True,0,0
+39,39,39,Trip purpose,True,True,True,0,0
+39,39,39,Access to first MBTA service,True,True,True,0,0
+39,39,39,Age,True,True,True,0,0
+39,39,39,Employment/student status,False,False,False,0,0
+39,39,39,Gender,True,True,True,0,0
+39,39,39,Fare product,True,True,True,0,0
+39,39,39,Alternative mode use,True,True,True,0,0
+39,39,39,Alternative modes,True,True,True,0,0
+39,39,39,English comprehension,True,True,True,0,0
+39,39,39,Valid driver's license,True,False,False,0,0
+39,39,39,Previous transit mode,True,False,False,0,0
+39,39,39,Monthly pass type,True,False,False,0,0
+39,39,39,Pay-per-ride type,True,False,False,0,0
+39,39,39,Title VI minority status,True,True,True,0,0
+39,39,39,Smartphone availability,False,True,False,0,0
+4 & 7,4 | 7,4 & 7,Household income,True,True,True,0,0
+4 & 7,4 | 7,4 & 7,Low-income status,True,True,True,0,0
+4 & 7,4 | 7,4 & 7,Race,True,True,True,0,0
+4 & 7,4 | 7,4 & 7,Hispanic or Latine ethnicity,True,True,True,0,0
+4 & 7,4 | 7,4 & 7,Usable household vehicles,True,True,True,0,0
+4 & 7,4 | 7,4 & 7,Vehicles per capita,True,True,True,0,0
+4 & 7,4 | 7,4 & 7,Trip frequency,True,True,True,0,0
+4 & 7,4 | 7,4 & 7,Trip purpose,True,True,True,0,0
+4 & 7,4 | 7,4 & 7,Access to first MBTA service,True,True,True,0,0
+4 & 7,4 | 7,4 & 7,Age,True,True,True,0,0
+4 & 7,4 | 7,4 & 7,Employment/student status,False,False,False,0,0
+4 & 7,4 | 7,4 & 7,Gender,True,True,True,0,0
+4 & 7,4 | 7,4 & 7,Fare product,True,True,True,0,0
+4 & 7,4 | 7,4 & 7,Alternative mode use,True,True,True,0,0
+4 & 7,4 | 7,4 & 7,Alternative modes,True,True,True,0,0
+4 & 7,4 | 7,4 & 7,English comprehension,True,True,True,0,0
+4 & 7,4 | 7,4 & 7,Valid driver's license,True,False,False,0,0
+4 & 7,4 | 7,4 & 7,Previous transit mode,True,False,False,0,0
+4 & 7,4 | 7,4 & 7,Monthly pass type,True,False,False,0,0
+4 & 7,4 | 7,4 & 7,Pay-per-ride type,True,False,False,0,0
+4 & 7,4 | 7,4 & 7,Title VI minority status,True,True,True,0,0
+4 & 7,4 | 7,4 & 7,Smartphone availability,False,True,False,0,0
+47,47,47,Household income,True,True,True,0,0
+47,47,47,Low-income status,True,True,True,0,0
+47,47,47,Race,True,True,True,0,0
+47,47,47,Hispanic or Latine ethnicity,True,True,True,0,0
+47,47,47,Usable household vehicles,True,True,True,0,0
+47,47,47,Vehicles per capita,True,True,True,0,0
+47,47,47,Trip frequency,True,True,True,0,0
+47,47,47,Trip purpose,True,True,True,0,0
+47,47,47,Access to first MBTA service,True,True,True,0,0
+47,47,47,Age,True,True,True,0,0
+47,47,47,Employment/student status,False,False,False,0,0
+47,47,47,Gender,True,True,True,0,0
+47,47,47,Fare product,True,True,True,0,0
+47,47,47,Alternative mode use,True,True,True,0,0
+47,47,47,Alternative modes,True,True,True,0,0
+47,47,47,English comprehension,True,True,True,0,0
+47,47,47,Valid driver's license,True,False,False,0,0
+47,47,47,Previous transit mode,True,False,False,0,0
+47,47,47,Monthly pass type,True,False,False,0,0
+47,47,47,Pay-per-ride type,True,False,False,0,0
+47,47,47,Title VI minority status,True,True,True,0,0
+47,47,47,Smartphone availability,False,True,False,0,0
+57,57,57,Household income,True,True,True,0,0
+57,57,57,Low-income status,True,True,True,0,0
+57,57,57,Race,True,True,True,0,0
+57,57,57,Hispanic or Latine ethnicity,True,True,True,0,0
+57,57,57,Usable household vehicles,True,True,True,0,0
+57,57,57,Vehicles per capita,True,True,True,0,0
+57,57,57,Trip frequency,True,True,True,0,0
+57,57,57,Trip purpose,True,True,True,0,0
+57,57,57,Access to first MBTA service,True,True,True,0,0
+57,57,57,Age,True,True,True,0,0
+57,57,57,Employment/student status,False,False,False,0,0
+57,57,57,Gender,True,True,True,0,0
+57,57,57,Fare product,True,True,True,0,0
+57,57,57,Alternative mode use,True,True,True,0,0
+57,57,57,Alternative modes,True,True,True,0,0
+57,57,57,English comprehension,True,True,True,0,0
+57,57,57,Valid driver's license,True,False,False,0,0
+57,57,57,Previous transit mode,True,False,False,0,0
+57,57,57,Monthly pass type,True,False,False,0,0
+57,57,57,Pay-per-ride type,True,False,False,0,0
+57,57,57,Title VI minority status,True,True,True,0,0
+57,57,57,Smartphone availability,False,True,False,0,0
+66,66,66,Household income,True,True,True,0,0
+66,66,66,Low-income status,True,True,True,0,0
+66,66,66,Race,True,True,True,0,0
+66,66,66,Hispanic or Latine ethnicity,True,True,True,0,0
+66,66,66,Usable household vehicles,True,True,True,0,0
+66,66,66,Vehicles per capita,True,True,True,0,0
+66,66,66,Trip frequency,True,True,True,0,0
+66,66,66,Trip purpose,True,True,True,0,0
+66,66,66,Access to first MBTA service,True,True,True,0,0
+66,66,66,Age,True,True,True,0,0
+66,66,66,Employment/student status,False,False,False,0,0
+66,66,66,Gender,True,True,True,0,0
+66,66,66,Fare product,True,True,True,0,0
+66,66,66,Alternative mode use,True,True,True,0,0
+66,66,66,Alternative modes,True,True,True,0,0
+66,66,66,English comprehension,True,True,True,0,0
+66,66,66,Valid driver's license,True,False,False,0,0
+66,66,66,Previous transit mode,True,False,False,0,0
+66,66,66,Monthly pass type,True,False,False,0,0
+66,66,66,Pay-per-ride type,True,False,False,0,0
+66,66,66,Title VI minority status,True,True,True,0,0
+66,66,66,Smartphone availability,False,True,False,0,0
+67 & 77,67 | 77,67 & 77,Household income,True,True,True,0,0
+67 & 77,67 | 77,67 & 77,Low-income status,True,True,True,0,0
+67 & 77,67 | 77,67 & 77,Race,True,True,True,0,0
+67 & 77,67 | 77,67 & 77,Hispanic or Latine ethnicity,True,True,True,0,0
+67 & 77,67 | 77,67 & 77,Usable household vehicles,True,True,True,0,0
+67 & 77,67 | 77,67 & 77,Vehicles per capita,True,True,True,0,0
+67 & 77,67 | 77,67 & 77,Trip frequency,True,True,True,0,0
+67 & 77,67 | 77,67 & 77,Trip purpose,True,True,True,0,0
+67 & 77,67 | 77,67 & 77,Access to first MBTA service,True,True,True,0,0
+67 & 77,67 | 77,67 & 77,Age,True,True,True,0,0
+67 & 77,67 | 77,67 & 77,Employment/student status,False,False,False,0,0
+67 & 77,67 | 77,67 & 77,Gender,True,True,True,0,0
+67 & 77,67 | 77,67 & 77,Fare product,True,True,True,0,0
+67 & 77,67 | 77,67 & 77,Alternative mode use,True,True,True,0,0
+67 & 77,67 | 77,67 & 77,Alternative modes,True,True,True,0,0
+67 & 77,67 | 77,67 & 77,English comprehension,True,True,True,0,0
+67 & 77,67 | 77,67 & 77,Valid driver's license,True,False,False,0,0
+67 & 77,67 | 77,67 & 77,Previous transit mode,True,False,False,0,0
+67 & 77,67 | 77,67 & 77,Monthly pass type,True,False,False,0,0
+67 & 77,67 | 77,67 & 77,Pay-per-ride type,True,False,False,0,0
+67 & 77,67 | 77,67 & 77,Title VI minority status,True,True,True,0,0
+67 & 77,67 | 77,67 & 77,Smartphone availability,False,True,False,0,0
+71,71,71,Household income,True,True,True,0,0
+71,71,71,Low-income status,True,True,True,0,0
+71,71,71,Race,True,True,True,0,0
+71,71,71,Hispanic or Latine ethnicity,True,True,True,0,0
+71,71,71,Usable household vehicles,True,True,True,0,0
+71,71,71,Vehicles per capita,True,True,True,0,0
+71,71,71,Trip frequency,True,True,True,0,0
+71,71,71,Trip purpose,True,True,True,0,0
+71,71,71,Access to first MBTA service,True,True,True,0,0
+71,71,71,Age,True,True,True,0,0
+71,71,71,Employment/student status,False,False,False,0,0
+71,71,71,Gender,True,True,True,0,0
+71,71,71,Fare product,True,True,True,0,0
+71,71,71,Alternative mode use,True,True,True,0,0
+71,71,71,Alternative modes,True,True,True,0,0
+71,71,71,English comprehension,True,True,True,0,0
+71,71,71,Valid driver's license,True,False,False,0,0
+71,71,71,Previous transit mode,True,False,False,0,0
+71,71,71,Monthly pass type,True,False,False,0,0
+71,71,71,Pay-per-ride type,True,False,False,0,0
+71,71,71,Title VI minority status,True,True,True,0,0
+71,71,71,Smartphone availability,False,True,False,0,0
+73,73,73,Household income,True,True,True,0,0
+73,73,73,Low-income status,True,True,True,0,0
+73,73,73,Race,True,True,True,0,0
+73,73,73,Hispanic or Latine ethnicity,True,True,True,0,0
+73,73,73,Usable household vehicles,True,True,True,0,0
+73,73,73,Vehicles per capita,True,True,True,0,0
+73,73,73,Trip frequency,True,True,True,0,0
+73,73,73,Trip purpose,True,True,True,0,0
+73,73,73,Access to first MBTA service,True,True,True,0,0
+73,73,73,Age,True,True,True,0,0
+73,73,73,Employment/student status,False,False,False,0,0
+73,73,73,Gender,True,True,True,0,0
+73,73,73,Fare product,True,True,True,0,0
+73,73,73,Alternative mode use,True,True,True,0,0
+73,73,73,Alternative modes,True,True,True,0,0
+73,73,73,English comprehension,True,True,True,0,0
+73,73,73,Valid driver's license,True,False,False,0,0
+73,73,73,Previous transit mode,True,False,False,0,0
+73,73,73,Monthly pass type,True,False,False,0,0
+73,73,73,Pay-per-ride type,True,False,False,0,0
+73,73,73,Title VI minority status,True,True,True,0,0
+73,73,73,Smartphone availability,False,True,False,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Household income,True,True,True,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Low-income status,True,True,True,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Race,True,True,True,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Hispanic or Latine ethnicity,True,True,True,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Usable household vehicles,True,True,True,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Vehicles per capita,True,True,True,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Trip frequency,True,True,True,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Trip purpose,True,True,True,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Access to first MBTA service,True,True,True,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Age,True,True,True,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Employment/student status,False,False,False,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Gender,True,True,True,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Fare product,True,True,True,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Alternative mode use,True,True,True,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Alternative modes,True,True,True,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",English comprehension,True,True,True,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Valid driver's license,True,False,False,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Previous transit mode,True,False,False,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Monthly pass type,True,False,False,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Pay-per-ride type,True,False,False,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Title VI minority status,True,True,True,0,0
+8 & 55 & CT3,8 | 55 | CT3,"8, 55 & CT3",Smartphone availability,False,True,False,0,0
+86,86,86,Household income,True,True,True,0,0
+86,86,86,Low-income status,True,True,True,0,0
+86,86,86,Race,True,True,True,0,0
+86,86,86,Hispanic or Latine ethnicity,True,True,True,0,0
+86,86,86,Usable household vehicles,True,True,True,0,0
+86,86,86,Vehicles per capita,True,True,True,0,0
+86,86,86,Trip frequency,True,True,True,0,0
+86,86,86,Trip purpose,True,True,True,0,0
+86,86,86,Access to first MBTA service,True,True,True,0,0
+86,86,86,Age,True,True,True,0,0
+86,86,86,Employment/student status,False,False,False,0,0
+86,86,86,Gender,True,True,True,0,0
+86,86,86,Fare product,True,True,True,0,0
+86,86,86,Alternative mode use,True,True,True,0,0
+86,86,86,Alternative modes,True,True,True,0,0
+86,86,86,English comprehension,True,True,True,0,0
+86,86,86,Valid driver's license,True,False,False,0,0
+86,86,86,Previous transit mode,True,False,False,0,0
+86,86,86,Monthly pass type,True,False,False,0,0
+86,86,86,Pay-per-ride type,True,False,False,0,0
+86,86,86,Title VI minority status,True,True,True,0,0
+86,86,86,Smartphone availability,False,True,False,0,0
+9,9,9,Household income,True,True,True,0,0
+9,9,9,Low-income status,True,True,True,0,0
+9,9,9,Race,True,True,True,0,0
+9,9,9,Hispanic or Latine ethnicity,True,True,True,0,0
+9,9,9,Usable household vehicles,True,True,True,0,0
+9,9,9,Vehicles per capita,True,True,True,0,0
+9,9,9,Trip frequency,True,True,True,0,0
+9,9,9,Trip purpose,True,True,True,0,0
+9,9,9,Access to first MBTA service,True,True,True,0,0
+9,9,9,Age,True,True,True,0,0
+9,9,9,Employment/student status,False,False,False,0,0
+9,9,9,Gender,True,True,True,0,0
+9,9,9,Fare product,True,True,True,0,0
+9,9,9,Alternative mode use,True,True,True,0,0
+9,9,9,Alternative modes,True,True,True,0,0
+9,9,9,English comprehension,True,True,True,0,0
+9,9,9,Valid driver's license,True,False,False,0,0
+9,9,9,Previous transit mode,True,False,False,0,0
+9,9,9,Monthly pass type,True,False,False,0,0
+9,9,9,Pay-per-ride type,True,False,False,0,0
+9,9,9,Title VI minority status,True,True,True,0,0
+9,9,9,Smartphone availability,False,True,False,0,0

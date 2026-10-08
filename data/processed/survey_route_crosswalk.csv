@@ -1,0 +1,156 @@
+route,route_members,reporting_group_2015_17,reporting_group_2025,match_status,route_aggregation_applied,focal_route,fare_free_route
+1,1,1,1,exact individual-route match,none,0,0
+10,10,,10,not comparable,none,0,0
+104,104,104,104,exact individual-route match,none,0,0
+11,11,11,11,exact individual-route match,none,0,0
+111,111,111,111,exact individual-route match,none,0,0
+114 & 116 & 117,114;116;117,"114, 116, and 117","114, 116, & 117",grouped-route match,none,0,0
+15,15,15,15,exact individual-route match,none,0,0
+16,16,16,16,exact individual-route match,none,0,0
+21,21,21,21,exact individual-route match,none,0,0
+22,22,,22,not comparable,none,1,0
+23,23,23,23,exact individual-route match,none,1,1
+28 & 29,28;29,,28 & 29,not comparable,none,1,1
+32,32,32,32,exact individual-route match,none,0,0
+34 & 34E,34;34E,34/34E,34 & 34E,grouped-route match,none,0,0
+39,39,39,39,exact individual-route match,none,0,0
+4 & 7,4;7,4 | 7,4 & 7,grouped-route match,sum complete 2015-17 individual-route records to 2025 group,0,0
+43 & SL5,43;SL5,,43 & SL5,not comparable,none,0,0
+47,47,47,47,exact individual-route match,none,0,0
+57,57,57,57,exact individual-route match,none,0,0
+61 & 70,61;70,,61 & 70,not comparable,none,0,0
+66,66,66,66,exact individual-route match,none,0,0
+67 & 77,67;77,67 | 77,67 & 77,grouped-route match,sum complete 2015-17 individual-route records to 2025 group,0,0
+71,71,71,71,exact individual-route match,none,0,0
+73,73,73,73,exact individual-route match,none,0,0
+8 & 55 & CT3,8;55;CT3,8 | 55 | CT3,"8, 55 & CT3",grouped-route match,sum complete 2015-17 individual-route records to 2025 group,0,0
+86,86,86,86,exact individual-route match,none,0,0
+9,9,9,9,exact individual-route match,none,0,0
+SL4,SL4,,SL4,not comparable,none,0,0
+14,14,14,,not comparable,none,0,0
+17,17,17,,not comparable,none,0,0
+18,18,18,,not comparable,none,0,0
+19,19,19,,not comparable,none,0,0
+26,26,26,,not comparable,none,0,0
+27,27,27,,not comparable,none,0,0
+28,28,28,,not comparable,none,1,1
+30,30,30,,not comparable,none,0,0
+31,31,31,,not comparable,none,0,0
+35,35,35,,not comparable,none,0,0
+36,36,36,,not comparable,none,0,0
+37,37,37,,not comparable,none,0,0
+38,38,38,,not comparable,none,0,0
+41,41,41,,not comparable,none,0,0
+43,43,43,,not comparable,none,0,0
+45,45,45,,not comparable,none,0,0
+51,51,51,,not comparable,none,0,0
+52,52,52,,not comparable,none,0,0
+59,59,59,,not comparable,none,0,0
+60,60,60,,not comparable,none,0,0
+62,62,62,,not comparable,none,0,0
+64,64,64,,not comparable,none,0,0
+65,65,65,,not comparable,none,0,0
+68,68,68,,not comparable,none,0,0
+69,69,69,,not comparable,none,0,0
+72,72,72,,not comparable,none,0,0
+74,74,74,,not comparable,none,0,0
+75,75,75,,not comparable,none,0,0
+76,76,76,,not comparable,none,0,0
+78,78,78,,not comparable,none,0,0
+79,79,79,,not comparable,none,0,0
+80,80,80,,not comparable,none,0,0
+83,83,83,,not comparable,none,0,0
+84,84,84,,not comparable,none,0,0
+85,85,85,,not comparable,none,0,0
+87,87,87,,not comparable,none,0,0
+89,89,89,,not comparable,none,0,0
+91,91,91,,not comparable,none,0,0
+94,94,94,,not comparable,none,0,0
+95,95,95,,not comparable,none,0,0
+96,96,96,,not comparable,none,0,0
+97,97,97,,not comparable,none,0,0
+99,99,99,,not comparable,none,0,0
+100,100,100,,not comparable,none,0,0
+101,101,101,,not comparable,none,0,0
+105,105,105,,not comparable,none,0,0
+106,106,106,,not comparable,none,0,0
+108,108,108,,not comparable,none,0,0
+109,109,109,,not comparable,none,0,0
+110,110,110,,not comparable,none,0,0
+112,112,112,,not comparable,none,0,0
+119,119,119,,not comparable,none,0,0
+131,131,131,,not comparable,none,0,0
+132,132,132,,not comparable,none,0,0
+134,134,134,,not comparable,none,0,0
+136,136,136,,not comparable,none,0,0
+137,137,137,,not comparable,none,0,0
+170,170,170,,not comparable,none,0,0
+211,211,211,,not comparable,none,0,0
+215,215,215,,not comparable,none,0,0
+222,222,222,,not comparable,none,0,0
+225,225,225,,not comparable,none,0,0
+230,230,230,,not comparable,none,0,0
+240,240,240,,not comparable,none,0,0
+325,325,325,,not comparable,none,0,0
+326,326,326,,not comparable,none,0,0
+350,350,350,,not comparable,none,0,0
+351,351,351,,not comparable,none,0,0
+352,352,352,,not comparable,none,0,0
+354,354,354,,not comparable,none,0,0
+429,429,429,,not comparable,none,0,0
+439,439,439,,not comparable,none,0,0
+441,441,441,,not comparable,none,0,0
+442,442,442,,not comparable,none,0,0
+501,501,501,,not comparable,none,0,0
+502,502,502,,not comparable,none,0,0
+503,503,503,,not comparable,none,0,0
+504,504,504,,not comparable,none,0,0
+505,505,505,,not comparable,none,0,0
+553,553,553,,not comparable,none,0,0
+554,554,554,,not comparable,none,0,0
+556,556,556,,not comparable,none,0,0
+558,558,558,,not comparable,none,0,0
+710,710,710,,not comparable,none,0,0
+714,714,714,,not comparable,none,0,0
+716,716,716,,not comparable,none,0,0
+120 & 121,120;121,120 and 121,,not comparable,none,0,0
+201 & 202,201;202,201 and 202,,not comparable,none,0,0
+210 & 212,210;212,210 and 212,,not comparable,none,0,0
+214 & 216,214;216,214 and 216,,not comparable,none,0,0
+217 & 245,217;245,217 and 245,,not comparable,none,0,0
+22 & 29,22;29,22 and 29,,not comparable,none,1,1
+220 & 221,220;221,220 and 221,,not comparable,none,0,0
+236 & 238,236;238,236 and 238,,not comparable,none,0,0
+24 & 33,24;33,24 and 33,,not comparable,none,0,0
+40 & 50,40;50,40 and 50,,not comparable,none,0,0
+411 & 430,411;430,411 and 430,,not comparable,none,0,0
+42 & 44,42;44,42 and 44,,not comparable,none,0,0
+424 & 424W & 450 & 456,424;424W;450;456,"424/424W, 450, and 456",,not comparable,none,0,0
+426 & 426W & 428,426;426W;428,426/426W and 428,,not comparable,none,0,0
+434 & 435 & 436,434;435;436,"434, 435, and 436",,not comparable,none,0,0
+448 & 449,448;449,448 and 449,,not comparable,none,0,0
+451 & 465,451;465,451 and 465,,not comparable,none,0,0
+455 & 459,455;459,455 and 459,,not comparable,none,0,0
+5 & 10,5;10,5 and 10,,not comparable,none,0,0
+70 & 70A,70;70A,70/70A,,not comparable,none,0,0
+712 & 713,712;713,712 and 713,,not comparable,none,0,0
+88 & 90,88;90,88 and 90,,not comparable,none,0,0
+92 & 93,92;93,92 and 93,,not comparable,none,0,0
+CT1,CT1,CT1,,not comparable,none,0,0
+CT2,CT2,CT2,,not comparable,none,0,0
+,,,Brighton/Allston/Watertown - Boston,not comparable,non-route reporting group,0,0
+,,,Cambridge/Arlington - Alewife,not comparable,non-route reporting group,0,0
+,,,Brighton/Allston/Watertown - Other Suburb,not comparable,non-route reporting group,0,0
+,,,Cambridge/Arlington - Harvard,not comparable,non-route reporting group,0,0
+,,,Chelsea/East Boston/Lynn/Revere - North Shore,not comparable,non-route reporting group,0,0
+,,,Jamaica Plain/Roslindale/Hyde Park,not comparable,non-route reporting group,0,0
+,,,Chelsea/East Boston/Lynn/Revere - Core,not comparable,non-route reporting group,0,0
+,,,Malden/Everett - North,not comparable,non-route reporting group,0,0
+,,,Malden/Everett - South,not comparable,non-route reporting group,0,0
+,,,Quincy - East,not comparable,non-route reporting group,0,0
+,,,Quincy - West,not comparable,non-route reporting group,0,0
+,,,Roxbury/Dorchester/Mattapan/South End - East,not comparable,non-route reporting group,0,0
+,,,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,not comparable,non-route reporting group,0,0
+,,,Roxbury/Dorchester/Mattapan/South End - West,not comparable,non-route reporting group,0,0
+,,,Somerville/Medford/Charlestown - East,not comparable,non-route reporting group,0,0
+,,,Somerville/Medford/Charlestown - West,not comparable,non-route reporting group,0,0

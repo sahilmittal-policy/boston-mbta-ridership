@@ -1,0 +1,196 @@
+characteristic,survey_period,measure_group,measure,category_original,source_field,category_harmonized,comparability_status,aggregation_applied
+Household income,2015-2017,Income,Household Income,"Less than $14,500",household_income_less_than_14_500,,not_comparable,none
+Household income,2015-2017,Income,Household Income,"$14,500 to $28,999",household_income_14_500_to_28_999,,not_comparable,none
+Household income,2015-2017,Income,Household Income,"$29,000 to $43,499",household_income_29_000_to_43_499,,not_comparable,none
+Household income,2015-2017,Income,Household Income,"$43,500 to $57,999",household_income_43_500_to_57_999,,not_comparable,none
+Household income,2015-2017,Income,Household Income,"$58,000 to $75,999",household_income_58_000_to_75_999,,not_comparable,none
+Household income,2015-2017,Income,Household Income,"$76,000 to $108,499",household_income_76_000_to_108_499,,not_comparable,none
+Household income,2015-2017,Income,Household Income,"$108,500 to $151,999",household_income_108_500_to_151_999,,not_comparable,none
+Household income,2015-2017,Income,Household Income,"$152,000 or more",household_income_152_000_or_more,,not_comparable,none
+Household income,2015-2017,Income,Household Income,Prefer not to say,household_income_prefer_not_to_say,,not_comparable,none
+Household income,2025,Income,Household Income,Less than 40% of Area Median Income,category,,not_comparable,none
+Household income,2025,Income,Household Income,30% to 60% of Area Median Income,category,,not_comparable,none
+Household income,2025,Income,Household Income,60% to 80% of Area Median Income,category,,not_comparable,none
+Household income,2025,Income,Household Income,80% to 100% of Area Median Income,category,,not_comparable,none
+Household income,2025,Income,Household Income,100% to 140%  of Area Median Income,category,,not_comparable,none
+Household income,2025,Income,Household Income,130% to 200% of Area Median Income,category,,not_comparable,none
+Household income,2025,Income,Household Income,200% or more of Area Median Income,category,,not_comparable,none
+Household income,2025,Income,Household Income,Prefer not to say,category,,not_comparable,none
+Household income,2025,Income,Household Income,Did not answer,category,,not_comparable,none
+Low-income status,2015-2017,Income,Title VI Low-Income,Yes,low_income_classification_yes,,not_comparable,none
+Low-income status,2015-2017,Income,Title VI Low-Income,No,low_income_classification_no,,not_comparable,none
+Low-income status,2025,Income,Title VI Low-Income,Yes,category,,not_comparable,none
+Low-income status,2025,Income,Title VI Low-Income,No,category,,not_comparable,none
+Low-income status,2025,Income,Title VI Low-Income,Did not answer,category,,not_comparable,none
+Race,2015-2017,Race and Ethnicity,Race,American Indian or Alaska Native,race_american_indian_or_alaska_native,American Indian or Alaska Native,directly_comparable,none
+Race,2015-2017,Race and Ethnicity,Race,Asian,race_asian,Asian,directly_comparable,none
+Race,2015-2017,Race and Ethnicity,Race,Black or African American,race_black_or_african_american,Black or African American,directly_comparable,none
+Race,2015-2017,Race and Ethnicity,Race,Native Hawaiian or other Pacific Islander,race_native_hawaiian_or_other_pacific_islander,Native Hawaiian or other Pacific Islander,directly_comparable,none
+Race,2015-2017,Race and Ethnicity,Race,White,race_white,White,directly_comparable,none
+Race,2015-2017,Race and Ethnicity,Race,Other,race_other,,not_comparable,none
+Race,2015-2017,Race and Ethnicity,Race,Prefer not to say,race_prefer_not_to_say,Prefer not to say,directly_comparable,none
+Race,2025,Race and Ethnicity,Race,Middle Eastern or North African,category,,not_comparable,none
+Race,2025,Race and Ethnicity,Race,Native Hawaiian or other Pacific Islander,category,Native Hawaiian or other Pacific Islander,directly_comparable,none
+Race,2025,Race and Ethnicity,Race,White,category,White,directly_comparable,none
+Race,2025,Race and Ethnicity,Race,Other,category,,not_comparable,none
+Race,2025,Race and Ethnicity,Race,Prefer not to say,category,Prefer not to say,directly_comparable,none
+Race,2025,Race and Ethnicity,Race,Did not answer,category,,not_comparable,none
+Race,2025,Race and Ethnicity,Race,American Indian or Alaska Native,category,American Indian or Alaska Native,directly_comparable,none
+Race,2025,Race and Ethnicity,Race,Asian,category,Asian,directly_comparable,none
+Race,2025,Race and Ethnicity,Race,Black or African American,category,Black or African American,directly_comparable,none
+Hispanic or Latine ethnicity,2015-2017,Race and Ethnicity,Hispanic or Latine,Yes,hispanic_or_latino_latina_yes,Yes,directly_comparable,none
+Hispanic or Latine ethnicity,2015-2017,Race and Ethnicity,Hispanic or Latine,No,hispanic_or_latino_latina_no,No,directly_comparable,none
+Hispanic or Latine ethnicity,2015-2017,Race and Ethnicity,Hispanic or Latine,Prefer not to say,hispanic_or_latino_latina_prefer_not_to_say,Prefer not to say,directly_comparable,none
+Hispanic or Latine ethnicity,2025,Race and Ethnicity,Hispanic or Latine,Yes,category,Yes,directly_comparable,none
+Hispanic or Latine ethnicity,2025,Race and Ethnicity,Hispanic or Latine,No,category,No,directly_comparable,none
+Hispanic or Latine ethnicity,2025,Race and Ethnicity,Hispanic or Latine,Prefer not to say,category,Prefer not to say,directly_comparable,none
+Hispanic or Latine ethnicity,2025,Race and Ethnicity,Hispanic or Latine,Did not answer,category,,not_comparable,none
+Usable household vehicles,2015-2017,Vehicles,Usable Cars,0,usable_household_vehicles_0,0,directly_comparable,none
+Usable household vehicles,2015-2017,Vehicles,Usable Cars,1,usable_household_vehicles_1,1,directly_comparable,none
+Usable household vehicles,2015-2017,Vehicles,Usable Cars,2,usable_household_vehicles_2,2,directly_comparable,none
+Usable household vehicles,2015-2017,Vehicles,Usable Cars,3 or more,usable_household_vehicles_3_or_more,3 or more,directly_comparable,none
+Usable household vehicles,2025,Vehicles,Usable Cars,0,category,0,directly_comparable,none
+Usable household vehicles,2025,Vehicles,Usable Cars,1,category,1,directly_comparable,none
+Usable household vehicles,2025,Vehicles,Usable Cars,2,category,2,directly_comparable,none
+Usable household vehicles,2025,Vehicles,Usable Cars,3 or more,category,3 or more,directly_comparable,none
+Usable household vehicles,2025,Vehicles,Usable Cars,Did not answer,category,,not_comparable,none
+Vehicles per capita,2015-2017,Vehicles,Cars per Capita,0,vehicles_per_capita_none,,not_comparable,none
+Vehicles per capita,2015-2017,Vehicles,Cars per Capita,Strictly between 0 and 0.5,vehicles_per_capita_0_01_0_49,,not_comparable,none
+Vehicles per capita,2015-2017,Vehicles,Cars per Capita,0.5 to less than 1,vehicles_per_capita_0_50_0_99,,not_comparable,none
+Vehicles per capita,2015-2017,Vehicles,Cars per Capita,1 or more,vehicles_per_capita_1_00_1_49,,not_comparable,none
+Vehicles per capita,2015-2017,Vehicles,Cars per Capita,1 or more,vehicles_per_capita_1_50_1_99,,not_comparable,none
+Vehicles per capita,2015-2017,Vehicles,Cars per Capita,1 or more,vehicles_per_capita_2_or_more,,not_comparable,none
+Vehicles per capita,2025,Vehicles,Cars per Capita,0,category,0,directly_comparable,none
+Vehicles per capita,2025,Vehicles,Cars per Capita,Strictly between 0 and 0.5,category,Strictly between 0 and 0.5,directly_comparable,none
+Vehicles per capita,2025,Vehicles,Cars per Capita,0.5,category,0.5 to less than 1,comparable_after_aggregation,sum 2025 0.5 and strictly-between-0.5-and-1 categories
+Vehicles per capita,2025,Vehicles,Cars per Capita,Strictly between 0.5 and 1,category,0.5 to less than 1,comparable_after_aggregation,sum 2025 0.5 and strictly-between-0.5-and-1 categories
+Vehicles per capita,2025,Vehicles,Cars per Capita,1 or more,category,1 or more,comparable_after_aggregation,matches the sum of three old categories
+Vehicles per capita,2025,Vehicles,Cars per Capita,Other,category,,not_comparable,none
+Vehicles per capita,2025,Vehicles,Cars per Capita,Did not answer,category,,not_comparable,none
+Trip frequency,2015-2017,Trip Purpose and Frequency,Frequency,6 to 7 days per week,trip_frequency_6_7_days_a_week,6 to 7 days per week,directly_comparable,none
+Trip frequency,2015-2017,Trip Purpose and Frequency,Frequency,5 days per week,trip_frequency_5_days_a_week,5 days per week,directly_comparable,none
+Trip frequency,2015-2017,Trip Purpose and Frequency,Frequency,3 to 4 days per week,trip_frequency_3_4_days_a_week,3 to 4 days per week,directly_comparable,none
+Trip frequency,2015-2017,Trip Purpose and Frequency,Frequency,1 to 2 days per week,trip_frequency_1_2_days_a_week,1 to 2 days per week,directly_comparable,none
+Trip frequency,2015-2017,Trip Purpose and Frequency,Frequency,1 to 3 days per month,trip_frequency_1_3_days_a_month,1 to 3 days per month,directly_comparable,none
+Trip frequency,2015-2017,Trip Purpose and Frequency,Frequency,Less than once per month,trip_frequency_less_than_once_a_month,Less than once per month,directly_comparable,none
+Trip frequency,2025,Trip Purpose and Frequency,Frequency,6 to 7 days per week,category,6 to 7 days per week,directly_comparable,none
+Trip frequency,2025,Trip Purpose and Frequency,Frequency,5 days per week,category,5 days per week,directly_comparable,none
+Trip frequency,2025,Trip Purpose and Frequency,Frequency,3 to 4 days per week,category,3 to 4 days per week,directly_comparable,none
+Trip frequency,2025,Trip Purpose and Frequency,Frequency,1 to 2 days per week,category,1 to 2 days per week,directly_comparable,none
+Trip frequency,2025,Trip Purpose and Frequency,Frequency,1 to 3 days per month,category,1 to 3 days per month,directly_comparable,none
+Trip frequency,2025,Trip Purpose and Frequency,Frequency,Less than once per month,category,Less than once per month,directly_comparable,none
+Trip frequency,2025,Trip Purpose and Frequency,Frequency,Did not answer,category,,not_comparable,none
+Trip purpose,2015-2017,Trip Purpose and Frequency,Trip Purpose,Home-based Work,trip_purpose_home_based_work,Home-based Work,directly_comparable,none
+Trip purpose,2015-2017,Trip Purpose and Frequency,Trip Purpose,Home-based School,trip_purpose_home_based_school,Home-based School,directly_comparable,none
+Trip purpose,2015-2017,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,trip_purpose_home_based_social_activity,Home-based Social Activity,directly_comparable,none
+Trip purpose,2015-2017,Trip Purpose and Frequency,Trip Purpose,Home-based Other,trip_purpose_home_based_other,Home-based Other,directly_comparable,none
+Trip purpose,2015-2017,Trip Purpose and Frequency,Trip Purpose,Non-home Based,trip_purpose_non_home_based,Non-home Based,directly_comparable,none
+Trip purpose,2025,Trip Purpose and Frequency,Trip Purpose,Home-based Work,category,Home-based Work,directly_comparable,none
+Trip purpose,2025,Trip Purpose and Frequency,Trip Purpose,Home-based School,category,Home-based School,directly_comparable,none
+Trip purpose,2025,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,category,Home-based Social Activity,directly_comparable,none
+Trip purpose,2025,Trip Purpose and Frequency,Trip Purpose,Home-based Other,category,Home-based Other,directly_comparable,none
+Trip purpose,2025,Trip Purpose and Frequency,Trip Purpose,Non-home Based,category,Non-home Based,directly_comparable,none
+Trip purpose,2025,Trip Purpose and Frequency,Trip Purpose,Did not answer,category,,not_comparable,none
+Access to first MBTA service,2015-2017,Access Mode,Access to First MBTA Service,Walked or bicycled,access_to_first_mbta_service_walked_or_bicycled,,not_comparable,none
+Access to first MBTA service,2015-2017,Access Mode,Access to First MBTA Service,Drove Alone,access_to_first_mbta_service_drove_alone,Drove Alone,directly_comparable,none
+Access to first MBTA service,2015-2017,Access Mode,Access to First MBTA Service,Carpooled,access_to_first_mbta_service_carpooled,Carpooled or Dropped off by Personal Vehicle,comparable_after_aggregation,sum old carpool and personal-vehicle drop-off categories
+Access to first MBTA service,2015-2017,Access Mode,Access to First MBTA Service,Dropped off by personal vehicle,access_to_first_mbta_service_dropped_off_by_personal_vehicle,Carpooled or Dropped off by Personal Vehicle,comparable_after_aggregation,sum old carpool and personal-vehicle drop-off categories
+Access to first MBTA service,2015-2017,Access Mode,Access to First MBTA Service,Dropped off by other vehicle,access_to_first_mbta_service_dropped_off_by_other_vehicle,,not_comparable,none
+Access to first MBTA service,2025,Access Mode,Access to First MBTA Service,Walked,category,,not_comparable,none
+Access to first MBTA service,2025,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,category,Carpooled or Dropped off by Personal Vehicle,comparable_after_aggregation,matches the sum of two old categories
+Access to first MBTA service,2025,Access Mode,Access to First MBTA Service,Drove Alone,category,Drove Alone,directly_comparable,none
+Access to first MBTA service,2025,Access Mode,Access to First MBTA Service,Private Shuttle or Other Transit,category,,not_comparable,none
+Access to first MBTA service,2025,Access Mode,Access to First MBTA Service,Taxi or Rideshare Company,category,,not_comparable,none
+Access to first MBTA service,2025,Access Mode,Access to First MBTA Service,"Bike, Scooter or Other Micromobility",category,,not_comparable,none
+Access to first MBTA service,2025,Access Mode,Access to First MBTA Service,The RIDE,category,,not_comparable,none
+Access to first MBTA service,2025,Access Mode,Access to First MBTA Service,Did not answer,category,,not_comparable,none
+Age,2015-2017,Other Demographics,Age,Under 18,age_under_18,Under 18,directly_comparable,none
+Age,2015-2017,Other Demographics,Age,18 to 21,age_18_to_21,,not_comparable,none
+Age,2015-2017,Other Demographics,Age,22 to 34,age_22_to_34,,not_comparable,none
+Age,2015-2017,Other Demographics,Age,35 to 44,age_35_to_44,35 to 44,directly_comparable,none
+Age,2015-2017,Other Demographics,Age,45 to 64,age_45_to_64,45 to 64,directly_comparable,none
+Age,2015-2017,Other Demographics,Age,65 or older,age_65_or_over,65 or older,directly_comparable,none
+Age,2025,Other Demographics,Age,Under 18,category,Under 18,directly_comparable,none
+Age,2025,Other Demographics,Age,18 to 25,category,,not_comparable,none
+Age,2025,Other Demographics,Age,26 to 34,category,,not_comparable,none
+Age,2025,Other Demographics,Age,35 to 44,category,35 to 44,directly_comparable,none
+Age,2025,Other Demographics,Age,45 to 64,category,45 to 64,directly_comparable,none
+Age,2025,Other Demographics,Age,65 or older,category,65 or older,directly_comparable,none
+Age,2025,Other Demographics,Age,Did not answer,category,,not_comparable,none
+Employment/student status,both,,,not available,,,not_comparable,not present in either available source export
+Gender,2015-2017,Other Demographics,Gender,Male,gender_man,Male,directly_comparable,none
+Gender,2015-2017,Other Demographics,Gender,Female,gender_woman,Female,directly_comparable,none
+Gender,2015-2017,Other Demographics,Gender,Other,gender_other,,not_comparable,none
+Gender,2015-2017,Other Demographics,Gender,Prefer not to say,gender_prefer_not_to_say,Prefer not to say,directly_comparable,none
+Gender,2025,Other Demographics,Gender,Female,category,Female,directly_comparable,none
+Gender,2025,Other Demographics,Gender,Male,category,Male,directly_comparable,none
+Gender,2025,Other Demographics,Gender,Non-Binary,category,,not_comparable,none
+Gender,2025,Other Demographics,Gender,Did not answer,category,,not_comparable,none
+Gender,2025,Other Demographics,Gender,Other,category,,not_comparable,none
+Gender,2025,Other Demographics,Gender,Prefer not to say,category,Prefer not to say,directly_comparable,none
+Fare product,2015-2017,Fares,Fare Product,Monthly Pass,fare_monthly_pass,Monthly Pass,directly_comparable,none
+Fare product,2015-2017,Fares,Fare Product,Pay-as-you-go,fare_pay_per_ride,,not_comparable,none
+Fare product,2015-2017,Fares,Fare Product,1-day or 7-day Pass,fare_1_day_or_7_day_linkpass,,not_comparable,none
+Fare product,2015-2017,Fares,Fare Product,Other,fare_other,,not_comparable,none
+Fare product,2025,Fares,Fare Product,Monthly Pass,category,Monthly Pass,directly_comparable,none
+Fare product,2025,Fares,Fare Product,Pay-as-you-go,category,Pay-as-you-go,directly_comparable,none
+Fare product,2025,Fares,Fare Product,7-day Pass,category,1-day or 7-day Pass,comparable_after_aggregation,sum 2025 1-day and 7-day passes
+Fare product,2025,Fares,Fare Product,Student Pass (M7),category,,not_comparable,none
+Fare product,2025,Fares,Fare Product,Semester Pass,category,,not_comparable,none
+Fare product,2025,Fares,Fare Product,1-day Pass,category,1-day or 7-day Pass,comparable_after_aggregation,sum 2025 1-day and 7-day passes
+Fare product,2025,Fares,Fare Product,Other,category,,not_comparable,none
+Fare product,2025,Fares,Fare Product,Did not answer,category,,not_comparable,none
+Alternative mode use,2015-2017,Alternative Modes,Used Alternative Mode,Yes,use_alternative_modes_yes,Yes,directly_comparable,none
+Alternative mode use,2015-2017,Alternative Modes,Used Alternative Mode,No,use_alternative_modes_no,No,directly_comparable,none
+Alternative mode use,2025,Alternative Modes,Used Alternative Mode,No,category,No,directly_comparable,none
+Alternative mode use,2025,Alternative Modes,Used Alternative Mode,Yes,category,Yes,directly_comparable,none
+Alternative mode use,2025,Alternative Modes,Used Alternative Mode,Did not answer,category,,not_comparable,none
+Alternative modes,2015-2017,Alternative Modes,Alternative Mode,Walk,alternative_modes_walk,Walk,directly_comparable,none
+Alternative modes,2015-2017,Alternative Modes,Alternative Mode,Bicycle,alternative_modes_bicycle,,not_comparable,none
+Alternative modes,2015-2017,Alternative Modes,Alternative Mode,Drive Alone,alternative_modes_drive_alone,Drive Alone,directly_comparable,none
+Alternative modes,2015-2017,Alternative Modes,Alternative Mode,Drive or Ride in a Carpool,alternative_modes_drive_or_ride_in_a_carpool,Drive or Ride in a Carpool,directly_comparable,none
+Alternative modes,2015-2017,Alternative Modes,Alternative Mode,Taxi or Rideshare Company,alternative_modes_take_a_taxi_or_use_a_rideshare_company,Taxi or Rideshare Company,directly_comparable,none
+Alternative modes,2015-2017,Alternative Modes,Alternative Mode,Private Shuttle or Other Transit,alternative_modes_take_a_private_shuttle_or_other_transit,Private Shuttle or Other Transit,directly_comparable,none
+Alternative modes,2015-2017,Alternative Modes,Alternative Mode,Different MBTA Service,alternative_modes_take_a_different_mbta_service,Different MBTA Service,directly_comparable,none
+Alternative modes,2015-2017,Alternative Modes,Alternative Mode,Other,alternative_modes_other,Other,directly_comparable,none
+Alternative modes,2025,Alternative Modes,Alternative Mode,Different MBTA Service,category,Different MBTA Service,directly_comparable,none
+Alternative modes,2025,Alternative Modes,Alternative Mode,Drive Alone,category,Drive Alone,directly_comparable,none
+Alternative modes,2025,Alternative Modes,Alternative Mode,Taxi or Rideshare Company,category,Taxi or Rideshare Company,directly_comparable,none
+Alternative modes,2025,Alternative Modes,Alternative Mode,Walk,category,Walk,directly_comparable,none
+Alternative modes,2025,Alternative Modes,Alternative Mode,Drive or Ride in a Carpool,category,Drive or Ride in a Carpool,directly_comparable,none
+Alternative modes,2025,Alternative Modes,Alternative Mode,"Bike, Scooter, or Other Micromobility",category,,not_comparable,none
+Alternative modes,2025,Alternative Modes,Alternative Mode,Private Shuttle or Other Transit,category,Private Shuttle or Other Transit,directly_comparable,none
+Alternative modes,2025,Alternative Modes,Alternative Mode,Other,category,Other,directly_comparable,none
+English comprehension,2015-2017,Other Demographics,Ability to Understand English,Always,ability_to_understand_english_always,Always,directly_comparable,none
+English comprehension,2015-2017,Other Demographics,Ability to Understand English,Often,ability_to_understand_english_often,Often,directly_comparable,none
+English comprehension,2015-2017,Other Demographics,Ability to Understand English,Sometimes,ability_to_understand_english_sometimes,Sometimes,directly_comparable,none
+English comprehension,2015-2017,Other Demographics,Ability to Understand English,Never,ability_to_understand_english_never,Never,directly_comparable,none
+English comprehension,2015-2017,Other Demographics,Ability to Understand English,Prefer not to say,ability_to_understand_english_prefer_not_to_say,Prefer not to say,directly_comparable,none
+English comprehension,2025,Other Demographics,Ability to Understand English,Always,category,Always,directly_comparable,none
+English comprehension,2025,Other Demographics,Ability to Understand English,Often,category,Often,directly_comparable,none
+English comprehension,2025,Other Demographics,Ability to Understand English,Sometimes,category,Sometimes,directly_comparable,none
+English comprehension,2025,Other Demographics,Ability to Understand English,Never,category,Never,directly_comparable,none
+English comprehension,2025,Other Demographics,Ability to Understand English,Did not answer,category,,not_comparable,none
+English comprehension,2025,Other Demographics,Ability to Understand English,Prefer not to say,category,Prefer not to say,directly_comparable,none
+Valid driver's license,2015-2017,,,Yes,valid_driver_s_license_yes,,not_comparable,none
+Valid driver's license,2015-2017,,,No,valid_driver_s_license_no,,not_comparable,none
+Previous transit mode,2015-2017,,,Bus or Silver Line,previous_transit_mode_bus_or_silver_line,,not_comparable,none
+Previous transit mode,2015-2017,,,Rail rapid transit,previous_transit_mode_rail_rapid_transit,,not_comparable,none
+Previous transit mode,2015-2017,,,Commuter rail or ferry,previous_transit_mode_commuter_rail_or_ferry,,not_comparable,none
+Monthly pass type,2015-2017,,,Reduced fare pass,monthly_pass_type_reduced_fare_pass,,not_comparable,none
+Monthly pass type,2015-2017,,,Local bus,monthly_pass_type_local_bus,,not_comparable,none
+Monthly pass type,2015-2017,,,LinkPass or express bus,monthly_pass_type_linkpass_or_express_bus,,not_comparable,none
+Monthly pass type,2015-2017,,,Commuter rail or ferry,monthly_pass_type_commuter_rail_or_ferry,,not_comparable,none
+Pay-per-ride type,2015-2017,,,Full cash fare on board,pay_per_ride_type_full_cash_fare_on_board,,not_comparable,none
+Pay-per-ride type,2015-2017,,,Reduced fare,pay_per_ride_type_reduced_fare,,not_comparable,none
+Pay-per-ride type,2015-2017,,,mTicket single/multi-ride,pay_per_ride_type_mticket_single_multi_ride,,not_comparable,none
+Pay-per-ride type,2015-2017,,,CharlieCard (plastic),pay_per_ride_type_charliecard_plastic,,not_comparable,none
+Pay-per-ride type,2015-2017,,,CharlieTicket (paper),pay_per_ride_type_charlieticket_paper,,not_comparable,none
+Title VI minority status,2015-2017,Race and Ethnicity,Title VI Minority,Yes,minority_classification_yes,,not_comparable,none
+Title VI minority status,2015-2017,Race and Ethnicity,Title VI Minority,No,minority_classification_no,,not_comparable,none
+Title VI minority status,2025,Race and Ethnicity,Title VI Minority,Yes,category,,not_comparable,none
+Title VI minority status,2025,Race and Ethnicity,Title VI Minority,No,category,,not_comparable,none
+Title VI minority status,2025,Race and Ethnicity,Title VI Minority,Did not answer,category,,not_comparable,none
+Smartphone availability,2025,Smartphones,Smartphone,Has smartphone,category,,not_comparable,none
+Smartphone availability,2025,Smartphones,Smartphone,Does not have smartphone,category,,not_comparable,none
+Smartphone availability,2025,Smartphones,Smartphone,Did not answer,category,,not_comparable,none
