@@ -1,0 +1,151 @@
+---
+title: "Free Fares, Fuller Buses"
+subtitle: "Ridership, service and riders on Boston's fare-free bus routes (23, 28 and 29)"
+author:
+  - Esha Gupta
+  - Sahil Mittal
+date: today
+date-format: "MMMM YYYY"
+abstract: |
+  <!-- TODO: write last, 4–5 sentences: question, data, method, main finding, implication. -->
+  Boston made Routes 23, 28 and 29 fare-free in 2021–2022. Using MBTA ridership, service and passenger-survey data with U.S. Census data, we compare these routes with Route 22, which serves the same neighbourhoods but kept its fare. After adjusting for service changes, all three fare-free routes held on to more riders than Route 22, and the result holds against the wider bus network.
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    embed-resources: true
+    fig-cap-location: bottom
+    theme: cosmo
+  pdf:
+    toc: true
+    number-sections: true
+    geometry: margin=1in
+    fig-pos: "H"
+bibliography: references.bib
+link-citations: true
+---
+
+
+# Introduction
+
+## Research question
+
+**Who rides Boston's fare-free bus routes, and how did ridership and service on these routes change over the years, compared with similar routes that kept regular fares?**
+
+## Why this question?
+
+For many city residents, public transit is the main way to reach jobs, school and health care, yet less than half the world's urban population has convenient access to it [@un_sdg_2020]. People without good transit face longer and less safe commutes [@worldbank_road_safety], higher costs, and exclusion from economic and social opportunities [@lse_transport]. Service that is frequent and reliable is what lets people depend on transit for daily needs [@itdp_2024].
+
+## Why Boston?
+
+Boston's rapid transit lines largely bypass Roxbury, Dorchester and Mattapan, which are lower-income neighbourhoods with mostly residents of colour, leaving them dependent on buses [@cook_thesis_2024]. Boston's fare-free bus program was designed to address this gap. Using federal pandemic relief funds, the City made Route 28 free as a pilot in August 2021, reimbursing the MBTA for each ride. After early results showed ridership gains and high rider satisfaction, the program expanded to Routes 23 and 29 in March 2022 [@boston_fare_free_program]. It has since been extended through December 31, 2026, with no decision yet on what comes next [@boston_extension_2026].
+
+We compare the fare-free routes (**23, 28, 29**) with **Route 22**, which serves similar neighbourhoods but still charges a fare.
+
+# Data
+
+<!-- TODO: add file sizes / row counts if the instructor wants them. -->
+
+- **Bus ridership** [@mbta_ridership]: average boardings at each stop, Fall 2016–2025, from automatic passenger counters. We use these counts because fare-free riders do not tap a fare card, so fare data cannot measure them.
+- **Bus arrival and departure times** [@mbta_arrival_departure]: every bus's scheduled and actual time at key stops, 2020–2025. We use it to count trips run (service).
+- **Passenger surveys** [@ctps_survey_2017; @mbta_survey_2025]: rider income, race, car access and trip purpose by route, before (2015–17) and during (2022–25) the program.
+- **American Community Survey** [@acs_5year]: income, poverty, race, car access, rent burden, commute times and unemployment for Boston's census tracts.
+- **Maps** [@tiger_tracts; @mbta_gtfs]: tract boundaries, stop locations and route paths.
+
+# Methods
+
+## Data cleaning
+
+<!-- TODO: keep this short; full detail lives in the notebooks. -->
+
+Each dataset was cleaned in its own notebook: column names were standardised across years, Census tracts were limited to the City of Boston, and missing-value codes were replaced. Ridership files from different years used different formats and were converted to one standard layout; 2025 weekday ridership combines Monday–Thursday and Friday as a weighted average. Service data was summarised to one row per route and month.
+
+## Comparison design
+
+We use a **difference-in-differences** comparison [@angrist_pischke_2009]: the change on the fare-free routes minus the change on comparison routes over the same period. This removes changes that affected every route, such as COVID and remote work. The main comparison is Route 22; we check the result against the 8 busiest other routes and all other routes.
+
+## Adjusting for service
+
+A route that loses buses loses riders whatever its fare, so we also measure ridership **relative to service** (riders per trip run):
+
+$$
+\text{Adjusted change} = \left(\frac{1 + \text{riders change}/100}{1 + \text{service change}/100} - 1\right) \times 100
+$$
+
+Riders are compared from Fall 2019 to Fall 2025; service from January–February 2020 to January–February 2025, because service data begins in 2020.
+
+# Findings
+
+## Who lives along the routes and who rides them
+
+<!-- TODO (Esha): maps A1–A4, survey charts (F), neighbourhood charts (G), scatter plots (H). Uncomment and rename once the figures are saved. -->
+
+<!-- ![Fare-free routes and Route 22 over median household income](figures/final/A1.png){#fig-a1} -->
+
+![Quarter-mile walking areas of the four routes over median household income](figures/final/A7.png){#fig-a7}
+
+<!-- TODO: one or two sentences on @fig-a7. -->
+
+## Ridership on the fare-free routes
+
+![Weekday riders on the fare-free routes and Route 22, Fall 2016–2025](figures/final/B1.png){#fig-b1}
+
+All four routes collapsed in 2020 (@fig-b1). Route 28 rebounded sharply in its first fare-free fall (2021), and Route 23 climbed back to its pre-COVID level after becoming free in 2022. Route 22, which kept its fare, is still below its 2019 ridership. Route 29 stayed low.
+
+![Change in weekday riders since Fall 2019](figures/final/B2.png){#fig-b2}
+
+Measured against its own 2019 level (@fig-b2), Route 23 is back above pre-COVID ridership (+1%), Route 28 is 7% below, and Route 22 is 9% below. Route 29 remains 41% below 2019.
+
+## Did ridership simply follow service?
+
+![Change in service vs. change in riders, before COVID to 2025](figures/final/B3.png){#fig-b3}
+
+Route 22 gained 2.9% more service but still lost 9.0% of its riders (@fig-b3). Route 23 lost 7.2% of its service yet gained riders, and Route 28 lost riders only in line with its service cut. Route 29's ridership fell (−40.9%) almost as far as its service (−35.8%): free fares could not offset deep service cuts.
+
+![Fare-free routes vs. Route 22, before and after adjusting for service](figures/final/B4.png){#fig-b4}
+
+Once ridership is measured relative to service (@fig-b4), all three fare-free routes outperformed Route 22: Route 23 by 20.4 percentage points, Route 28 by 11.4 and Route 29 by 3.6. Because ridership usually falls less than one-for-one with service, these adjusted gaps are an upper estimate; the true effect lies between the raw and adjusted values.
+
+![Change in riders per bus trip since Fall 2021](figures/final/B5.png){#fig-b5}
+
+Buses on the fare-free routes also filled up faster (@fig-b5): by 2025 they carried 28.8% more riders per trip than in 2021, compared with 19.0% on Route 22 (compound annual growth of 6.5% vs. 4.5%).
+
+## The fare-free routes in the wider network
+
+![Fare-free routes vs. the rest of the network, change since Fall 2019](figures/final/C1.png){#fig-c1}
+
+From 2019 to 2025, weekday ridership fell 6.3% on the fare-free routes, compared with 18.7% on the 8 busiest other routes and 22.8% on all other routes (@fig-c1).
+
+![Fare-free routes' share of all weekday bus riders](figures/final/C2.png){#fig-c2}
+
+The fare-free routes' share of all weekday bus riders rose from 6.8% in 2019 to 8.8% in 2022–2023 (@fig-c2). Much of that jump happened in 2020, before fares were removed, as riders on these routes kept riding through COVID; the rise after 2021 is the part more plausibly linked to free fares.
+
+![The fare-free advantage against every comparison group](figures/final/C3.png){#fig-c3}
+
+The result does not depend on choosing Route 22 (@fig-c3). After adjusting for service, the fare-free routes did 15.4 to 16.7 points better than every comparison group.
+
+![Riders beyond each route's share of service](figures/final/C4.png){#fig-c4}
+
+Route 23 carried more riders relative to its service after becoming fare-free, while Route 22's gap stayed flat (@fig-c4).
+
+# Limitations
+
+<!-- This pulls in the limitations log. Change the path if limitations.md lives somewhere else. -->
+
+{{< include limitations.md >}}
+
+# Conclusion
+
+<!-- TODO: 1–2 paragraphs. Answer the research question directly, then say what it means for the decision after December 2026. -->
+
+Free fares did not reverse the post-pandemic fall in bus ridership, but the fare-free routes held on to far more of their riders than comparable routes, especially once service cuts are taken into account. Route 29 shows the limit of the policy: free fares cannot make up for deep cuts in service.
+
+# Use of AI tools {.unnumbered}
+
+We used Claude, an AI assistant developed by Anthropic [@anthropic_claude], for support with Python code, debugging, chart design and editing text. All analysis decisions, interpretation and final writing are our own, and every result was checked against the data.
+
+# References {.unnumbered}
+
+::: {#refs}
+:::
