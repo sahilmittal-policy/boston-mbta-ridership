@@ -85,16 +85,9 @@ For example, Route 23's riders rose 1.0% while its service fell 7.2%: 1.010 ÷ 0
 
 ## Who lives along the routes and who rides them
 
-The three fare-free routes and Route 22 serve similar neighbourhoods (@tbl-neighbourhoods). Within a quarter mile of their stops, more than three-quarters of residents are people of colour, median household income is about \$51,000–\$57,000, around 4 in 10 households have no car, and more than half of renters are rent-burdened.
+The three fare-free routes and Route 22 serve similar neighbourhoods. Figure @fig-route-characteristics compares residents, median income, poverty, vehicle access, minority share, and rent burden in each route area across the two ACS periods. Route areas can overlap, so resident counts are not unique populations.
 
-| Route | Residents | Median income | Poverty | No car | Minority | Rent-burdened | Unemployment |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| 23 (free) | 58,015 | \$54,927 | 23.5% | 36.9% | 84.7% | 54.9% | 9.7% |
-| 28 (free) | 68,680 | \$50,708 | 27.2% | 41.4% | 82.1% | 56.5% | 11.1% |
-| 29 (free) | 44,247 | \$55,527 | 26.3% | 37.3% | 91.1% | 54.7% | 11.3% |
-| 22 (paid) | 72,759 | \$56,874 | 27.1% | 41.9% | 77.8% | 52.8% | 9.5% |
-
-: Residents within a quarter mile of each route's stops, ACS 2020–2024 {#tbl-neighbourhoods}
+![Route-area characteristics for Routes 22, 23, 28, and 29 across the 2015–2019 and 2020–2024 ACS periods.](../../figures/DemographicsAcrossRoutes.png){#fig-route-characteristics}
 
 Their riders are also very similar (@tbl-riders). Riders on all four routes are more likely to be people of colour and to live without a car than the average MBTA bus rider, and the fare-free routes' riders are slightly less likely to be commuting to work.
 
