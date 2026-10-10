@@ -27,7 +27,7 @@ format:
 bibliography: references.bib
 link-citations: true
 ---
-
+![](../../figures/cover.png){width=85% fig-align="center"}
 
 # Introduction
 
@@ -85,24 +85,17 @@ For example, Route 23's riders rose 1.0% while its service fell 7.2%: 1.010 ÷ 0
 
 ## Who lives along the routes and who rides them
 
-The three fare-free routes and Route 22 serve similar neighbourhoods. Figure @fig-route-characteristics compares residents, median income, poverty, vehicle access, minority share, and rent burden in each route area across the two ACS periods. Route areas can overlap, so resident counts are not unique populations.
-
-![Route-area characteristics for Routes 22, 23, 28, and 29 across the 2015–2019 and 2020–2024 ACS periods.](../../figures/DemographicsAcrossRoutes.png){#fig-route-characteristics}
-
-The map below locates the route areas and shows the tract-level income pattern. The same route geometry is used on both panels, so the map compares ACS geography and income rather than historical route changes.
+The three fare-free routes and Route 22 serve similar neighbourhoods. Figure @fig-income-map locates the four routes and shows the tract-level income pattern across the two ACS periods. The same route geometry is used on both panels, so the map compares ACS geography and income rather than historical route changes.
 
 ![Median household income by census tract along Routes 22, 23, 28, and 29, shown for two ACS periods.](../../figures/IncomeMap.png){#fig-income-map width=95%}
 
-Their riders are also very similar (@tbl-riders). Riders on all four routes are more likely to be people of colour and to live without a car than the average MBTA bus rider, and the fare-free routes' riders are slightly less likely to be commuting to work.
+Figure @fig-route-characteristics compares residents, median income, poverty, vehicle access, minority share, and rent burden in each route area across the two ACS periods. Route areas can overlap, so resident counts are not unique populations.
 
-| | Route 23 (free) | Routes 28 & 29 (free) | Route 22 (paid) | All MBTA buses |
-|---|---:|---:|---:|---:|
-| Low-income | 83.9% | 74.6% | 79.7% | 77.6% |
-| Minority | 86.9% | 88.4% | 88.3% | 69.4% |
-| No car in household | 57.6% | 57.8% | 56.1% | 48.6% |
-| Commuting to work | 39.0% | 41.3% | 43.4% | 47.3% |
+![Route-area characteristics for Routes 22, 23, 28, and 29 across the 2015–2019 and 2020–2024 ACS periods.](../../figures/DemographicsAcrossRoutes.png){#fig-route-characteristics width=95%}
 
-: Rider characteristics, 2025 System-Wide Passenger Survey (responses 2022–2025). Shares exclude riders who did not answer. Routes 28 and 29 are reported together. {#tbl-riders}
+The riders on these routes also share similar characteristics (@fig-rider-characteristics). Riders on all four routes are more likely to be people of colour and to live without a car than the average MBTA bus rider. They are also slightly less likely to be commuting to work. Routes 28 and 29 are reported together in the survey.
+
+![Rider characteristics across the fare-free routes, Route 22 and all MBTA buses, based on the 2025 System-Wide Passenger Survey (responses 2022–2025). Shares exclude riders who did not answer.](../../figures/RiderCharacteristicsByRoute.png){#fig-rider-characteristics width=95%}
 
 
 **Did free fares change who rides?** Route 23 is the only fare-free route reported separately in both surveys. Compared with all bus riders in the same year (@tbl-ridermix), Route 23's riders remain more car-free and less likely to commute to work, and they remain more likely to be low-income and people of colour. The program kept serving the same kind of riders rather than attracting a different, better-off group.
@@ -118,15 +111,15 @@ Their riders are also very similar (@tbl-riders). Riders on all four routes are 
 
 Two cautions apply to @tbl-ridermix. The MBTA's definition of "low-income" changed between the surveys, so low-income shares should be compared within a year, not across years. And the fall in work trips happened on every route, reflecting the rise of remote work rather than the fare change.
 
-Boardings per 100 residents provide another way to compare route activity with the size of nearby populations (@fig-resident-ridership). These are boardings, not counts of unique residents who ride; route areas can overlap and riders may live outside them.
-
-![Weekday boardings per 100 residents and percentage change in residents and riders on Routes 22, 23, 28, and 29.](../../figures/ResidentsvsRidership.png){#fig-resident-ridership width=95%}
-
 ## Ridership on the fare-free routes
 
 ![Weekday riders on the fare-free routes and Route 22, Fall 2016–2025](<../../figures/Weekday Riders on the Free-Fare Routes and Route 22.png>){#fig-riders-trend width=95%}
 
 All four routes collapsed in 2020 (@fig-riders-trend). Route 28 rebounded sharply in its first fare-free fall (2021), and Route 23 climbed back to its pre-COVID level after becoming free in 2022. Route 22, which kept its fare, is still below its 2019 ridership. Route 29 stayed low, reflecting the service cuts described below.
+
+Boardings per 100 residents provide another way to compare route activity with the size of nearby populations (@fig-resident-ridership). These are boardings, not counts of unique residents who ride; route areas can overlap and riders may live outside them.
+
+![Weekday boardings per 100 residents and percentage change in residents and riders on Routes 22, 23, 28, and 29.](../../figures/ResidentsvsRidership.png){#fig-resident-ridership width=95%}
 
 ### Did neighbourhood conditions change with ridership?
 
@@ -207,15 +200,13 @@ Free fares did not reverse the post-pandemic fall in bus ridership in Boston, bu
 
 The program also kept serving the riders it was designed for: people in lower-income, transit-dependent neighbourhoods, most of them people of colour and many without a car. Route 29 shows the limit of the policy. Its service was cut by more than a third and its ridership fell almost as much, so free fares cannot substitute for frequent, reliable service. As the City decides what happens after December 2026, the evidence suggests that removing fares helps routes hold on to riders, but only alongside maintaining the service those riders depend on.
 
-NEED TO ADD HERE - Future possibilities
+Future research could examine whether these ridership trends continue beyond 2026, particularly if the fare-free program is extended or discontinued. More detailed data on service frequency, reliability and passenger travel patterns would help separate the effects of free fares from changes in bus service and post-pandemic travel behaviour. Comparing Boston's experience with other cities that have introduced fare-free transit could also help establish whether the results hold beyond these three routes.
 
 # Supplementary Demographic Charts
 
 These figures provide additional views of the route-area and rider characteristics discussed above.
 
 ![Summary table of demographic characteristics by route area.](../../figures/DemographicsTable.png){#fig-demographics-table width=95%}
-
-![Selected 2025 rider characteristics by reported route group.](../../figures/RiderCharacteristicsByRoute.png){#fig-rider-characteristics width=95%}
 
 ![Share of households without a vehicle along each route in the two ACS periods.](../../figures/%25NoVehicles.png){#fig-no-vehicle width=95%}
 
