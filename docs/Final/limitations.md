@@ -4,6 +4,7 @@
 - **Other changes overlapped with the program.** COVID recovery, new bus lanes and the Bus Network Redesign happened in the same years. Comparison routes help separate these from the fare-free effect but cannot remove them entirely.
 - **Route 29 is much smaller** (about 2,100 weekday boardings in 2016 vs. about 12,000 on Routes 23 and 28). Combined totals mostly reflect Routes 23 and 28, and Route 29's percentage changes can look large from small absolute changes.
 - **No individual-level data.** Rider and resident comparisons use aggregated survey and census figures, not the same people.
+- **Bus Size** The route 29 bus size is much smaller than buses on the other routes which makes the number of riders per trip lesser in route 29. Since we do not have bus frequency data, the ridership on route 29 automatically becomes smaller.  
 
 
 ## Bus Ridership
