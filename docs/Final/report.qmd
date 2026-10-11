@@ -8,7 +8,9 @@ date: today
 date-format: "MMMM YYYY"
 abstract: |
   In 2021–2022 the City of Boston made MBTA bus Routes 23, 28 and 29 fare-free. Using MBTA ridership, service and passenger-survey data together with U.S. Census data, we compare these routes with Route 22, which serves the same neighbourhoods but kept its fare. From 2019 to 2025 the fare-free routes lost far fewer riders than comparable routes, even though they lost service while Route 22 gained it. After adjusting for service, all three fare-free routes outperformed Route 22, and the advantage of 15–17 percentage points holds against the wider bus network. Route 29, whose service was cut by more than a third, shows the limit of the policy: free fares cannot make up for fewer buses.
-format:
+  
+  **GitHub Repository:** [View project code and data](https://github.com/sahilmittal-policy/boston-mbta-ridership)
+  format:
   html:
     toc: true
     toc-depth: 2
@@ -200,7 +202,7 @@ Free fares did not reverse the post-pandemic fall in bus ridership in Boston, bu
 
 The program also kept serving the riders it was designed for: people in lower-income, transit-dependent neighbourhoods, most of them people of colour and many without a car. Route 29 shows the limit of the policy. Its service was cut by more than a third and its ridership fell almost as much, so free fares cannot substitute for frequent, reliable service. As the City decides what happens after December 2026, the evidence suggests that removing fares helps routes hold on to riders, but only alongside maintaining the service those riders depend on.
 
-Future research could examine whether these ridership trends continue beyond 2026, particularly if the fare-free program is extended or discontinued. More detailed data on service frequency, reliability and passenger travel patterns would help separate the effects of free fares from changes in bus service and post-pandemic travel behaviour. Comparing Boston's experience with other cities that have introduced fare-free transit could also help establish whether the results hold beyond these three routes.
+Future research could examine whether these ridership trends continue beyond 2026, particularly if the fare-free program is extended or discontinued. More detailed data on service frequency, reliability and passenger travel patterns would help separate the effects of free fares from changes in bus service and post-pandemic travel behaviour. Comparing Boston's experience with other cities that have introduced fare-free transit could also help establish whether the results hold beyond these three routes. For Boston, these findings suggest that continuing fare-free service should be considered alongside protecting bus frequency, particularly on routes such as Route 29 where service cuts have coincided with large ridership declines. The City and MBTA should also continue monitoring ridership, service levels and rider characteristics to assess whether the program is reaching transit-dependent populations and sustaining ridership over time.
 
 # Supplementary Demographic Charts
 
